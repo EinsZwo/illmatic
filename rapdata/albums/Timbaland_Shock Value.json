@@ -1,0 +1,1317 @@
+{
+ "_type": "album",
+ "api_path": "/albums/5395",
+ "cover_art_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+ "full_title": "Shock Value by Timbaland",
+ "id": 5395,
+ "name": "Shock Value",
+ "name_with_artist": "Shock Value (artist: Timbaland)",
+ "release_date_components": {
+  "year": 2007,
+  "month": 4,
+  "day": 3
+ },
+ "url": "https://genius.com/albums/Timbaland/Shock-value",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/112",
+  "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+  "id": 112,
+  "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+  "index_character": "t",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Timbaland",
+  "slug": "Timbaland",
+  "url": "https://genius.com/artists/Timbaland"
+ },
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/30284",
+    "artist_names": "Timbaland",
+    "full_title": "Oh Timbaland by\u00a0Timbaland",
+    "header_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "id": 30284,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1668786039,
+    "path": "/Timbaland-oh-timbaland-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Timbaland-oh-timbaland-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 2,
+     "day": 4
+    },
+    "release_date_for_display": "February 4, 2007",
+    "release_date_with_abbreviated_month_for_display": "Feb. 4, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false
+    },
+    "title": "Oh Timbaland",
+    "title_with_featured": "Oh Timbaland",
+    "updated_by_human_at": 1668786040,
+    "url": "https://genius.com/Timbaland-oh-timbaland-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/112",
+     "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+     "id": 112,
+     "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbaland",
+     "slug": "Timbaland",
+     "url": "https://genius.com/artists/Timbaland"
+    },
+    "artist": "Timbaland",
+    "lyrics": "Oh Timbaland Lyrics[Intro]\nBounce, bounce, bounce\n\n[Verse 1]\nI ain't got no feeling, I'mma let these niggas know\nI've been killin 'em with these beats\nNow I'm spittin' them killer flow\nWhat you know about me, dog? Not a damn thing\nGot a problem, nigga? Shoot me in the streets, dog\nI'm a one-man game\nDon't take this lightly, if I want you dead, you gone\nI can make that happen because, nigga, my bread is long\nI done been on both sides of the track\nYou can say I changed the game\nA lot of niggas try to get in my lane\nEverybody askin' me the same whole thing, what he say?\n[Hook]\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to?\n\n[Verse 2]\nI ain't goin' nowhere, dog, I'mma be right here in your face\nCan't do it like me, dog, your kick drum ain't got enough bass\nDon't ever talk bad about me, you just might make me mad\nAnd I just might see you somewhere and break your ass in half\nThis not a Timbaland that you used to\nNow I'm in a whole 'nother zone\nYou could let me do me, you could do you\nOr get popped in your dome\nHit love for the birds to the block, so recognize the game\nTimbaland ain't gotta run nowhere, baby\nTimbaland got private planes\n\n[Hook]\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to? (Nowhere)\nYou might also like[Bridge]\nI've been around, some time long ago\nI've seen the light, don't act like you ain't seen it before\n\n[Verse 3]\nI'm listenin' dog, you ain't sayin' shit\nYou can keep on wishin', you never make a hit\nYeah, I got money, take it all from me, I'm gon' be the same\nYou can get a few whips, you can get a few chips\nYou still gon' be a lame\nWe ain't the same, my nigga, I'm on some other shit\nI'mma say this plain and simple, nigga, take this punishment\nI'mma take ya'll on a trip, I'mma take ya'll on a ride\nAnd one day I'm gon' dip, but I won't be hard to find\n\n[Hook]\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to? (Nowhere)\nOh Timbaland, where he gon' run to?Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 12,
+    "api_path": "/songs/30280",
+    "artist_names": "Timbaland (Ft. Justin Timberlake & Nelly Furtado)",
+    "full_title": "Give It to Me by\u00a0Timbaland (Ft.\u00a0Justin\u00a0Timberlake & Nelly\u00a0Furtado)",
+    "header_image_thumbnail_url": "https://images.genius.com/c90d293e41be57cb7e435d97789d7833.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/c90d293e41be57cb7e435d97789d7833.1000x1000x1.jpg",
+    "id": 30280,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1641111383,
+    "path": "/Timbaland-give-it-to-me-lyrics",
+    "pyongs_count": 6,
+    "relationships_index_url": "https://genius.com/Timbaland-give-it-to-me-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 2,
+     "day": 6
+    },
+    "release_date_for_display": "February 6, 2007",
+    "release_date_with_abbreviated_month_for_display": "Feb. 6, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/c90d293e41be57cb7e435d97789d7833.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/c90d293e41be57cb7e435d97789d7833.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 172559
+    },
+    "title": "Give It to Me",
+    "title_with_featured": "Give It to Me (Ft.\u00a0Justin\u00a0Timberlake & Nelly\u00a0Furtado)",
+    "updated_by_human_at": 1661771664,
+    "url": "https://genius.com/Timbaland-give-it-to-me-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/334",
+      "header_image_url": "https://images.genius.com/aa6dfaa347c15f7c3b5a4c768beb5465.1000x563x1.jpg",
+      "id": 334,
+      "image_url": "https://images.genius.com/d33775ee78f5b76308d1e024eb2c5867.1000x1000x1.jpg",
+      "index_character": "j",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Justin Timberlake",
+      "slug": "Justin-timberlake",
+      "url": "https://genius.com/artists/Justin-timberlake",
+      "iq": 555
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/1505",
+      "header_image_url": "https://images.genius.com/9c3c2af749a9ed60b56ec497432403f4.1000x563x1.png",
+      "id": 1505,
+      "image_url": "https://images.genius.com/7b641d710dae3638c005aaa312e60275.1000x1000x1.png",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Nelly Furtado",
+      "slug": "Nelly-furtado",
+      "url": "https://genius.com/artists/Nelly-furtado"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/112",
+     "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+     "id": 112,
+     "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbaland",
+     "slug": "Timbaland",
+     "url": "https://genius.com/artists/Timbaland"
+    },
+    "artist": "Timbaland",
+    "lyrics": "Give It to Me Lyrics[Intro: Timbaland]\nIs it goin'? Is it goin'?\nIs it goin'? Is it going?\nI don't know what you're lookin' for\nOh, yeah, boy, come on\n\n[Verse 1: Nelly Furtado]\nI'm the type of girl that look you dead in the eye, eye\nI'm real as it comes, if you don't know why I'm fly-y-y-y-y\nI seen you to try switch it up, but girl, you ain't that dope\nI'm the Wonder Woman, let me go get my rope\nI'm a supermodel and mommy \u2014 s\u00ed, mami\nAmnesty International, got Bangkok to Montauk on lock\nLove my ass and my abs in the video called \"Promiscuous\"\nMy style is ri-dic-dic-diculous-ulous-ulous\n[Chorus: Nelly Furtado]\nIf you see us in the club, we'll be actin' real nice\nIf you see us on the floor, you'll be watchin' all night\nWe ain't here to hurt nobody (So give it to me, give it to me, give it to me)\nWanna see you work your body (So give it to me, give it to me, give it to me)\n\n[Verse 2: Timbaland]\nWhen Timbo' is in the party, everybody put up they hands\nI get a half a mil' for my beats, you get a couple gra-a-and\nNever gon' see the day that I ain't got the upper hand\nI'm respected from Californ-I-A way down to Japan\nI'm a real producer, and you just a piano man\nYour songs don't top the charts \u2014 I heard 'em, I'm not a fa-a-an\nNiggas talkin' greasy, I'm the one that gave them they chance\nSomebody need to tell 'em that they can't do it like I can\n\n[Chorus: Nelly Furtado]\nIf you see us in the club, we'll be actin' real nice\nIf you see us on the floor, you'll be watchin' all night\nWe ain't here to hurt nobody (So give it to me, give it to me, give it to me)\nWanna see you work your body (So give it to me, give it to me, give it to me)\n\n[Verse 3: Justin Timberlake]\nCould you speak up and stop mu-mumbling? I don't think you came in clear\nWhen you're sittin' on the top, it's hard to hear you from way up here\nNow I saw you tryna act cute on TV, \"Just let me clear the air...\"\nWe missed you on the charts last week \u2014 damn, that's right, you wasn't there\nIf s-sexy never left, then why is everybody on my shi-i-it?\nDon't hate on me just because you didn't come up with it\nSo if you see us in the club, go on and walk the other way\n'Cause our run will never be over \u2014 not, at least, until we say (Uh)\nYou might also like[Chorus: Nelly Furtado]\nIf you see us in the club, we'll be actin' real nice\nIf you see us on the floor, you'll be watchin' all night\nWe ain't here to hurt nobody (So give it to me, give it to me, give it to me)\nWanna see you work your body (So give it to me, give it to me, give it to me)\n\n[Break: Nelly Furtado & (Justin Timberlake)]\nOh... (Damn, improve)\nOh... (Damn, improve)\nOh... (Damn, improve)\nOh... (Damn, improve)\nOh... (Damn, improve)\nOh... (Damn, improve)\nOh... (Damn, improve)\nOh... (Damn, improve)\n\n[Chorus: Nelly Furtado]\nIf you see us in the club, we'll be actin' real nice\nIf you see us on the floor, you'll be watchin' all night\nWe ain't here to hurt nobody (So give it to me, give it to me, give it to me)\nWanna see you work your body (So give it to me, give it to me, give it to me)\nIf you see us in the club, we'll be actin' real nice\nIf you see us on the floor, you'll be watchin' all night\nWe ain't here to hurt nobody (So give it to me, give it to me, give it to me)\nWanna see you work your body (So give it to me, give it to me, give it to me)6Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/30288",
+    "artist_names": "Timbaland (Ft. Justin Timberlake)",
+    "full_title": "Release by\u00a0Timbaland (Ft.\u00a0Justin\u00a0Timberlake)",
+    "header_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "id": 30288,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1553672320,
+    "path": "/Timbaland-release-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Timbaland-release-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 2,
+     "day": 4
+    },
+    "release_date_for_display": "February 4, 2007",
+    "release_date_with_abbreviated_month_for_display": "Feb. 4, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Release",
+    "title_with_featured": "Release (Ft.\u00a0Justin\u00a0Timberlake)",
+    "updated_by_human_at": 1663119203,
+    "url": "https://genius.com/Timbaland-release-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/334",
+      "header_image_url": "https://images.genius.com/aa6dfaa347c15f7c3b5a4c768beb5465.1000x563x1.jpg",
+      "id": 334,
+      "image_url": "https://images.genius.com/d33775ee78f5b76308d1e024eb2c5867.1000x1000x1.jpg",
+      "index_character": "j",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Justin Timberlake",
+      "slug": "Justin-timberlake",
+      "url": "https://genius.com/artists/Justin-timberlake",
+      "iq": 555
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/112",
+     "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+     "id": 112,
+     "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbaland",
+     "slug": "Timbaland",
+     "url": "https://genius.com/artists/Timbaland"
+    },
+    "artist": "Timbaland",
+    "lyrics": "Release Lyrics[Intro: Timbaland]\nAlright\nHey! Clap\nOh...\n\n[Verse 1: Justin Timberlake & (Timbaland)]\nI need you, girl\nHey, I really need you\nI need you, girl (Let me tell you somethin')\nI think I'm getting a charge (Yeah)\nSo here the party goes (Yeah)\nWith all my G's in the back (Yeah)\nWho needs a bodyguard (Yeah)\nI think I need to...\n[Chorus: Justin Timberlake]\nRelease! I'm out of control, I'm out of body\nRelease! I'm out of Patron, who's here to party?\nRelease! I'm out of control, I'm out of body\nRelease! I'm out of Patron, I'm out of - (Wait a minute!)\n\n[Verse 2: Justin Timberlake & (Timbaland)]\nOhhh (Yeah)\nI push the party starts (Yeah)\nHaters can't even see me (yeah)\nWe flame the party hard (Yeah)\nI think I need to...\n\n[Chorus: Justin Timberlake]\nRelease! I'm out of control, I'm out of body\nRelease! I'm out of Patron, who's here to party?\nRelease! I'm out of control, I'm out of body\nRelease! I'm out of Patron, I'm out of - (Wait a minute!)\n\n[Post-Chorus: Timbaland]\nWho pumps the parties right?\nHe keeps the party movin'\nThe club is overpacked\nBut this can't wait 'til mornin (yeah)\n\n[Verse 3: Justin Timberlake & (Timbaland)]\nWe've got a video (Yeah)\nI think we're late for our shoot (Yeah)\nWe at our video (Yeah)\nHey - these girls, they cute! (Yeah)\nThey want me to do my part (Yeah)\nBut first I gotta...\nYou might also like[Chorus: Justin Timberlake]\nRelease! I'm out of control, I'm out of body\nRelease! I'm out of Patron, who's here to party?\nRelease! I'm out of control, I'm out of body\nRelease! I'm out of Patron, I'm out of - (Wait a minute!)\n\n[Bridge: Justin Timberlake]\nPump it...\nGet funky!\nGet funky!\nUhh, get busy\nDon't stop now..\n\n[Outro: Timbaland]\nFunk, c'mon now girl, get close to me\nWork your body\nWork your body\nWork your body\nTell somebody!\nWork your body\nWork your body\nDance (Ahh, ahh, ooh)\nDance (Ahh, ahh, ooh)Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/30290",
+    "artist_names": "Timbaland (Ft. D.O.E. (Rapper), Garland \"Sebastian\" Mosley & Keri Hilson)",
+    "full_title": "The Way I Are by\u00a0Timbaland (Ft.\u00a0D.O.E.\u00a0(Rapper), Garland\u00a0\"Sebastian\" Mosley & Keri\u00a0Hilson)",
+    "header_image_thumbnail_url": "https://images.genius.com/cc1df07d63c3a7e1f940c303e28a0d1a.300x298x1.jpg",
+    "header_image_url": "https://images.genius.com/cc1df07d63c3a7e1f940c303e28a0d1a.600x595x1.jpg",
+    "id": 30290,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1665943471,
+    "path": "/Timbaland-the-way-i-are-lyrics",
+    "pyongs_count": 19,
+    "relationships_index_url": "https://genius.com/Timbaland-the-way-i-are-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 2,
+     "day": 4
+    },
+    "release_date_for_display": "February 4, 2007",
+    "release_date_with_abbreviated_month_for_display": "Feb. 4, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/14c4547b5ddc8995209a2f2384e2f790.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/14c4547b5ddc8995209a2f2384e2f790.320x320x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 265433
+    },
+    "title": "The Way I Are",
+    "title_with_featured": "The Way I Are (Ft.\u00a0D.O.E.\u00a0(Rapper), Garland\u00a0\"Sebastian\" Mosley & Keri\u00a0Hilson)",
+    "updated_by_human_at": 1665943471,
+    "url": "https://genius.com/Timbaland-the-way-i-are-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1405359",
+      "header_image_url": "https://images.genius.com/305801fcd2c62c9279a4f945f35684be.393x393x1.jpg",
+      "id": 1405359,
+      "image_url": "https://images.genius.com/305801fcd2c62c9279a4f945f35684be.393x393x1.jpg",
+      "index_character": "g",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Garland \u201cSebastian\u201d Mosley",
+      "slug": "Garland-sebastian-mosley",
+      "url": "https://genius.com/artists/Garland-sebastian-mosley"
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/7806",
+      "header_image_url": "https://images.genius.com/6bbd0080060ce0ee93279596f84c7d37.1000x271x1.jpg",
+      "id": 7806,
+      "image_url": "https://images.genius.com/ba9a038b272a7f4bdd40b544ad1e66c5.232x232x1.jpg",
+      "index_character": "d",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "D.O.E. (Rapper)",
+      "slug": "Doe-rapper",
+      "url": "https://genius.com/artists/Doe-rapper"
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/759",
+      "header_image_url": "https://images.genius.com/1a27f30675f983a5b683e5cb88fa783e.1000x251x1.jpg",
+      "id": 759,
+      "image_url": "https://images.genius.com/fd15addc0eaae85e719b175679b4158e.886x886x1.jpg",
+      "index_character": "k",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Keri Hilson",
+      "slug": "Keri-hilson",
+      "url": "https://genius.com/artists/Keri-hilson"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/112",
+     "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+     "id": 112,
+     "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbaland",
+     "slug": "Timbaland",
+     "url": "https://genius.com/artists/Timbaland"
+    },
+    "artist": "Timbaland",
+    "lyrics": "TranslationsPortugu\u00easThe Way I Are Lyrics[Intro: Timbaland]\nState of emergency\nYeah, yeah (Yeah)\nYeah, yeah (Yeah)\nOne at a time, baby\nYeah, yeah (Yeah)\n\n[Verse 1: Timbaland]\nI ain't got no money\nI ain't got no car to take you on a date\nI can't even buy you flowers\nBut together we can be the perfect soulmates\nTalk to me, girl\n[Pre-Chorus: Keri Hilson]\n(Oh) Baby, it's alright now, you ain't gotta flaunt for me\nIf we go Dutch, you can still touch my love, it's free\nWe can work without the perks, just you and me\nThug it out 'til we get it right\n\n[Chorus: Keri Hilson, Timbaland, Both]\nBaby, if you strip, you can get a tip\n'Cause I like you just the way you are\nI'm about to strip and I'm well-equipped\nCan you handle me the way I'm are?\nI don't need the G's or the car keys\nBoy, I like you just the way you are\nLet me see ya strip, you can get a tip\n'Cause I like, I like, I like\n\n[Verse 2: Timbaland]\nI ain't got no Visa\nI ain't got no Red American Express\nWe can't go nowhere exotic\nIt don't matter 'cause I'm the one that loves you best\nTalk to me, girl\n\n[Pre-Chorus: Keri Hilson]\n(Oh) Baby, it's alright now, you ain't gotta flaunt for me\nIf we go Dutch, you can still touch my love, it's free\nWe can work without the perks, just you and me\nThug it out 'til we get it right\nYou might also like[Chorus: Keri Hilson, Timbaland, Both]\nBaby, if you strip, you can get a tip\n'Cause I like you just the way you are\nI'm about to strip and I'm well-equipped\nCan you handle me the way I'm are?\nI don't need the G's or the car keys\nBoy, I like you just the way you are\nLet me see ya strip, you can get a tip\n'Cause I like you just the way you are\n\n[Verse 3: John Doe/D.O.E]\nYeah, baby girl\nI don't got a huge ol' house, I rent a room in a house\nListen baby girl\nI ain't got a motorboat, but I can float ya boat\nSo listen baby girl\nOnce you get a dose of D.O.E., you gon' want some mo'\nSo listen baby girl\nWhen I make it, I want you there, want you there, yeah\n\n[Verse 4: Sebastian]\nYeah, my money ain't aloof like Phil and them\nAnd it's really not quite low as LSN\nYour body ain't Pamela Anderson\nIt's a struggle just to get you in the caravan\nBut listen, baby girl\nBefore I let you lose a pound, I'll buy a bigger car\nSo listen, baby girl\nI love you just the way you are, the way you are\n[Pre-Chorus: Keri Hilson]\n(Oh) Baby, it's alright now, you ain't gotta flaunt for me\nIf we go Dutch, you can still touch my love, it's free\nWe can work without the perks, just you and me\nThug it out 'til we get it right\n\n[Chorus: Keri Hilson, Timbaland, Both]\nBaby, if you strip, you can get a tip\n'Cause I like you just the way you are\nI'm about to strip and I'm well-equipped\nCan you handle me the way I'm are?\nI don't need the G's or the car keys\nBoy, I like you just the way you are\nLet me see ya strip, you can get a tip\n'Cause I like, I like, I like19Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/30275",
+    "artist_names": "Timbaland (Ft. Dr. Dre, Justin Timberlake & Missy Elliott)",
+    "full_title": "Bounce by\u00a0Timbaland (Ft.\u00a0Dr.\u00a0Dre, Justin\u00a0Timberlake & Missy\u00a0Elliott)",
+    "header_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "id": 30275,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1649953113,
+    "path": "/Timbaland-bounce-lyrics",
+    "pyongs_count": 18,
+    "relationships_index_url": "https://genius.com/Timbaland-bounce-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 2,
+     "day": 4
+    },
+    "release_date_for_display": "February 4, 2007",
+    "release_date_with_abbreviated_month_for_display": "Feb. 4, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 34673
+    },
+    "title": "Bounce",
+    "title_with_featured": "Bounce (Ft.\u00a0Dr.\u00a0Dre, Justin\u00a0Timberlake & Missy\u00a0Elliott)",
+    "updated_by_human_at": 1663119256,
+    "url": "https://genius.com/Timbaland-bounce-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/334",
+      "header_image_url": "https://images.genius.com/aa6dfaa347c15f7c3b5a4c768beb5465.1000x563x1.jpg",
+      "id": 334,
+      "image_url": "https://images.genius.com/d33775ee78f5b76308d1e024eb2c5867.1000x1000x1.jpg",
+      "index_character": "j",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Justin Timberlake",
+      "slug": "Justin-timberlake",
+      "url": "https://genius.com/artists/Justin-timberlake",
+      "iq": 555
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/1529",
+      "header_image_url": "https://images.genius.com/d91c82fa4ae2f1016fadc1c24fbbc59e.1000x333x1.jpg",
+      "id": 1529,
+      "image_url": "https://images.genius.com/085828b7d79bf8cf068b1557ca7a5e4c.1000x1000x1.jpg",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Missy Elliott",
+      "slug": "Missy-elliott",
+      "url": "https://genius.com/artists/Missy-elliott"
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/123",
+      "header_image_url": "https://images.genius.com/8f996b7d602ce42fea2b8f62d45442f2.660x371x1.png",
+      "id": 123,
+      "image_url": "https://images.genius.com/3c8cbbf8a3bd237a684c0bd81115ff0b.576x576x1.jpg",
+      "index_character": "d",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Dr. Dre",
+      "slug": "Dr-dre",
+      "url": "https://genius.com/artists/Dr-dre"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/112",
+     "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+     "id": 112,
+     "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbaland",
+     "slug": "Timbaland",
+     "url": "https://genius.com/artists/Timbaland"
+    },
+    "artist": "Timbaland",
+    "lyrics": "Bounce Lyrics[Intro]\n(Tempo has reached critical level)\n(Tempo has reached critical level)\n\n[Intro 2: Timbaland]\nCome here girl, come here girl, come here girl, bounce\nCome here girl, come here girl, come here girl, bounce\nCome here girl, come here girl, come here girl, bounce\nCome here girl, come here girl, come here gi-ir-rl\n\n[Verse 1: Timbaland]\nLet me see them big titties\nDon't be actin' sad-idy you're not pretty\nBreak bread if you wanna get with me\nAll I wanna do is dig up in them kidneys\nTell your boyfriend he better mind his business\n'Fore he end up in the trunk of my Bentley\nI'm considered a boss, you can't get me\nYou ain't got enough paper to deal with me\nBaby girl wanna two step with me\nTurn around with her ass up against me\nRoll along and got tipsy, hit it tonight, tomorrow you the mystery\nAll you haters on that ho shit miss me\nI stay strapped, security don't frisk me\nFed it off 'til the motherfucker empty\nI'll turn around and do the same shit next week, come on\n[Chorus: Justin Timberlake & (Timbaland)]\n(Bounce) like your ass had the hiccups\n(Bounce) like we was ridin' in my pickup\n(Bounce) why you lookin' so sad, baby girl? You need to cheer up\n(Bounce) I got the remedy, it's you on me and me on you\nIt's you on me and me on you and you on her\nAnd her on me, and her on you, and y'all on me\nAnd me on y'all and y'all on me\nM\u00e9nage \u00e0 trois, m\u00e9nage \u00e0 trois, ahh, uhh\n\n[Verse 2: Dr. Dre]\nThere she go, just what the doc's been lookin' for\nShe just what I need, lookin' Chinese like Sum Yung Ho\nI got a bungalow, we can disappear for a week or so\nYeah, I gotta stadium flow, Superbowl with it like I'm Dungy, yo\nOh, yes, congratulations, you run a millionaire invitation\nSorry I'm so demanding\nYou can save the dancing for back at the mansion\nAnd this money handsome, ain't that a panty anthem?\nI kill me, just like you from the back, you'll see\n\n[Chorus: Justin Timberlake & (Timbaland)]\n(Bounce) like your ass had the hiccups\n(Bounce) like we was ridin' in my pickup\n(Bounce) why you lookin' so sad, baby girl? You need to cheer up\n(Bounce) I got the remedy, it's you on me and me on you\nIt's you on me and me on you and you on her\nAnd her on me, and her on you, and y'all on me\nAnd me on y'all and y'all on me\nM\u00e9nage \u00e0 trois, m\u00e9nage \u00e0 trois, ahh, uhh\nYou might also like[Verse 3: Missy Elliott]\nHold up, hell naw, like Britney Spears, I wear no drawls\nIn the club I drink it up, goomp goomp, drink it up\nGot Patron sippin' in my cup, hey, where's your man?\nI bet that I could make him love me, oooh\nWhen he see the jugs he will wanna rush to get a quick touch\nOf this big ole butt, mmhmm, big ole butt\nThick legs, big ole jugs, legs stick like rims on the truck\nTake 'em to the crib, yeah, we gon' fuck\nYou could call me a freak, I like to get BUCK, BUCK\nAnd I don't have to do much to make him get it up\nSum Yung Ho, she worth two dollars\nI'm worth more dollars than make up beauty parlors\nI pop collars, ca-ca-ca-ca-collars\nI don't buy shots, I only buy the bottles\nOnly rich girls, we only buy the bottles\nBut like a porn star, I'm best when I swallow\n\n[Chorus: Justin Timberlake & (Timbaland)]\n(Bounce) like your ass had the hiccups\n(Bounce) like we was ridin' in my pickup\n(Bounce) why you lookin' so sad, baby girl? You need to cheer up\n(Bounce) I got the remedy, it's you on me and me on you\nIt's you on me and me on you and you on her\nAnd her on me, and her on you, and y'all on me\nAnd me on y'all and y'all on me\nM\u00e9nage \u00e0 trois, m\u00e9nage \u00e0 trois, ahh, uhh18Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/30277",
+    "artist_names": "Timbaland (Ft. 50 Cent & Tony Yayo)",
+    "full_title": "Come and Get Me by\u00a0Timbaland (Ft.\u00a050\u00a0Cent & Tony\u00a0Yayo)",
+    "header_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "id": 30277,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1553673890,
+    "path": "/Timbaland-come-and-get-me-lyrics",
+    "pyongs_count": 4,
+    "relationships_index_url": "https://genius.com/Timbaland-come-and-get-me-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 2,
+     "day": 4
+    },
+    "release_date_for_display": "February 4, 2007",
+    "release_date_with_abbreviated_month_for_display": "Feb. 4, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false
+    },
+    "title": "Come and Get Me",
+    "title_with_featured": "Come and Get Me (Ft.\u00a050\u00a0Cent & Tony\u00a0Yayo)",
+    "updated_by_human_at": 1663119296,
+    "url": "https://genius.com/Timbaland-come-and-get-me-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/108",
+      "header_image_url": "https://images.genius.com/27360d71a1b5342f0ff6b262f1b988cb.605x448x1.png",
+      "id": 108,
+      "image_url": "https://images.genius.com/10f98dca7bcd1a31222e36374544cad5.1000x1000x1.png",
+      "index_character": "0",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "50 Cent",
+      "slug": "50-cent",
+      "url": "https://genius.com/artists/50-cent",
+      "iq": 3951
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/556",
+      "header_image_url": "https://images.genius.com/c172ff23e0d5a024f3cfba0f13b9035d.356x237x1.jpg",
+      "id": 556,
+      "image_url": "https://images.genius.com/c172ff23e0d5a024f3cfba0f13b9035d.356x237x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Tony Yayo",
+      "slug": "Tony-yayo",
+      "url": "https://genius.com/artists/Tony-yayo"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/112",
+     "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+     "id": 112,
+     "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbaland",
+     "slug": "Timbaland",
+     "url": "https://genius.com/artists/Timbaland"
+    },
+    "artist": "Timbaland",
+    "lyrics": "Come and Get Me Lyrics[Intro: Timbaland]\nYeah! Yeah! It's Tim-Unit Nigga (HA HA HA)\nYeah! You know I like how I sound on that nigga! Huh!\n\n[Verse 1: Timbaland]\nUgh, nigga, your time is up, I ain't come to kid you\nI knew you niggas was dumb, but how dumb is you?\nThinkin' you could see the king when you unofficial\nYou don't wanna go to war 'cause I launch these missiles\nI'm a ride or die nigga, I be tearin' shit up\nWe ain't like them other fools, so don't compare 'em to us\nAll the hoes love a nigga, they be backin' it up\nBut me, I love money, I be stackin' it up\nWhen my bandwagon pull up, they hop on board\nThey hop right on mine and hop right off yours\nI get respect, homie, all across the board\nI get a quarter mil' a track without an award\nEver wanna test a nigga? Then come see me\nIn the street, I hold my ground like I'm concrete\nI know shit ain't sweet, so when shit get deep\nI'm rich, I can pay to have you six feet deep, nigga\n[Chorus: Timbaland]\nI give it to whoever want it, if you want it, come see me\nYou know where I'm at if you want it, if you want it, come get me\nI give it to whoever want it, if you want it, come see me\nYou know where I'm at if you want it, if you want it, come get me\n\n[Verse 2: 50 Cent]\nYeah! Nigga, you violate, I regulate, rata-tat-tat\nBigger shells, they fit in that banana clip jack\nRun and the bullseye form on your back\nHard to miss with a full clip in the mac\nI got ammo, ammo, I load, reload\nCut a nigga quick, yeah, my knife game lethal\nThat tough guy shit, nigga, that's what I see through\nYou like a three-course meal, motherfucker, I eat you\nYou food, and I'm in the mood\nSo front, I let the hammer fly\nNigga, you could duck, run for cover or die\nYour choice, you choose, I pop, you move\nLike you ain't shot, you been shot\nNigga, your blood on the street\nYou up shit's creek, you can hardly speak\nYou startin' to get weak, your eyes close, your life flash\nYour heart's slow, your heart stop, yo' ass dead, you're fucked, kid\n\n[Chorus: Timbaland]\nI give it to whoever want it, if you want it, come see me\nYou know where I'm at if you want it, if you want it, come get me\nI give it to whoever want it, if you want it, come see me\nYou know where I'm at if you want it, if you want it, come get me\nYou might also like[Verse 3: Tony Yayo]\nI'm like Nicolas Cage, Yay' is the Ghost Rider\nP89, yeah, I like my toast lighter\nCosta Rica to Brazil, I got my hoes in the Lear\nWhile your bitch bald-headed like Britney Spears\nI'm in the projects, gettin' dope and piff money\nTwo more flips, that's Anna Nicole Smith money\nFuck a G4, I'm in a G500, G450, G550\nThat's airplane talk, I'm the aviator man\nBaby AR, shoot your baby out your hands\nSpaghetti and corn bread mix got me blunted\nThis ho talkin' 'bout she don't fuck on a empty stomach\nBuy out the mall and hug the block\nA hundred thou' woodgrain in a Phantom drop\nThen I cruise in the club, got my Rug' in the club\nPay the bouncer a buck, now my uz' in the club, yeah, nigga!\n\n[Chorus: Timbaland]\nI give it to whoever want it, if you want it, come see me\nYou know where I'm at if you want it, if you want it, come get me\nI give it to whoever want it, if you want it, come see me\nYou know where I'm at if you want it, if you want it, come get me4Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/30283",
+    "artist_names": "Timbaland (Ft. Attitude & Garland \"Sebastian\" Mosley)",
+    "full_title": "Kill Yourself by\u00a0Timbaland (Ft.\u00a0Attitude & Garland\u00a0\"Sebastian\" Mosley)",
+    "header_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "id": 30283,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1605389818,
+    "path": "/Timbaland-kill-yourself-lyrics",
+    "pyongs_count": 2,
+    "relationships_index_url": "https://genius.com/Timbaland-kill-yourself-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 2,
+     "day": 4
+    },
+    "release_date_for_display": "February 4, 2007",
+    "release_date_with_abbreviated_month_for_display": "Feb. 4, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 10573
+    },
+    "title": "Kill Yourself",
+    "title_with_featured": "Kill Yourself (Ft.\u00a0Attitude & Garland\u00a0\"Sebastian\" Mosley)",
+    "updated_by_human_at": 1663119503,
+    "url": "https://genius.com/Timbaland-kill-yourself-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1405359",
+      "header_image_url": "https://images.genius.com/305801fcd2c62c9279a4f945f35684be.393x393x1.jpg",
+      "id": 1405359,
+      "image_url": "https://images.genius.com/305801fcd2c62c9279a4f945f35684be.393x393x1.jpg",
+      "index_character": "g",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Garland \u201cSebastian\u201d Mosley",
+      "slug": "Garland-sebastian-mosley",
+      "url": "https://genius.com/artists/Garland-sebastian-mosley"
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/3234",
+      "header_image_url": "https://images.genius.com/6bbd0080060ce0ee93279596f84c7d37.1000x271x1.jpg",
+      "id": 3234,
+      "image_url": "https://images.genius.com/b3e441531da78474308208f4ec39c842.279x279x1.jpg",
+      "index_character": "a",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Attitude",
+      "slug": "Attitude",
+      "url": "https://genius.com/artists/Attitude"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/112",
+     "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+     "id": 112,
+     "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbaland",
+     "slug": "Timbaland",
+     "url": "https://genius.com/artists/Timbaland"
+    },
+    "artist": "Timbaland",
+    "lyrics": "Kill Yourself Lyrics[Distorted Intro]\nGet out, you can't be in here, you have to get out\nI implore you, please?.. Please?..\nYou are all going to die down here...\n\n[Verse 1: Timbaland]\nIt's life or death, either one\nThe king is back, take head and run\nI piss and take a shit on your beats for fun\nI killed the Game, I ain't even use a gun\nWho better than me? Don't make me laugh\nI run this shit, they just chase my ass\nI ain't talkin' shit nigga just tellin' the facts\nI think all the tracks I'm hearin' from niggas is whack\nI be hearin' this niggas, what they say in their rhymes\nI took my spot, nobody gave me mine\nI make the beats, that \"Boom Boom Boom\" in they trunks\nYou disagree homie then go on and jump\nYou can bump your gums, you can say what you want\nThat's all you gon' do, 'cause you niggas is punk\nI'm number one, you ain't nuttin' but shit\nWhen they need a hit, I'm who they come to get\nTalk to me\n[Pre-Chorus: Timbaland]\nIf you got love for me, I got love for you\nIf you won't fuck with me, I won't fuck with you\nWe can do it however you wanna do\nNigga, if you won't fuck with me, I won't fuck with you\nGo 'head\n\n[Chorus: Timbaland & (Attitude)]\nKill yourself, kill yourself, kill yourself\nGo kill yourself, kill yourself, kill yourself\n(If I was you, I wouldn't feel myself)\nGo kill yourself, kill yourself, kill yourself\nGo kill yourself, kill yourself, kill yourself\n(If I was you, I wouldn't feel myself)\n\n[Verse 2: Attitude]\nYo\nHey\nI'm tired of niggas, niggas is tired\nYou ain't a G, I see bitch in your eyes\nIf you're close to me, you're supposed to be\nBut most you rap niggas is hoes to me\nWherever you from, the question i ask\nIs do you think I give a fuck, riddle me that\n'Cause in my hood you done been to hell and back\nThis sinister shit, to hell with that\nI seen them come, I seen them go\nI doubt if you can show me something I ain't seen before\nWho's supposed to be in charge, I need to know\nWhen I shake your hand, I'mma step on your toe\nGo get your gun, go get your clique\nI'mma be right here chillin' with your bitch\nYou mad at me, cause I'm getting' rich?\nWell Put the pistol to your head and empty the clip\nFuck nigga!\nYou might also like[Pre-Chorus: Timbaland]\nIf you got love for me, I got love for you\nIf you won't fuck with me, I won't fuck with you\nWe can do it however you wanna do\nNigga, if you won't fuck with me, I won't fuck with you\nGo 'head\n\n[Chorus: Timbaland & (Attitude)]\nKill yourself, kill yourself, kill yourself\nGo kill yourself, kill yourself, kill yourself\n(If I was you, I wouldn't feel myself)\nGo kill yourself, kill yourself, kill yourself\nGo kill yourself, kill yourself, kill yourself\n(If I was you, I wouldn't feel myself)\n\n[Verse 3: Sebastian]\nSee my heart, feel my pain\nSome is stars, some is lames\nHow they follow little trends to get they fame?\nI ain't snap my damn fingers to get in the game\nYou claim you rich, show me, son\nIf you got so many dollars then lone me one\nFools think they're killers they own a gun\nWhen you know you bout as sweet as a honey bun\nTrashy broads, behind the bar\nLike you tattooed your frontin' heart\nVIP bands don't make you a star\nLike we really still don't know who the fuck you are\nDon't talk behind my back, just call me nigga\nMove my heart to the side, make room to forgive ya\nIf you still wanna hang, we'll come to get ya\nPut the rope around your neck, jump my nigga\n[Distorted Outro]\nYou're all going to die down here\nGet out, get out, you can't be in here\nYou're all going to die down here2Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/30279",
+    "artist_names": "Timbaland (Ft. Magoo)",
+    "full_title": "Boardmeeting by\u00a0Timbaland (Ft.\u00a0Magoo)",
+    "header_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "id": 30279,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1605389950,
+    "path": "/Timbaland-boardmeeting-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Timbaland-boardmeeting-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 2,
+     "day": 4
+    },
+    "release_date_for_display": "February 4, 2007",
+    "release_date_with_abbreviated_month_for_display": "Feb. 4, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false
+    },
+    "title": "Boardmeeting",
+    "title_with_featured": "Boardmeeting (Ft.\u00a0Magoo)",
+    "updated_by_human_at": 1663119527,
+    "url": "https://genius.com/Timbaland-boardmeeting-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7793",
+      "header_image_url": "https://images.genius.com/e1b18f181b1487ea6877ab7da14a4970.505x640x1.jpg",
+      "id": 7793,
+      "image_url": "https://images.genius.com/dae7e7ce92fa5def89a5b46656731f49.317x317x1.jpg",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Magoo",
+      "slug": "Magoo",
+      "url": "https://genius.com/artists/Magoo"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/112",
+     "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+     "id": 112,
+     "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbaland",
+     "slug": "Timbaland",
+     "url": "https://genius.com/artists/Timbaland"
+    },
+    "artist": "Timbaland",
+    "lyrics": "Boardmeeting Lyrics[Intro: Timbaland]\nClap your hands everybody, if you got, what it takes\nI'm Timbo and I want you to know that these, are, da breaks!\n(Uh-huh, uh-huh) Hey, get your back up off the wall\n(Uh-huh, uh-huh) Hey, get your back up off the wall\n(Uh-huh, uh-huh) Hey, get your back up off the wall\n(Uh-huh, uh-huh) Huh, let me tell you\n\n[Verse 1: Timbaland]\nYou got me feenin' for your body parts\nYou said you're lonely and you need it bad\nCome and see me when you wanna start\nAnd where we're going, you don't have to ask\n[Chorus: Timbaland]\nCome to my cipher, put that blunt in the air\nLet me seduce you, let me play in your hair\nI see that you're hyper, let's take it upstairs\nHey girl, let's have a meeting, meeting\n\n[Verse 2: Timbaland]\nI know a quiet place where we can talk\nGirl, relax and let me do my thang\nBaby, I don't wanna break yo' heart\nI just wanna make you say my name\n\n[Chorus: Timbaland]\nCome to my cipher, put that blunt in the air\nLet me seduce you, let me play in your hair\nI see that you're hyper, let's take it upstairs\nHey girl, let's have a meeting, meeting\n\n[Verse 3: Magoo]\nI'mma check, make her heart break her man fo' sho'\nIn the back in my mind, girl, you in for dough\nEven though you a stunt, I'm a fan of chess\nRole-play, you the best, you supply the sess\nYes, I'm a fiend of your hole\nOne hit of you and I lose control\nI look through your eyes, I'mma see your soul\nBank roll and a hole through the cars and go\nYou might also like[Chorus: Timbaland]\nCome to my cipher, put that blunt in the air\nLet me seduce you, let me play in your hair\nI see that you're hyper, let's take it upstairs\nHey girl, let's have a meeting, meeting\n\n[Outro: Timbaland]\n(Uh-huh, uh-huh)\nGet your back up off the wall (Uh-huh, uh-huh)\nHey, get your back up off the wall (Uh-huh, uh-huh)\nGet your back up off the wall (Uh-huh, uh-huh)\nMeeting's adjourned\n(Heh, the meeting just begun, watch this)Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/30276",
+    "artist_names": "Timbaland (Ft. M$ney)",
+    "full_title": "Fantasy by\u00a0Timbaland (Ft.\u00a0M$ney)",
+    "header_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "id": 30276,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1553831620,
+    "path": "/Timbaland-fantasy-lyrics",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Timbaland-fantasy-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 2,
+     "day": 4
+    },
+    "release_date_for_display": "February 4, 2007",
+    "release_date_with_abbreviated_month_for_display": "Feb. 4, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Fantasy",
+    "title_with_featured": "Fantasy (Ft.\u00a0M$ney)",
+    "updated_by_human_at": 1663119552,
+    "url": "https://genius.com/Timbaland-fantasy-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/23561",
+      "header_image_url": "https://images.genius.com/70f3b778134084e6fa0b7f760595c1b5.300x300x1.jpg",
+      "id": 23561,
+      "image_url": "https://images.genius.com/70f3b778134084e6fa0b7f760595c1b5.300x300x1.jpg",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "M$ney",
+      "slug": "M-ney",
+      "url": "https://genius.com/artists/M-ney"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/112",
+     "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+     "id": 112,
+     "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbaland",
+     "slug": "Timbaland",
+     "url": "https://genius.com/artists/Timbaland"
+    },
+    "artist": "Timbaland",
+    "lyrics": "Fantasy Lyrics[Intro: Money]\nLet me show you, boy\nAha, are you ready?\nFantasy (oh) it could be (so) good and we\n(I was just thinkin' ... about you ... and me)\nWildest thing (you have) ever dreamed (boy)\n(So what will it be?)\n\n[Verse 1: Money]\nJust lookin' at you shorty lights a flame inside (side, side)\nI'm wondering if you can come and help put out the fire (fire, fire)\nThat you create in me, baby, tell me what you like\n'Cause I can be your all boy, I can be your love toy\nIf you ain't busy, baby, I'm all yours tonight (night)\nLet imagination take us further than the mind\nTravel in a dream (dream) we can bring something to life (alive)\nThat no one's ever seen yet, can I\n[Chorus: Money]\nShow you what it's like beyond your fantasy? (oh) it could be (so)\nGood and we... might just get it hotter than the\nWildest thing (you have) ever dreamed (boy) let me\nShow you what it's like beyond your fantasy (oh) it could be (so)\nGood and we... might just get it hotter than the\nWildest thing (you have) ever dreamed (boy)\n\n[Verse 2: Money]\nJust think of all the tasty things that we can try (try, try)\nThe come up you can have will be more than money can buy (buy) (hu-hu-hu-ho)\nWe ain't even gotta keep it quiet (quiet, quiet)\nBoy, all my walls are soundproof, I can scream your name through\nMy entire house, we will not disturb\nNone of these ol' neighbors, you'll get all that you deserve (you deserve)\nBoy, I got this on deck if you can conjure up the nerve (the nerve)\nTo come see what if feels like, can I\n\n[Chorus: Money]\nShow you what it's like beyond your fantasy? (oh) it could be (so)\nGood and we... might just get it hotter than the\nWildest thing (you have) ever dreamed (boy) let me\nShow you what it's like beyond your fantasy (oh) it could be (so)\nGood and we... might just get it hotter than the\nWildest thing (you have) ever dreamed (ever dreamed boy)\nTouch it\nYou might also like[Verse 3: Money]\nTouch it, touch it, feel it, roll around in it if you like\nTaste it, taste it, then embrace it again a second time\nDon't you waste it, you'll regret it, 'cause I can satisfy\nAny fantasy that you can come with, can I\n\n[Bridge]\nLet me\n\n[Chorus: Money]\nShow you what it's like beyond your fantasy (oh) it could be (so)\nGood and we... might just get it hotter than the\nWildest thing (you have) ever dreamed (boy) let me\nShow you what it's like beyond your fantasy (oh) it could be (so)\nGood and we... might just get it hotter than the\nWildest thing (you have) ever dreamed (boy) let me\nShow you what it's like beyond your fantasy (oh) it could be (so)\nGood and we... might just get it hotter than the\nWildest thing (you have) ever dreamed (boy)1Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/75683",
+    "artist_names": "Timbaland (Ft. Keri Hilson & Nicole Scherzinger)",
+    "full_title": "Scream by\u00a0Timbaland (Ft.\u00a0Keri\u00a0Hilson & Nicole\u00a0Scherzinger)",
+    "header_image_thumbnail_url": "https://images.genius.com/f47c778e0de30b6566bc60c5c1675c83.300x262x1.jpg",
+    "header_image_url": "https://images.genius.com/f47c778e0de30b6566bc60c5c1675c83.600x524x1.jpg",
+    "id": 75683,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 22860,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1641770483,
+    "path": "/Timbaland-scream-lyrics",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Timbaland-scream-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 2,
+     "day": 4
+    },
+    "release_date_for_display": "February 4, 2007",
+    "release_date_with_abbreviated_month_for_display": "Feb. 4, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/f47c778e0de30b6566bc60c5c1675c83.300x262x1.jpg",
+    "song_art_image_url": "https://images.genius.com/f47c778e0de30b6566bc60c5c1675c83.600x524x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 11900
+    },
+    "title": "Scream",
+    "title_with_featured": "Scream (Ft.\u00a0Keri\u00a0Hilson & Nicole\u00a0Scherzinger)",
+    "updated_by_human_at": 1641771912,
+    "url": "https://genius.com/Timbaland-scream-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/2829",
+      "header_image_url": "https://images.genius.com/d23e089c7a59d985c144053ae8223509.1000x165x1.png",
+      "id": 2829,
+      "image_url": "https://images.genius.com/1cd6381a88bd39d2e7441ea14a609148.901x901x1.jpg",
+      "index_character": "n",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Nicole Scherzinger",
+      "slug": "Nicole-scherzinger",
+      "url": "https://genius.com/artists/Nicole-scherzinger"
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/759",
+      "header_image_url": "https://images.genius.com/1a27f30675f983a5b683e5cb88fa783e.1000x251x1.jpg",
+      "id": 759,
+      "image_url": "https://images.genius.com/fd15addc0eaae85e719b175679b4158e.886x886x1.jpg",
+      "index_character": "k",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Keri Hilson",
+      "slug": "Keri-hilson",
+      "url": "https://genius.com/artists/Keri-hilson"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/112",
+     "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+     "id": 112,
+     "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbaland",
+     "slug": "Timbaland",
+     "url": "https://genius.com/artists/Timbaland"
+    },
+    "artist": "Timbaland",
+    "lyrics": "Scream Lyrics[Verse 1: Timbaland & Keri Hilson]\nI got a plan for you and I\nLet's journey across the Venetian skies\nCan I have some of your cookies?\nCan I have some of your pie?\nMay I cut the first slice? So won't you\n\n[Chorus: Timbaland, Nichole Scherzinger & Keri Hilson]\nScream, at the top of your lungs, everybody's feelin' right\nScream, at the top of your lungs, everybody's feelin' right\nScream, at the top of your lungs, everybody's feelin' right\nScream, at the top of your lungs, everybody's feelin' right\n[Verse 2: Keri Hilson]\nIntoxicated with desire\nAnd you're the designated driver, yeah\nI'm not afraid, 'cause I'm a rider, yeah\nAin't nothin' wrong with feelin' right, so won't you\n\n[Chorus: Timbaland, Nichole Scherzinger & Keri Hilson]\nScream, at the top of your lungs, everybody's feelin' right (Scream)\nScream, at the top of your lungs, everybody's feelin' right (Oh, you make me scream)\nScream, at the top of your lungs, everybody's feelin' right\nScream, at the top of your lungs, everybody's feelin' right\n\n[Verse 3: Nicole Scherzinger]\nI love it babe, got me here doing things I don't never do (I'll never do)\nYou hold me down (Down)\nThat's why I'm here, making sure things are up for you (Get it?)\nLike a getaway, when the lights go off, you turn on\nI love your place (Your place)\n'Cause I can hear the echo when you make me, ah\n\n[Break: Nicole Scherzinger & (Keri Hilson)]\nAhh, ahh, ahh (Ooh)\nAhh, ahh, ahh\nAhh, ahh, ahh\nAhh, ahh, ahh\nYou might also like[Chorus: Timbaland, Nichole Scherzinger & Keri Hilson]\n(If you're feeling good) Scream, at the top of your lungs, everybody's feelin' right\nScream, at the top of your lungs, everybody's feelin' right (Let me know)\nScream, at the top of your lungs, everybody's feelin' right (Scream)\nScream, at the top of your lungs, everybody's feelin' right (Show me it feels good)\n\n[Bridge: Keri Hilson & Nicole Scherzinger]\nIn the car, at the party\nGot his hands, on your body\nDon't fight it, ooh\nIf you like it, ooh\nIn your room, on the rooftop\nFeels good, don't stop\nDon't fight it, ooh (Don't you fight it, no)\nIf you like it, ooh (Why don't you..)\n\n[Chorus: Timbaland, Nichole Scherzinger & Keri Hilson]\nScream, at the top of your lungs, everybody's feelin' right\nScream, at the top of your lungs, everybody's feelin' right\nScream, at the top of your lungs, everybody's feelin' right\nScream, at the top of your lungs, everybody's feelin' right\n\n[Outro: Timbaland, Keri Hilson with Nicole Scherzinger]\nIf you love me, girl\nWhy don't ya (scream)\nIf it feels good why don't ya (sing it) (scream)\nUh, if you love me girl, why don't ya (scream)\nOoh, 'cause when it feels good (don't fight it, ooh)\nI ain't gonna fight it\nIf you like it, ooh\nYeah\nDon't fight it, ooh\nYeah\nIf you like it, ooh\n[Extended Outro: Timbaland]\nDon't you like that\nIt feels so good, don't it?\nGrab my hand baby\nLet's take a walk on the beach, let's clear your minds\nHold your string here\nDon't you like that beat\nYou do?\nWhat else you like?\nHmm\nI can accommodate that\nOh you like my swagger?\nYou like how I changed it up?\nI like it too baby\nBut for now\nHey the beat is going a little bit too long\nOh you like it this long? Hmm\nThat means you like to make love long?\nYeah, I feel that\nOoh\nI like how you shaking your hips to it\nIt's about to end baby, but don't you stop\nKeep it going\nKeep it going\nKeep it going\nBring it over here\nSit on my lap\nKiss me\nNo no no, right here\nYeah\nOh I like that\nOoh I like that\nOoh\nI'mma stop bullshitting, ha ha1Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/30282",
+    "artist_names": "Timbaland (Ft. Garland \"Sebastian\" Mosley & Keri Hilson)",
+    "full_title": "Miscommunication by\u00a0Timbaland (Ft.\u00a0Garland\u00a0\"Sebastian\" Mosley & Keri\u00a0Hilson)",
+    "header_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "id": 30282,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1553835357,
+    "path": "/Timbaland-miscommunication-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Timbaland-miscommunication-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 2,
+     "day": 4
+    },
+    "release_date_for_display": "February 4, 2007",
+    "release_date_with_abbreviated_month_for_display": "Feb. 4, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Miscommunication",
+    "title_with_featured": "Miscommunication (Ft.\u00a0Garland\u00a0\"Sebastian\" Mosley & Keri\u00a0Hilson)",
+    "updated_by_human_at": 1663119591,
+    "url": "https://genius.com/Timbaland-miscommunication-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1405359",
+      "header_image_url": "https://images.genius.com/305801fcd2c62c9279a4f945f35684be.393x393x1.jpg",
+      "id": 1405359,
+      "image_url": "https://images.genius.com/305801fcd2c62c9279a4f945f35684be.393x393x1.jpg",
+      "index_character": "g",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Garland \u201cSebastian\u201d Mosley",
+      "slug": "Garland-sebastian-mosley",
+      "url": "https://genius.com/artists/Garland-sebastian-mosley"
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/759",
+      "header_image_url": "https://images.genius.com/1a27f30675f983a5b683e5cb88fa783e.1000x251x1.jpg",
+      "id": 759,
+      "image_url": "https://images.genius.com/fd15addc0eaae85e719b175679b4158e.886x886x1.jpg",
+      "index_character": "k",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Keri Hilson",
+      "slug": "Keri-hilson",
+      "url": "https://genius.com/artists/Keri-hilson"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/112",
+     "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+     "id": 112,
+     "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbaland",
+     "slug": "Timbaland",
+     "url": "https://genius.com/artists/Timbaland"
+    },
+    "artist": "Timbaland",
+    "lyrics": "Miscommunication Lyrics[Intro: Sebastian]\nOh\nTwo Step\nOh\n\n[Verse 1: Timbaland]\nLet me talk to you, girl\nI'm in your part of town\nI call your phone and you're nowhere to be found\nYou do this every time\nYou be MIA every single time\nThe part that kills me\nYou'd rather chill with your friends instead of me\nHuh, but I ain't gon' be no clown\nI guess I'll call you next time I'm in your town\nThen you say to me\n[Pre-Chorus: Keri Hilson]\nSo what? I was out with my friends\nI'm a grown woman\nIt's the weekend (Oooh)\nSo what, if I don't answer my phone\nWhat if I'm not alone?\nI'm with him\nWhat's it to you?\n\n[Chorus: Keri Hilson]\nI need to get out\nYou, you, you, you, you\nAre killin' me\nYou're killin' me\nYou're killin' me\nAnd I just wanna get out\nYou you you you you\nAre killin' me\nYou're killin' me\nYou're...\nWhat you wanna do, do, do?\nWhat you wanna do, do, do?\n\n[Verse 2: Keri Hilson]\nTell me\nI cannot escape no matter what I do\nCan't get away from you\nCall me everyday and that was never cool\nGettin' on my nerves, I think it's time you knew\nOh, they gave you my number cause\nIn the train you was cuter plus\nYou looked sad and lonely (Ooooh)\nBut that's all it was, put you in the game and\nHere y'go complainin'\nWhat's up with you?\nYou might also like[Chorus: Keri Hilson]\nI need to get out\nYou, you, you, you, you\nAre killin' me\nYou're killin' me\nYou're killin' me\nAnd I just wanna get out\nYou you you you you\nAre killin' me\nYou're killin' me\nYou're...\nWhat you wanna do, do, do?\nWhat you wanna do, do, do?\n\n[Verse 3: Sebastian]\nLike \"Whoa\" lil' mama\nIt's the second time I'm callin' your number\nI ain't chasin', I ain't even no runner\nBut you know I push the Hummer in the summer\nHuh, how you hard to be reached?\nI can put you where you hard to be reached\nBlack sand on the balls of your feet\nYou can scream \"Ain't nobody gone be 'sleep\"\nThis your own private beach (Haha)\nAnd when it comes to sex\nJust a little bit of love and a little bit of that\nBaby, push your back where your ribs is at\nShare a bowl of crunch berries, how real is that? (Haha)\nI'm just jokin' of course\nI'm tryin' to put your sex game back on course\nIf you feelin' dry like you don't get moist\nIf you ever get a minute holler at your boyEmbed"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/30278",
+    "artist_names": "Timbaland (Ft. Amar & Jim Beanz)",
+    "full_title": "Bombay by\u00a0Timbaland (Ft.\u00a0Amar & Jim\u00a0Beanz)",
+    "header_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "id": 30278,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1605390894,
+    "path": "/Timbaland-bombay-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Timbaland-bombay-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 2,
+     "day": 4
+    },
+    "release_date_for_display": "February 4, 2007",
+    "release_date_with_abbreviated_month_for_display": "Feb. 4, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Bombay",
+    "title_with_featured": "Bombay (Ft.\u00a0Amar & Jim\u00a0Beanz)",
+    "updated_by_human_at": 1663119631,
+    "url": "https://genius.com/Timbaland-bombay-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/139463",
+      "header_image_url": "https://images.genius.com/779dd10d32f3484a068707bc0da0c251.838x200x1.png",
+      "id": 139463,
+      "image_url": "https://images.genius.com/0e191a577465a07ad463e77d8df3f97a.300x225x1.jpg",
+      "index_character": "j",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jim Beanz",
+      "slug": "Jim-beanz",
+      "url": "https://genius.com/artists/Jim-beanz"
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/7809",
+      "header_image_url": "https://images.genius.com/6950341d9963e56c3a58373093f9d951.600x480x1.jpg",
+      "id": 7809,
+      "image_url": "https://images.genius.com/6950341d9963e56c3a58373093f9d951.600x480x1.jpg",
+      "index_character": "a",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Amar",
+      "slug": "Amar",
+      "url": "https://genius.com/artists/Amar"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/112",
+     "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+     "id": 112,
+     "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbaland",
+     "slug": "Timbaland",
+     "url": "https://genius.com/artists/Timbaland"
+    },
+    "artist": "Timbaland",
+    "lyrics": "Bombay Lyrics[Intro: Amar & Timbaland]\n{*harmonizing for 6 seconds*}\n\nMere zindagi... tere ho gayhe (c'mon)\nYe diwanagi (huh) na roke kubi (yeah)\n\n[Verse: Amar]\nMere zindagi, tere ho gayhe (Bring it back)\nYe diwandigi, na roke kubi (Bring it back)\nMere zindagi, tere ho gayhe (Bring it back)\nYe diwandigi, na roke kubi (Break it down)\nMudhoss hayra dil mai bat kiya? (Say what?)\nAh-ha-ha-ha, pucho na; ah-ha-ha-ha, pucho na\nMudhoss hayra dil mai bat kiya?\nAh-ha-ha-ha, pucho na; ah-ha-ha-ha (Frikki-frikki-c'mon)\nAhja tu ahja mere saminay tu ahja jaanu (Ah)\nKitna tarsaoge, kitna bulaoge muchay tum (Ah)\nAhja tu ahja mere saminay tu ahja jaanu (Oh)\nKitna tashowu gay, kitna bolowo gay muchay tum (Frikki-frikki-uh)\n[Chorus: Timbaland & Amar]\nAin't no way in the world I'm gon' leave you, baby\nYou're my treasure and I got the key to you, baby\nLet's ride on my Titanic, baby\nDaily lovin' go down as one of the greatest\nThere's no me without you, you\nBaby girl, you make my dream come true, sing it to me\nTu hay tu hay, hum yaha hay\nAahoo chulay, ish jahan say\nAahoo millay, zazah millay\nUbb hum bahoto, ek ho jahay\n\n[Interlude: Timbaland]\nHey, hey, hey, hey - put it up y'all\nHey, hey, hey, hey - and give it to me\nHey, hey, hey, hey - put it up y'all\nHey, hey, hey, hey - and give it to me (C'mon)\nHey, hey, hey, hey - put it up y'all\nHey, hey, hey, hey - and give it to me\nHey, hey, hey, hey - put it up y'all\nHey, hey, hey, hey - and give it to me\nHey, hey, hey, hey - put it up y'all\nHey, hey, hey, hey - and give it to me\n\n[Post-Interlude: Timbaland]\nHey, hey, hey, hey - put it up y'all\nHey, hey, hey, hey - Jim Beamz break it down now\nYou might also like[Bridge: Jim Beamz & (Timbaland)]\nOoooooo-ah-ahhhhh, ooooooo-ah-ahhhhh (I like that, uh)\nOoooooo-ah-ahhhhh, ooooooo-ah-ahhhhh (I like that, uh)\nOoooooo-ah-ahhhhh, ooooooo-ah-ahhhhh (I like that, uh)\nOoooooo-ah-ahhhhh, ooooooo-ah-ahhhhh\n(frikki-frikki-break, down)\n\n{*skatting for the last 20 seconds*}Embed"
+   }
+  },
+  {
+   "number": 13,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/30285",
+    "artist_names": "Timbaland (Ft. The Hives)",
+    "full_title": "Throw It On Me by\u00a0Timbaland (Ft.\u00a0The\u00a0Hives)",
+    "header_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "id": 30285,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1560555799,
+    "path": "/Timbaland-throw-it-on-me-lyrics",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Timbaland-throw-it-on-me-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 2,
+     "day": 4
+    },
+    "release_date_for_display": "February 4, 2007",
+    "release_date_with_abbreviated_month_for_display": "Feb. 4, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Throw It On Me",
+    "title_with_featured": "Throw It On Me (Ft.\u00a0The\u00a0Hives)",
+    "updated_by_human_at": 1663119739,
+    "url": "https://genius.com/Timbaland-throw-it-on-me-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7812",
+      "header_image_url": "https://images.genius.com/f797326f653eb91f7ed2347f4a52bb2e.512x288x1.png",
+      "id": 7812,
+      "image_url": "https://images.genius.com/1e1e21feb2972c7049c2811b5d52f94a.959x959x1.png",
+      "index_character": "h",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "The Hives",
+      "slug": "The-hives",
+      "url": "https://genius.com/artists/The-hives"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/112",
+     "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+     "id": 112,
+     "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbaland",
+     "slug": "Timbaland",
+     "url": "https://genius.com/artists/Timbaland"
+    },
+    "artist": "Timbaland",
+    "lyrics": "Throw It On Me Lyrics[Intro: The Hives]\nThe time has come\nFlyweight champion of the world!\n(Flyweight champion of the world)\nThe time has come (hey girl)\nThe Hives\n\n[Verse 1: Timbaland]\nTake it to the back of the club\nFast talkin', don't take this the wrong way\nI've been peepin' that ass\nAnd if you give me my chance, I ain't gon' play\nI really wanna get to know ya\nThat's what I told ya girl, you know I don't play (Ow!)\nI wanna put it in your--whoa girl\nYou better do what the song say\n[Chorus: The Hives & (Timbaland)]\nUh, just throw it on me, uh, just throw it on me\nUh, just throw it on me\n(Wiggle that ass before you throw it on me)\nUh, just throw it on me, uh, just throw it on me\nUh, just throw it on me\n(Wiggle that ass before you throw it on me)\n\n[Verse 2: Timbaland]\nI got so many broads\nWhite cars I can jump in two or three in the same day (Woo-oo)\nAnd when I park my car\nSoon as I walk in the spot women say \"Ow!\" They...\nShowin' me titties\nAnd they callin' my name and all night, God damn babe (Shut up!)\nNiggas is hatin' me\n'Cause they girl wanna throw that thang on me like it's okay, girl!\n\n[Chorus: The Hives & (Timbaland)]\nUh, just throw it on me, uh, just throw it on me\nUh, just throw it on me\n(Wiggle that ass before you throw it on me)\nUh, just throw it on me, uh, just throw it on me\nUh, just throw it on me\n(Wiggle that ass before you throw it on me)\nYou might also like[Verse 3: Timbaland]\nFrom the look of at that ass\nYou probably a \"Gold Digger\" but I ain't Kanye\nBaby girl, you're on the right track\nBut you're goin' the wrong way\nAnd when we leave out the party\nBaby girl I got the game that we gon' play\nAnd when ya wake up tomorrow\nI'll be on the highway (Peace)\nHey!\n\n[Chorus: The Hives & (Timbaland)]\nUh, just throw it on me, uh, just throw it on me\nUh, just throw it on me\n(Wiggle that ass before you throw it on me)\nUh, just throw it on me, uh, just throw it on me\nUh, just throw it on me\n(Wiggle that ass before you throw it on me)\n\n[Outro: Timbaland]\nRight...\n... before you throw it on me\nRight - The Hives\n(Just throw it on me)\nThe Hives - Just throw it on me!\nJust throw it on me, just throw it on me\n(Uh-uh)\nThrow it on me, ooh yeah\nOw!1Embed"
+   }
+  },
+  {
+   "number": 14,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/30286",
+    "artist_names": "Timbaland (Ft. She Wants Revenge)",
+    "full_title": "Time by\u00a0Timbaland (Ft.\u00a0She\u00a0Wants Revenge)",
+    "header_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "id": 30286,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1605391178,
+    "path": "/Timbaland-time-lyrics",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Timbaland-time-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 2,
+     "day": 4
+    },
+    "release_date_for_display": "February 4, 2007",
+    "release_date_with_abbreviated_month_for_display": "Feb. 4, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 6793
+    },
+    "title": "Time",
+    "title_with_featured": "Time (Ft.\u00a0She\u00a0Wants Revenge)",
+    "updated_by_human_at": 1663119771,
+    "url": "https://genius.com/Timbaland-time-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7813",
+      "header_image_url": "https://images.genius.com/b3a8378f33fb290b0717b90e0e4a69c2.609x209x1.jpg",
+      "id": 7813,
+      "image_url": "https://images.genius.com/c79b608345d9d36a39008a8a29cca7d7.1000x1000x1.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "She Wants Revenge",
+      "slug": "She-wants-revenge",
+      "url": "https://genius.com/artists/She-wants-revenge"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/112",
+     "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+     "id": 112,
+     "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbaland",
+     "slug": "Timbaland",
+     "url": "https://genius.com/artists/Timbaland"
+    },
+    "artist": "Timbaland",
+    "lyrics": "Time Lyrics[Verse 1: Timbaland]\nHmm, I got a feelin' she keeps me in the dark\nI gotta keep my eye on her, she ain't no walk in the park\nI bought her this but she want that, she, she, she want it all\nYou see she wanted to paint the picture and say she my broad\nI got a little tip from the word on the block\nPeople sayin' I shouldn't get involved\nBut I didn't judge or try to change it 'cause you are who you are\nI'm like a drug, she's addicted to me, she can't keep me now\nShe always makin' plans today, come and find me tomorrow\nGoodbye, girl\n[Chorus: She Wants Revenge]\nShe's too invested in the hours that pass her by\nI'd pay attention if I thought it was worth the time\nI'd tell her easy, but her hands, they find a way\nConfusing passion for the love he never gave\nFall back on reasons that we know won't stand a chance\nWatching her shoulders like a memory from the past\nI'd tell her easy, but her hands, they find a way\nConfusing passion for the love he never gave\n\n[Verse 2: Timbaland]\nI couldn't get rid of shorty if I wanted 'cause she was down\nBut I was tired of playin' the role like I ain't know that she get around\nSomethin' 'bout this girl fascinates me\nShe's the type that like to hang with the stars\nThe way she makes me feel and sedates me\nWho knew we would take it this far?\nEverywhere that I try to go, she got a \"Wanted\" poster with my face on it\nSoon as I walk out the do', there it is, \"Wanted\" poster with my face on it\nCan't blame myself when it's not, my fault cause nothin' is promised\nAt least I can say I was honest -- goodbye, girl\n\n[Chorus: She Wants Revenge]\nShe's too invested in the hours that pass her by\nI'd pay attention if I thought it was worth the time\nI'd tell her easy, but her hands, they find a way\nConfusing passion for the love he never gave\nFall back on reasons that we know won't stand a chance\nWatching her shoulders like a memory from the past\nI'd tell her easy, but her hands, they find a way\nConfusing passion for the love he never gave\nYou might also like[Instrumental Break]\n\n[Chorus: She Wants Revenge]\nShe's too invested in the hours that pass her by\nI'd pay attention if I thought it was worth the time\nI'd tell her easy, but her hands, they find a way\nConfusing passion for the love he never gave\nFall back on reasons that we know won't stand a chance\nWatching her shoulders like a memory from the past\nI'd tell her easy, but her hands, they find a way\nConfusing passion for the love he never gave3Embed"
+   }
+  },
+  {
+   "number": 15,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/30281",
+    "artist_names": "Timbaland (Ft. Fall Out Boy)",
+    "full_title": "One and Only by\u00a0Timbaland (Ft.\u00a0Fall\u00a0Out Boy)",
+    "header_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "id": 30281,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1636677910,
+    "path": "/Timbaland-one-and-only-lyrics",
+    "pyongs_count": 6,
+    "relationships_index_url": "https://genius.com/Timbaland-one-and-only-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 2,
+     "day": 4
+    },
+    "release_date_for_display": "February 4, 2007",
+    "release_date_with_abbreviated_month_for_display": "Feb. 4, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 8168
+    },
+    "title": "One and Only",
+    "title_with_featured": "One and Only (Ft.\u00a0Fall\u00a0Out Boy)",
+    "updated_by_human_at": 1663119831,
+    "url": "https://genius.com/Timbaland-one-and-only-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7811",
+      "header_image_url": "https://images.genius.com/137599f0e17abe68d83057040170c06f.1000x525x1.jpg",
+      "id": 7811,
+      "image_url": "https://images.genius.com/09a58549b054f8e444190958b795d15d.1000x1000x1.jpg",
+      "index_character": "f",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Fall Out Boy",
+      "slug": "Fall-out-boy",
+      "url": "https://genius.com/artists/Fall-out-boy",
+      "iq": 26015
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/112",
+     "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+     "id": 112,
+     "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbaland",
+     "slug": "Timbaland",
+     "url": "https://genius.com/artists/Timbaland"
+    },
+    "artist": "Timbaland",
+    "lyrics": "One and Only Lyrics[Verse 1: Timbaland]\nUh\nI'm head over heels for someone high\nThat I really can't deal with (Deal with)\nI want to block her out my mind\nBut I really can't do it (Do it)\nI tell myself this the last time\nI'mma let her do this to me\nWhenever we do spend time\nI realize that I can't get enough of you\n[Interlude: Patrick Stump from Fall Out Boy & Timbaland]\nWipe that sm-ile off your fuckin' face (And I say to you)\nWipe that sm-ile off your face (Then I say to you)\nWipe that sm-ile off your fuckin' face (And I say to you)\nWipe that sm-ile off your face\n\n[Chorus: Patrick Stump]\nTo be despised, to be loved\nTo be dreamt of, to be sought\nI'm the inside of I don't care\nRight in the middle, I'm right in the middle\nTo be despised, to be loved\nTo be dreamt of, to be sought\nI'm the inside of I don't care\nBe my unholy, my one and my lonely\n\n[Verse 2: Patrick Stump]\nI wear scarves and hoods\n'Cause they're the only poker face that I've got left\nAnd everything I love about you is a mess\nSmash the mirror and break the palm reader's hand\nI want to be better than I am\n\n[Interlude: Patrick Stump from Fall Out Boy & Timbaland]\nWipe that sm-ile off your fuckin' face (And I say to you)\nWipe that sm-ile off your face (Then I say to you)\nWipe that sm-ile off your fuckin' face (And I say to you)\nWipe that sm-ile off your face\nYou might also like[Chorus: Patrick Stump]\nTo be despised, to be loved\nTo be dreamt of, to be sought\nI'm the inside of I don't care\nRight in the middle, I'm right in the middle\nTo be despised, to be loved\nTo be dreamt of, to be sought\nI'm the inside of I don't care\nBe my unholy, my one and my lonely\n\n[Verse 3: Timbaland]\nAOWWWWWW!\nGirl, just look what you've done\nHow could you do this to me?\nI gotta put my foot down\nI can't let you do this to me\nI can't forget those good ol' times\nAnd all the things you've been doin' to me\nI wanna hit that one mo' time\nI'm in love, what'chu doin to me\nI'mma say it loud\nWhy can't us fuck in this crowd?\nWhy we arguin'?\nI thought me and you were 'posed to be friends\nLet's chill for minute (For a minute)\nBetter yet we need to heal for a minute (For a minute)\nBaby, put down the knife\nSometimes I wanna save ya life\nBut I'm in...\n[Chorus: Patrick Stump]\nTo be despised, to be loved\nTo be dreamt of, to be sought\nI'm the inside of I don't care\nRight in the middle, I'm right in the middle\nTo be despised, to be loved\nTo be dreamt of, to be sought\nI'm the inside of I don't care\nBe my unholy, my one and my lonely\n\n[Outro: Timbaland]\nWe don't got no fuckin' band!\nWe ain't got no speakers, no fuckin' microphones set up!\nTimberland, you tunin' son of a bitch\nGet the fuck outta my house now\n'Fore I get too mad and I can't turn back\nHEY!! Didn't I say get the fuck out!\nGet the fuck out! Ha ha ha ha ha...6Embed"
+   }
+  },
+  {
+   "number": 16,
+   "song": {
+    "_type": "song",
+    "annotation_count": 4,
+    "api_path": "/songs/1830",
+    "artist_names": "Timbaland (Ft. OneRepublic)",
+    "full_title": "Apologize by\u00a0Timbaland (Ft.\u00a0OneRepublic)",
+    "header_image_thumbnail_url": "https://images.genius.com/c62d2a8299f71eb9c7921bbffd8def68.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/c62d2a8299f71eb9c7921bbffd8def68.1000x1000x1.jpg",
+    "id": 1830,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 1674,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1646189706,
+    "path": "/Timbaland-apologize-lyrics",
+    "pyongs_count": 44,
+    "relationships_index_url": "https://genius.com/Timbaland-apologize-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 2,
+     "day": 4
+    },
+    "release_date_for_display": "February 4, 2007",
+    "release_date_with_abbreviated_month_for_display": "Feb. 4, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/be684d84cf9d3e3b26f2208ddb7b4c34.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/be684d84cf9d3e3b26f2208ddb7b4c34.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 116575
+    },
+    "title": "Apologize",
+    "title_with_featured": "Apologize (Ft.\u00a0OneRepublic)",
+    "updated_by_human_at": 1646189706,
+    "url": "https://genius.com/Timbaland-apologize-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/934",
+      "header_image_url": "https://images.genius.com/b8ca2eadccb3e14e3dfe1cda57430f7e.1000x1000x1.jpg",
+      "id": 934,
+      "image_url": "https://images.genius.com/d6a861490a1229c8c906d2c943ae0b33.1000x1000x1.jpg",
+      "index_character": "o",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "OneRepublic",
+      "slug": "Onerepublic",
+      "url": "https://genius.com/artists/Onerepublic",
+      "iq": 3166
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/112",
+     "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+     "id": 112,
+     "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbaland",
+     "slug": "Timbaland",
+     "url": "https://genius.com/artists/Timbaland"
+    },
+    "artist": "Timbaland",
+    "lyrics": "Apologize Lyrics[Intro: Timbaland]\nAyy, ayy, ayy\nAyy, ayy, ayy\n\n[Verse 1: Ryan Tedder, Timbaland]\nI'm holding on your rope\nGot me ten feet off the ground\nAnd I'm hearing what you say\nBut I just can't make a sound (Ayy, ayy, ayy)\nYou tell me that you need me\nThen you go and cut me down, but wait\nYou tell me that you're sorry\nDidn't think I'd turn around, and say that\n[Chorus: Ryan Tedder, Timbaland]\nIt's too late to apologize\nIt's too late (Ayy, ayy, ayy)\nI said it's too late to apologize\nIt's too late (Ayy, ayy, ayy)\nWoah, oh-oh (Ayy, ayy, ayy)\n\n[Verse 2: Ryan Tedder]\nI'd take another chance\nTake a fall, take a shot for you, oh-woah\nI need you like a heart needs a beat\nBut it's nothing new, yeah, yeah\nI loved you with a fire red\nNow it's turning blue, and you say\nSorry like the angel\nHeaven let me think was you, but I'm afraid\n\n[Chorus: Ryan Tedder, Timbaland]\nIt's too late to apologize\nIt's too late (Ayy, ayy, ayy)\nI said it's too late to apologize\nIt's too late (Ayy, ayy, ayy)\n\n[Bridge: Ryan Tedder, Timbaland]\nWoah-woah-oh\n(Ayy, ayy, ayy)\n(Ayy, ayy, ayy)\nYou might also like[Chorus: Ryan Tedder, Timbaland]\nIt's too late to apologize\nIt's too late (Ayy, ayy, ayy)\nI said it's too late to apologize\nIt's too late (Ayy, ayy, ayy)\nIt's too late to apologize, yeah (Too late) (Ayy, ayy, ayy)\nI said it's too late to apologize, yeah\n\n[Outro: Ryan Tedder]\nI'm holding on your rope\nGot me ten feet off the ground44Embed"
+   }
+  },
+  {
+   "number": 17,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/30274",
+    "artist_names": "Timbaland (Ft. Elton John)",
+    "full_title": "2 Man Show by\u00a0Timbaland (Ft.\u00a0Elton\u00a0John)",
+    "header_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "id": 30274,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1553836390,
+    "path": "/Timbaland-2-man-show-lyrics",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Timbaland-2-man-show-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 2,
+     "day": 4
+    },
+    "release_date_for_display": "February 4, 2007",
+    "release_date_with_abbreviated_month_for_display": "Feb. 4, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/112fd1a13466966fc5e84f4f170c4646.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "2 Man Show",
+    "title_with_featured": "2 Man Show (Ft.\u00a0Elton\u00a0John)",
+    "updated_by_human_at": 1663119909,
+    "url": "https://genius.com/Timbaland-2-man-show-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/560",
+      "header_image_url": "https://images.genius.com/0da6c62176ca98e3197d3635ae8f5134.1000x333x1.jpg",
+      "id": 560,
+      "image_url": "https://images.genius.com/ec76d346c4c8b057169194c1781021fd.1000x1000x1.jpg",
+      "index_character": "e",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Elton John",
+      "slug": "Elton-john",
+      "url": "https://genius.com/artists/Elton-john"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/112",
+     "header_image_url": "https://images.genius.com/e50135b935c14cecfee2a6ef1b84d9af.960x532x1.png",
+     "id": 112,
+     "image_url": "https://images.genius.com/4510e34916379b2473ddd8392cb4d5db.563x563x1.png",
+     "index_character": "t",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Timbaland",
+     "slug": "Timbaland",
+     "url": "https://genius.com/artists/Timbaland"
+    },
+    "artist": "Timbaland",
+    "lyrics": "2 Man Show Lyrics[Verse 1: Timbaland]\nHold up y'all, hold up\nNot yet Elton, hold up\nLet the beat ride for one second\nNow...\nGo 'head John\nGo 'head John\nI like that\nYeah\nHmm\nLet's move it out, let's move it out\nBreak it down like this\n(Ooh-ooh-ooooh-ooooh-ooh-oooooh)\n(Ooh-ooh-ooooh-ooooh-ooh-oooooh)\nYeah, yeah, yeah\n(Ooh-ooh-ooooooooooh) Uh-huh (ooooooooooh) uh-huh\n(OOOOOOOOOOH!) Yeah, yeah\n(Ooh-ooh-ooooooooooh-ooooooooooh-ooh)\nLet's move it out like this (HUMMMMMMMMMMM)\nBring it in\n[Chorus: Choir & (Timbaland)]\nI heard that (yeah) come on and play that back (uh-huh)\nI'm really feelin that (yeah) c'mon let's smash the track (uh-huh)\nIt's just a regularrrrr (regular baby)\nTwo man show (uhh, uhh, uhh, uhh, uhh, I SAID)\nI heard that (yeah) come on and play that back (huh?)\nI'm really feelin that (what?) c'mon let's smash the track (uh-huh)\nIt's just a regularrrrr (regular baby)\nTwo man show (uhh, uhh, uhh, uhh, uhh)\n\n[Verse 2: Timbaland]\n(Ooh-ooh-ooooooooooh) Yeah (ooooooooooh) yeah (ooh-ooooooooooh)\nDon't it sound good to ya, don't you agree?\n(Ooh-ooh-ooooooooooh) Yeah (ooooooooooh) yeah (ooh-ooooooooooh)\nDon't it sound good to ya, don't you agree?\n(Ooh-ooh-ooooooooooh) Yeah (ooooooooooh) yeah\n(OOOOOOOOOOH!) Say what?\n(Ooh-ooh-ooooooooooh-ooooooooooh-ooh)\nBreak it down for me (HUMMMMMMMMMMM)\nSlow it up\nYeah\nUh-huh\nC'mon Elton, break it down\nElton, what, huh?\nOHHH!\nYeah\nYou might also like[Chorus: Choir & (Timbaland)]\nI heard that (I heard that) come on and play that back (come play it)\nI'm really feelin that (I'm feelin it) c'mon let's smash the track (uh yeah)\nIt's just a regularrrrr (regular baby)\nTwo man show (sounds so good, DON'T YOU AGREE?)\nI heard that (huh?) come on and play that back (HUH?)\nI'm really feelin that (YEAH?) c'mon let's smash the track (c'mon!)\nIt's just a regularrrrr (regular baby)\nTwo man show (two man show that is, me and Elton John)\n\n[Verse 3: Timbaland]\n(Ooh-ooh-ooooooooooh-ooooooooooh-ooh-ooooooooooh)\nDon't it sound good to ya, don't you agree?\n(Ooh-ooh-ooooooooooh-ooooooooooh-ooh-ooooooooooh)\nDon't it sound GOOD to ya, don't you agree?\n(Ooh-ooh-ooooooooooh-ooooooooooh) Just switch it up right here\n(OOOOOOOOOOH!) Yeah, I like that\n(Ooh-ooh-ooooooooooh) Why? (ooooooooooh-ooh)\nGimme that, gimme that (HUMMMMMMMMMMM)\n{*whispering*} I like that~!\n\n[Outro: Timbaland]\nC'mon Elton, take me to the higher levels\nGo higher than that baby\nHigher! (HUMMMMMMMMMMM)\nSwitch it up...\nI like that! Huh, huh (HUMMMMMMMMMMM)\nKill 'em\nYeah, ease it out for 'em\nI like that\nNow grab your cigar, grab your lady\nHug her tight and tell her that you love her\nUh-huh, uh-huh, uh-huh\nIt's been a pleasure y'all\nShock Value, is now, officially over\nMe, and Elton John, signin out1Embed"
+   }
+  }
+ ]
+}

@@ -1,0 +1,5016 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/1212310",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+ "id": 1212310,
+ "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "West Coast Crew",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/West-coast-crew",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 381464,
+  "annotator_login": "APH",
+  "api_path": "/referents/12653341",
+  "classification": "needs_exegesis",
+  "fragment": "West Coast Crew",
+  "id": 12653341,
+  "is_description": true,
+  "path": "/12653341/West-coast-crew/West-coast-crew",
+  "range": {
+   "content": "West Coast Crew"
+  },
+  "song_id": null,
+  "url": "https://genius.com/12653341/West-coast-crew/West-coast-crew",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/1212310",
+   "context": null,
+   "id": 1212310,
+   "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+   "link_title": "West Coast Crew",
+   "title": "West Coast Crew",
+   "type": "Artist",
+   "url": "https://genius.com/artists/West-coast-crew"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/12653341",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 12653341,
+    "pinned": false,
+    "share_url": "https://genius.com/12653341",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/12653341/West-coast-crew/West-coast-crew",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/381464",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/7502d30274ff1b93d60d6b104c3d9e0b",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/7502d30274ff1b93d60d6b104c3d9e0b",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/7502d30274ff1b93d60d6b104c3d9e0b",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/7502d30274ff1b93d60d6b104c3d9e0b",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/mhjmda4f8nuoe2qgyjd8nz5mi",
+       "human_readable_role_for_display": "Editor",
+       "id": 381464,
+       "iq": 127782,
+       "login": "APH",
+       "name": "APH",
+       "role_for_display": "editor",
+       "url": "https://genius.com/APH",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 3,
+   "api_path": "/songs/3226814",
+   "artist_names": "West Coast Crew",
+   "full_title": "Jail Bait by\u00a0West\u00a0Coast Crew",
+   "header_image_thumbnail_url": "https://images.genius.com/0634bd4091238b1fcda1d41849ad1348.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/0634bd4091238b1fcda1d41849ad1348.591x591x1.jpg",
+   "id": 3226814,
+   "language": "en",
+   "lyrics_owner_id": 381464,
+   "lyrics_state": "complete",
+   "path": "/West-coast-crew-jail-bait-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/West-coast-crew-jail-bait-sample",
+   "release_date_components": {
+    "year": 1985,
+    "month": 1,
+    "day": 1
+   },
+   "release_date_for_display": "January 1, 1985",
+   "release_date_with_abbreviated_month_for_display": "Jan. 1, 1985",
+   "song_art_image_thumbnail_url": "https://images.genius.com/0634bd4091238b1fcda1d41849ad1348.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0634bd4091238b1fcda1d41849ad1348.591x591x1.jpg",
+   "stats": {
+    "accepted_annotations": 2,
+    "contributors": 5,
+    "iq_earners": 5,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Jail Bait",
+   "title_with_featured": "Jail Bait",
+   "url": "https://genius.com/West-coast-crew-jail-bait-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1212310",
+    "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+    "id": 1212310,
+    "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "West Coast Crew",
+    "url": "https://genius.com/artists/West-coast-crew"
+   },
+   "apple_music_id": "659902191",
+   "apple_music_player_url": "https://genius.com/songs/3226814/apple_music_player",
+   "description": {
+    "plain": "This is about an encounter with a young and pretty 14-year-old girl. West Coast Crew talk about how it\u2019s not appropriate for a grown man to be around an underaged girl in bed. This is also illegal and can put them behind bars, so it\u2019s not ethical or worth your time."
+   },
+   "embed_content": "<div id='rg_embed_link_3226814' class='rg_embed_link' data-song-id='3226814'>Read <a href='https://genius.com/West-coast-crew-jail-bait-lyrics'>\u201cJail Bait\u201d by West\u00a0Coast Crew</a> on Genius</div> <script crossorigin src='//genius.com/songs/3226814/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Jam-Power Recording Studio",
+   "release_date": "1985-01-01",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/367481",
+    "cover_art_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+    "full_title": "In The Mix (West Coast Crew) by West Coast Crew",
+    "id": 367481,
+    "name": "In The Mix (West Coast Crew)",
+    "url": "https://genius.com/albums/West-coast-crew/In-the-mix-west-coast-crew",
+    "artist": {
+     "api_path": "/artists/1212310",
+     "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+     "id": 1212310,
+     "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "West Coast Crew",
+     "url": "https://genius.com/artists/West-coast-crew"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Percussionist",
+     "artists": [
+      {
+       "api_path": "/artists/1430211",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1430211,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Casanova Malone",
+       "url": "https://genius.com/artists/Casanova-malone"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/981873",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 981873,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ronnie Vann",
+       "url": "https://genius.com/artists/Ronnie-vann"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1388344",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1388344,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Koenig",
+       "url": "https://genius.com/artists/David-koenig"
+      },
+      {
+       "api_path": "/artists/1036231",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1036231,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Craig Burbidge",
+       "url": "https://genius.com/artists/Craig-burbidge"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8466285,
+    "annotator_login": "nagulxlugan",
+    "api_path": "/referents/12653342",
+    "classification": "unreviewed",
+    "fragment": "Jail Bait",
+    "id": 12653342,
+    "is_description": true,
+    "path": "/12653342/West-coast-crew-jail-bait/Jail-bait",
+    "range": {
+     "content": "Jail Bait"
+    },
+    "song_id": 3226814,
+    "url": "https://genius.com/12653342/West-coast-crew-jail-bait/Jail-bait",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3226814",
+     "client_timestamps": {
+      "updated_by_human_at": 1626228049,
+      "lyrics_updated_at": 1626228049
+     },
+     "context": "West Coast Crew",
+     "id": 3226814,
+     "image_url": "https://images.genius.com/0634bd4091238b1fcda1d41849ad1348.591x591x1.jpg",
+     "link_title": "Jail Bait by\u00a0West\u00a0Coast Crew",
+     "title": "Jail Bait",
+     "type": "Song",
+     "url": "https://genius.com/West-coast-crew-jail-bait-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/12653342",
+      "body": {
+       "plain": "This is about an encounter with a young and pretty 14-year-old girl. West Coast Crew talk about how it\u2019s not appropriate for a grown man to be around an underaged girl in bed. This is also illegal and can put them behind bars, so it\u2019s not ethical or worth your time."
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 12653342,
+      "pinned": false,
+      "share_url": "https://genius.com/12653342",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/12653342/West-coast-crew-jail-bait/Jail-bait",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8466285",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/21231aa35eb839b55806ca25a4e82a78",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/21231aa35eb839b55806ca25a4e82a78",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/21231aa35eb839b55806ca25a4e82a78",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/21231aa35eb839b55806ca25a4e82a78",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/21231aa35eb839b55806ca25a4e82a78",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8466285,
+         "iq": 1232,
+         "login": "nagulxlugan",
+         "name": "nagulxlugan",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/nagulxlugan",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=WkWx_5l-NZA"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1212310",
+     "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+     "id": 1212310,
+     "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "West Coast Crew",
+     "url": "https://genius.com/artists/West-coast-crew"
+    },
+    {
+     "api_path": "/artists/1430211",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1430211,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Casanova Malone",
+     "url": "https://genius.com/artists/Casanova-malone"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1212323",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212323,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Willie Lemon",
+     "url": "https://genius.com/artists/Willie-lemon"
+    },
+    {
+     "api_path": "/artists/1212322",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212322,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Berry",
+     "url": "https://genius.com/artists/Thomas-berry"
+    },
+    {
+     "api_path": "/artists/542442",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 542442,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Russell Smith",
+     "url": "https://genius.com/artists/Russell-smith"
+    },
+    {
+     "api_path": "/artists/1212321",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212321,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Wooley",
+     "url": "https://genius.com/artists/David-wooley"
+    },
+    {
+     "api_path": "/artists/1212320",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212320,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Amondo Calhoun",
+     "url": "https://genius.com/artists/Amondo-calhoun"
+    }
+   ],
+   "artist": "West Coast Crew",
+   "lyrics": "Jail Bait LyricsJ-j-j-jail bait\n\nJ-j-j-jail bait\n\nJ-j-j-jail bait\n\nJ-j-j-jail bait\n\nJ-j-j-jail bait\n\nJail bait\nShe's just jail bait\nJail bait\nShe's just jail bait\nJail bait\nShe's just jail bait\nJail bait\nShe's just jail bait\nThere's all kind of girls, got different ways\nAnd even some like to play silly games\nBut I like the ones that come to me straight\nAnd not to tell lies then hesitate\nFrom tryin' to say something that just don't work\n'Cause I'm not your regular Joe Spongehead jerk\nYou got drag girl, so get your country mile\nAnd girls like that I hate to see smile\nGoin' with that type can be some challenge\n(If you're the same way)\nIt will be off balance\n(And what he's tryna say)\nTo all you older guys\nA young girl could be a woman with a perfect lie\nAnd not only that, her body built so well\nSo well, good enough to put a man in jail\nAnd I'm telling you, you can do what you want\nBut there's certain limitations, the dos and don'ts\nI know it's tempting\nBut you gotta be strong\nAnd if you touch her (uh oh)\nSomething bound to go wrong\nYoung girls, some like older men\nAnd if not, accept she'll be your friend\nI don't like the girls that don't communicate\nGirls like that, I know our fake\nBut nevertheless, the image they portray\nA woman in disguise, but jail bait!\nYou might also likeJail bait\nShe's just jail bait\nJail bait\nShe's just jail bait\nJail bait\nShe's just jail bait\nJail bait\nShe's just jail bait\n\nShe was fly and fresh from head to toe\nAnd in her eyes was a sexy glow\nI told myself a lie, said I'd never play again\nIf her love, I could win\nBut feeling how I did in this case\nI couldn't let this pretty young girl go to waste\nBut I can't press things, gotta take my time\nI can't approach this babe with any line\nSo I asked her age and I asked her name\nAnd when she said 14 I felt the shame\nI said, baby are you serious, you must be kidding\nWhen I started to laugh (haha) she didn't\nThen her smile turned to a frown\nShe asked as if I put her down\nShe said am I too young for you?\nOr is it that you don't know what to do\nI said don't worry baby got it under control\n'Cause I could freak your mind, body and your soul\n'Cause when it comes to making love all through the night\nI'm just like a plumber layin' plenty of pipe\nI must agree to the fact that you're oh so fine\nAnd we should get together and spend some time\nBut these things we can't negotiate\nBecause you're just jail bait! Jail bait! Jail bait!\nJ-j-j-j-j-j-j-j\nJ-j-j-j-j-j-j-j jail bait\nJ-j-j-j-j-j-j-j\nJ-j-j-j-j-j-j-j jail bait\nJ-j-j-j-j-j-j-j\nJ-j-j-j-j-j-j-j jail bait\n\nJail bait\nShe's just jail bait\nJail bait\nShe's just jail bait\nJail bait\nShe's just jail bait\nJail bait\nShe's just jail bait\n\nDon't be Chester!\nChild molester!\n\nDon't be Chester child molester\nDon't be Chester child molester\n\nDon't be dumb!\nShe's just too young!\n\nAs time progressed my defenses grew weaker\nThe voice inside my head said go ahead and freak her\nDon't think it's wrong or feel remorse\nGet her alone and let nature take its course\nKeep it to yourself and tell no other\nWhat we do is strictly undercover\nThen she agreed and said proceed\nJust because I'm young don't mean I'm na\u00efve\nBut every time I think of your tender age\nI hear the door slam to a prisoner's cage\nSo I said save it for a rainy day\nBut then the game ended did it any old way\nFrom the pressure her physique put up on my brain\nI had to do something to release the strain\nI always regret it to the very end\nIf I had to do it over, I'd do it again\nI couldn't resist her natural beauty\nBeing a man I felt it was my duty\nTo bust her out her shell and her cocoon\nAt the right time, not too late or too soon\nAnd at that moment something told me to wait\nAnd then it said Jay, don't wait too late\nBut then I realized, I can't debate\nShe's just jail bait!\n\nJail bait\nShe's just jail bait\nJail bait\nShe's just jail bait\nJail bait\nShe's just jail bait\nJail bait\nShe's just jail bait\n\nJ-j-j-j-j-j-j-j\nJ-j-j-j-j-j-j-j jail bait\nJ-j-j-j-j-j-j-j\nJ-j-j-j-j-j-j-j jail bait\nJ-j-j-j-j-j-j-j\nJ-j-j-j-j-j-j-j jail bait\nJ-j-j-j-j-j-j-j\nJ-j-j-j-j-j-j-j jail bait\nJ-j-j-j-j-j-j-j\nJ-j-j-j-j-j-j-j jail bait\nJ-j-j-j-j-j-j-j\nJ-j-j-j-j-j-j-j jail bait\n\nDon't be Chester!\nChild molester!\n\nDon't be Chester child molester\nDon't be Chester child molester\n\nDon't be dumb!\nShe's just too young!\n\nJ-j-j-j-j-j-j-j\nJ-j-j-j-j-j-j-j jail bait\nJ-j-j-j-j-j-j-j\nJ-j-j-j-j-j-j-j jail bait\nJ-j-j-j-j-j-j-j\nJ-j-j-j-j-j-j-j jail bait\nJ-j-j-j-j-j-j-j\nJ-j-j-j-j-j-j-j jail bait\n\nJail bait!\n(Jail bait)Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3608831",
+   "artist_names": "West Coast Crew",
+   "full_title": "Jealous People by\u00a0West\u00a0Coast Crew",
+   "header_image_thumbnail_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "header_image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "id": 3608831,
+   "language": "en",
+   "lyrics_owner_id": 22594,
+   "lyrics_state": "complete",
+   "path": "/West-coast-crew-jealous-people-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/West-coast-crew-jealous-people-sample",
+   "release_date_components": {
+    "year": 1985,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1985",
+   "release_date_with_abbreviated_month_for_display": "1985",
+   "song_art_image_thumbnail_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "song_art_image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Jealous People",
+   "title_with_featured": "Jealous People",
+   "url": "https://genius.com/West-coast-crew-jealous-people-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1212310",
+    "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+    "id": 1212310,
+    "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "West Coast Crew",
+    "url": "https://genius.com/artists/West-coast-crew"
+   },
+   "apple_music_id": "659902194",
+   "apple_music_player_url": "https://genius.com/songs/3608831/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3608831' class='rg_embed_link' data-song-id='3608831'>Read <a href='https://genius.com/West-coast-crew-jealous-people-lyrics'>\u201cJealous People\u201d by West\u00a0Coast Crew</a> on Genius</div> <script crossorigin src='//genius.com/songs/3608831/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Jam-Power Recording Studio",
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/367481",
+    "cover_art_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+    "full_title": "In The Mix (West Coast Crew) by West Coast Crew",
+    "id": 367481,
+    "name": "In The Mix (West Coast Crew)",
+    "url": "https://genius.com/albums/West-coast-crew/In-the-mix-west-coast-crew",
+    "artist": {
+     "api_path": "/artists/1212310",
+     "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+     "id": 1212310,
+     "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "West Coast Crew",
+     "url": "https://genius.com/artists/West-coast-crew"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/1430211",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1430211,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Casanova Malone",
+       "url": "https://genius.com/artists/Casanova-malone"
+      }
+     ]
+    },
+    {
+     "label": "Percussionist",
+     "artists": [
+      {
+       "api_path": "/artists/1430211",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1430211,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Casanova Malone",
+       "url": "https://genius.com/artists/Casanova-malone"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/981873",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 981873,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ronnie Vann",
+       "url": "https://genius.com/artists/Ronnie-vann"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1388344",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1388344,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Koenig",
+       "url": "https://genius.com/artists/David-koenig"
+      },
+      {
+       "api_path": "/artists/1036231",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1036231,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Craig Burbidge",
+       "url": "https://genius.com/artists/Craig-burbidge"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1135197,
+    "annotator_login": "SirChuckwagon",
+    "api_path": "/referents/14179608",
+    "classification": "needs_exegesis",
+    "fragment": "Jealous People",
+    "id": 14179608,
+    "is_description": true,
+    "path": "/14179608/West-coast-crew-jealous-people/Jealous-people",
+    "range": {
+     "content": "Jealous People"
+    },
+    "song_id": 3608831,
+    "url": "https://genius.com/14179608/West-coast-crew-jealous-people/Jealous-people",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3608831",
+     "client_timestamps": {
+      "updated_by_human_at": 1616272655,
+      "lyrics_updated_at": 1616272655
+     },
+     "context": "West Coast Crew",
+     "id": 3608831,
+     "image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+     "link_title": "Jealous People by\u00a0West\u00a0Coast Crew",
+     "title": "Jealous People",
+     "type": "Song",
+     "url": "https://genius.com/West-coast-crew-jealous-people-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14179608",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14179608,
+      "pinned": false,
+      "share_url": "https://genius.com/14179608",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14179608/West-coast-crew-jealous-people/Jealous-people",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1135197",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/pg93ClvsSXisDYHY676R_1500x500",
+         "human_readable_role_for_display": "Editor",
+         "id": 1135197,
+         "iq": 75871,
+         "login": "SirChuckwagon",
+         "name": "SirChuckwagon",
+         "role_for_display": "editor",
+         "url": "https://genius.com/SirChuckwagon",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=_BCbZb9YzPs"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1212310",
+     "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+     "id": 1212310,
+     "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "West Coast Crew",
+     "url": "https://genius.com/artists/West-coast-crew"
+    },
+    {
+     "api_path": "/artists/1430211",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1430211,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Casanova Malone",
+     "url": "https://genius.com/artists/Casanova-malone"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1212320",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212320,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Amondo Calhoun",
+     "url": "https://genius.com/artists/Amondo-calhoun"
+    },
+    {
+     "api_path": "/artists/1212321",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212321,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Wooley",
+     "url": "https://genius.com/artists/David-wooley"
+    },
+    {
+     "api_path": "/artists/542442",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 542442,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Russell Smith",
+     "url": "https://genius.com/artists/Russell-smith"
+    },
+    {
+     "api_path": "/artists/1212322",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212322,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Berry",
+     "url": "https://genius.com/artists/Thomas-berry"
+    },
+    {
+     "api_path": "/artists/1212323",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212323,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Willie Lemon",
+     "url": "https://genius.com/artists/Willie-lemon"
+    }
+   ],
+   "artist": "West Coast Crew",
+   "lyrics": "Jealous People Lyrics[Chorus]\nIn today's society\nThere's this thing called jealousy\nThat takes control of you and me\nBut that's not how it's supposed to be\nIn today's society\nThere's this thing called jealousy\nThat takes control of you and me\nBut that's not how it's supposed to be\n\n[Verse 1]\nImagine all the things some people would do\nThey just give a feeling 'cause they're jealous of you\nThe material things you have for yourself\nAlways seem better to someone else\nAnd if you got something good don't let it end\nBecause of some jealous person who claims to be your friend\nYou know some of them mistakes and others are bold\nAnd some will tell you lies that never been told\nThey smile in your face and say they care\nThen go behind your back and do things unfair\nJealous people run in all races and creed\nIt makes no difference 'cause they're all about greed\nYes these are the things we learn every day\nFrom people and the crazy games they play\nYou lust for other things that people have\nWhy cry over something that you'll never have?\n[Verse 2]\nI could never figure out this jealous guy\nWho went and told his girl all kind of lies\nAll about the dudes that he knew real good\nI asked him why he did, 'cause he thought he should\nHe said his going with another girl across town\nBehind her back he was messing around\nThought he had her for a second tried to hold on strong\nBut she felt he wasn't right so she left him alone\nWell he told his girlfriend lies and that's a fact\nI thought he was his friend but he stabbed him in the back\nHe ran right home and told all the fellas\n(Why did he do that?) Because he was jealous\n\n[Chorus]\nIn today's society\nThere's this thing called jealousy\nThat takes control of you and me\nBut that's not how it's supposed to be\nIn today's society\nThere's this thing called jealousy\nThat takes control of you and me\nBut that's not how it's supposed to be\n\n[Verse 3]\nWhat people do and what people say\nDon't mean they won't be jealous of you some day\nHave you ever seen the eyes of a jealous friend?\nHe'll never stick by you through thick and thin\nThey'll talk about this and talk about that\nAnd talk about you behind your back\nOr you might have a girl that another guy likes\nHe wants her so bad he's willing to fight\nHe can't accept the fact of reality\nThat his homeboy's full of jealousy\nFighting over girls is really outrageous\nDon't let jealousy become contagious\nYou might also like[Chorus]\nIn today's society\nThere's this thing called jealousy\nThat takes control of you and me\nBut that's not how it's supposed to be\nIn today's society\nThere's this thing called jealousy\nThat takes control of you and me\nBut that's not how it's supposed to beEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3608829",
+   "artist_names": "West Coast Crew",
+   "full_title": "Put The Pipe Down by\u00a0West\u00a0Coast Crew",
+   "header_image_thumbnail_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "header_image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "id": 3608829,
+   "language": "en",
+   "lyrics_owner_id": 381464,
+   "lyrics_state": "complete",
+   "path": "/West-coast-crew-put-the-pipe-down-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/West-coast-crew-put-the-pipe-down-sample",
+   "release_date_components": {
+    "year": 1985,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1985",
+   "release_date_with_abbreviated_month_for_display": "1985",
+   "song_art_image_thumbnail_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "song_art_image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Put The Pipe Down",
+   "title_with_featured": "Put The Pipe Down",
+   "url": "https://genius.com/West-coast-crew-put-the-pipe-down-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1212310",
+    "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+    "id": 1212310,
+    "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "West Coast Crew",
+    "url": "https://genius.com/artists/West-coast-crew"
+   },
+   "apple_music_id": "659902192",
+   "apple_music_player_url": "https://genius.com/songs/3608829/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3608829' class='rg_embed_link' data-song-id='3608829'>Read <a href='https://genius.com/West-coast-crew-put-the-pipe-down-lyrics'>\u201cPut The Pipe Down\u201d by West\u00a0Coast Crew</a> on Genius</div> <script crossorigin src='//genius.com/songs/3608829/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Jam-Power Recording Studio",
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/367481",
+    "cover_art_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+    "full_title": "In The Mix (West Coast Crew) by West Coast Crew",
+    "id": 367481,
+    "name": "In The Mix (West Coast Crew)",
+    "url": "https://genius.com/albums/West-coast-crew/In-the-mix-west-coast-crew",
+    "artist": {
+     "api_path": "/artists/1212310",
+     "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+     "id": 1212310,
+     "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "West Coast Crew",
+     "url": "https://genius.com/artists/West-coast-crew"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/1430211",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1430211,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Casanova Malone",
+       "url": "https://genius.com/artists/Casanova-malone"
+      }
+     ]
+    },
+    {
+     "label": "Percussionist",
+     "artists": [
+      {
+       "api_path": "/artists/1430211",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1430211,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Casanova Malone",
+       "url": "https://genius.com/artists/Casanova-malone"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/981873",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 981873,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ronnie Vann",
+       "url": "https://genius.com/artists/Ronnie-vann"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1388344",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1388344,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Koenig",
+       "url": "https://genius.com/artists/David-koenig"
+      },
+      {
+       "api_path": "/artists/1036231",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1036231,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Craig Burbidge",
+       "url": "https://genius.com/artists/Craig-burbidge"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1135197,
+    "annotator_login": "SirChuckwagon",
+    "api_path": "/referents/14179606",
+    "classification": "needs_exegesis",
+    "fragment": "Put The Pipe Down",
+    "id": 14179606,
+    "is_description": true,
+    "path": "/14179606/West-coast-crew-put-the-pipe-down/Put-the-pipe-down",
+    "range": {
+     "content": "Put The Pipe Down"
+    },
+    "song_id": 3608829,
+    "url": "https://genius.com/14179606/West-coast-crew-put-the-pipe-down/Put-the-pipe-down",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3608829",
+     "client_timestamps": {
+      "updated_by_human_at": 1626274517,
+      "lyrics_updated_at": 1626274517
+     },
+     "context": "West Coast Crew",
+     "id": 3608829,
+     "image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+     "link_title": "Put The Pipe Down by\u00a0West\u00a0Coast Crew",
+     "title": "Put The Pipe Down",
+     "type": "Song",
+     "url": "https://genius.com/West-coast-crew-put-the-pipe-down-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14179606",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14179606,
+      "pinned": false,
+      "share_url": "https://genius.com/14179606",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14179606/West-coast-crew-put-the-pipe-down/Put-the-pipe-down",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1135197",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/pg93ClvsSXisDYHY676R_1500x500",
+         "human_readable_role_for_display": "Editor",
+         "id": 1135197,
+         "iq": 75871,
+         "login": "SirChuckwagon",
+         "name": "SirChuckwagon",
+         "role_for_display": "editor",
+         "url": "https://genius.com/SirChuckwagon",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=1CIUBM4m3Hc"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1212310",
+     "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+     "id": 1212310,
+     "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "West Coast Crew",
+     "url": "https://genius.com/artists/West-coast-crew"
+    },
+    {
+     "api_path": "/artists/1430211",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1430211,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Casanova Malone",
+     "url": "https://genius.com/artists/Casanova-malone"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1212320",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212320,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Amondo Calhoun",
+     "url": "https://genius.com/artists/Amondo-calhoun"
+    },
+    {
+     "api_path": "/artists/1212321",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212321,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Wooley",
+     "url": "https://genius.com/artists/David-wooley"
+    },
+    {
+     "api_path": "/artists/542442",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 542442,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Russell Smith",
+     "url": "https://genius.com/artists/Russell-smith"
+    },
+    {
+     "api_path": "/artists/1212322",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212322,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Berry",
+     "url": "https://genius.com/artists/Thomas-berry"
+    },
+    {
+     "api_path": "/artists/1212323",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212323,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Willie Lemon",
+     "url": "https://genius.com/artists/Willie-lemon"
+    }
+   ],
+   "artist": "West Coast Crew",
+   "lyrics": "Put The Pipe Down LyricsPut the pipe down!\nPut the pipe down!\nPut the pipe down!\nPut the pipe down!\nPut the pipe down!\n\nDid anybody turn your head on sprung?\n\nSpr-sprung!\n\nYou can't get enough of them ready rocks\nOnce you get started it's hard to stop\nYou can't get enough of them ready rocks\nYou better leave that pipe alone!\nP-p-put the pipe down!\n\nYou can't get enough of them ready rocks\nOnce you get started it's hard to stop\nYou can't get enough of them ready rocks\nYou better leave that pipe alone!\n\nP-p-put the pipe down!\n\n[Mr. Jay]\nHave you heard, the word, on the street?\nHow to turn your dollars over so easy?\nSellin' ready rocks, on, the block\nMakin' big dollars comin' in non-stop\nThe ladies now call you the new Don Juan\n'Cause you bought a convertible, fresh Nissan!\nYou know you're wrong but sling it anyway\nHelp people go down the wrong road astray\n'Cause I know a babe, named Michelle McKnight\nAnd she'll do anything to hit the pipe\nIf you got a crack, you'll get done up right\nAnytime, anywhere in broad daylight!\nIf you're a stranger she don't know\nShe'll give it up quick for a proper 5-0\n'Cause the ready rocks on, in control\nWhen it comes to pumpin' out, she can't say no!\nYou might also likeYou can't get enough of them ready rocks\nOnce you get started it's hard to stop\nYou can't get enough of them ready rocks\nYou better leave that pipe alone!\n\nPut the pipe down!\n\nYou can't get enough of them ready rocks\nOnce you get started it's hard to stop\nYou can't get enough of them ready rocks\nYou better leave that pipe alone!\n\nP-p-put the pipe down!\n\n[Lemon Lime]\nWhat does it mean, when somebody say\nI'll give up anything 'cause I'm willing to pay\nNow let me think for awhile it's at the tip of my tongue\nNo doubt in my mind, the guy is sprung\nSituations like these happen all the time\nWhen people get sprung on one little line\nKnew a very nice girl her name was Cherise\nSo sweet everyday and dear to me\nBut one day I seen somethin' I couldn't believe\nI took one look and I had to leave\n(Was it the pipe?)\nOh yes, she was smokin' it hard\nSo then I reached in my pocket and got my business card\nI said call me later, when you get home, (girl)\nI need to talk about things over the phone\nRight now I'm more shocked than I ever been\nBasin' on the pipe, it had to be my friend!\nYou can't get enough of them ready rocks\nOnce you get started it's hard to stop (Dummy!)\nYou can't get enough of them ready rocks\nYou better leave that pipe alone!\n\nP-p-put the pipe down!\n\nYou can't get enough of them ready rocks\nOnce you get started it's hard to stop (D-d-dummy!)\nYou can't get enough of them ready rocks\nYou better leave that pipe alone!\n\nP-p-put the pipe down!\n\nL-l-l-leave that pipe\nL-l-l-leave that pipe\nL-l-l-leave that pipe\nLeave that pipe alone\n\nL-l-l-leave that pipe\nL-l-l-leave that pipe\nL-l-l-leave that pipe\nLeave that pipe alone\n\n[D-Rock]\nYou used to play with slingshots\nNow you're slingin' 'caine, I said you're sellin' rocks\nWell your gang is down and you're very smart\nLooked at the things you gained since you start\nYou got diamond rings and Fila suits\nYou got a sporty car and a girl so cute\nYou got banks so fat you need a money clip\nBut when you get caught, will you ever you quit?\nBecause I knew this guy and his name was Bill\nHe had lots of money and a new Seville\nBut then don't you know, in just one night\nBill got sprung on the bass pipe\nSearchin' on the carpet, lookin' on the floor\nTryin' to find kilos 'cause he needs much more\nThat's how it was after his first crack\nUp at the place swingin' his glass bat\n\nYou can't get enough of them ready rocks\nOnce you get started it's hard to stop\nYou can't get enough of them ready rocks\nYou better leave that pipe alone!\n\nPut the pipe down!\n\nYou can't get enough of them ready rocks\nOnce you get started it's hard to stop\nYou can't get enough of them ready rocks\nYou better leave that pipe alone!\n\nPut the pipe down!\n\nYou can't get enough of them ready rocks\nOnce you get started it's hard to stop\nYou can't get enough of them ready rocks\nYou better leave that pipe alone!\n\nPut the pipe down!\nPut - the pipe - down!\nPut the pipe down!\nYou better leave that pipe alone\nLeave that pipe alone (Dum-dummy!)\n\nPut - the pipe - down!\nPut the pipe down!\nYou better leave that pipe alone\nLeave that pipe alone ([?] said!)\n\nPut the pipe down!\nP-p-put the pipe down!\nPut the pipe down!\n\nPut the pipe\nP-p-put the pipe\nP-p-put\n\n(Leave that pipe alone)\n\nP-p-put\nP-p-put the pipe down!\n\n(Leave that pipe alone)\n\nPut the pipe down!\n\nPut the pipe down!\n\nPut the pipe down!\n\nL-l-l-leave that pipe\nL-l-l-leave that pipe\nL-l-l-leave that pipe\nLeave that pipe alone\n\nPut the pipe down!\n\n(Leave that pipe alone)\n\nPut the pipe down!\n\n(Dummy!)1Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3608830",
+   "artist_names": "West Coast Crew",
+   "full_title": "Come Jam With The Crew by\u00a0West\u00a0Coast Crew",
+   "header_image_thumbnail_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "header_image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "id": 3608830,
+   "language": "en",
+   "lyrics_owner_id": 1135197,
+   "lyrics_state": "complete",
+   "path": "/West-coast-crew-come-jam-with-the-crew-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/West-coast-crew-come-jam-with-the-crew-sample",
+   "release_date_components": {
+    "year": 1985,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1985",
+   "release_date_with_abbreviated_month_for_display": "1985",
+   "song_art_image_thumbnail_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "song_art_image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Come Jam With The Crew",
+   "title_with_featured": "Come Jam With The Crew",
+   "url": "https://genius.com/West-coast-crew-come-jam-with-the-crew-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1212310",
+    "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+    "id": 1212310,
+    "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "West Coast Crew",
+    "url": "https://genius.com/artists/West-coast-crew"
+   },
+   "apple_music_id": "659902193",
+   "apple_music_player_url": "https://genius.com/songs/3608830/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3608830' class='rg_embed_link' data-song-id='3608830'>Read <a href='https://genius.com/West-coast-crew-come-jam-with-the-crew-lyrics'>\u201cCome Jam With The Crew\u201d by West\u00a0Coast Crew</a> on Genius</div> <script crossorigin src='//genius.com/songs/3608830/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Jam-Power Recording Studio",
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/367481",
+    "cover_art_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+    "full_title": "In The Mix (West Coast Crew) by West Coast Crew",
+    "id": 367481,
+    "name": "In The Mix (West Coast Crew)",
+    "url": "https://genius.com/albums/West-coast-crew/In-the-mix-west-coast-crew",
+    "artist": {
+     "api_path": "/artists/1212310",
+     "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+     "id": 1212310,
+     "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "West Coast Crew",
+     "url": "https://genius.com/artists/West-coast-crew"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/1430211",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1430211,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Casanova Malone",
+       "url": "https://genius.com/artists/Casanova-malone"
+      }
+     ]
+    },
+    {
+     "label": "Percussionist",
+     "artists": [
+      {
+       "api_path": "/artists/1430211",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1430211,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Casanova Malone",
+       "url": "https://genius.com/artists/Casanova-malone"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/981873",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 981873,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ronnie Vann",
+       "url": "https://genius.com/artists/Ronnie-vann"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1388344",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1388344,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Koenig",
+       "url": "https://genius.com/artists/David-koenig"
+      },
+      {
+       "api_path": "/artists/1036231",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1036231,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Craig Burbidge",
+       "url": "https://genius.com/artists/Craig-burbidge"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1135197,
+    "annotator_login": "SirChuckwagon",
+    "api_path": "/referents/14179607",
+    "classification": "needs_exegesis",
+    "fragment": "Come Jam With The Crew",
+    "id": 14179607,
+    "is_description": true,
+    "path": "/14179607/West-coast-crew-come-jam-with-the-crew/Come-jam-with-the-crew",
+    "range": {
+     "content": "Come Jam With The Crew"
+    },
+    "song_id": 3608830,
+    "url": "https://genius.com/14179607/West-coast-crew-come-jam-with-the-crew/Come-jam-with-the-crew",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3608830",
+     "client_timestamps": {
+      "updated_by_human_at": 1571336365,
+      "lyrics_updated_at": 1571336325
+     },
+     "context": "West Coast Crew",
+     "id": 3608830,
+     "image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+     "link_title": "Come Jam With The Crew by\u00a0West\u00a0Coast Crew",
+     "title": "Come Jam With The Crew",
+     "type": "Song",
+     "url": "https://genius.com/West-coast-crew-come-jam-with-the-crew-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14179607",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14179607,
+      "pinned": false,
+      "share_url": "https://genius.com/14179607",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14179607/West-coast-crew-come-jam-with-the-crew/Come-jam-with-the-crew",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1135197",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/pg93ClvsSXisDYHY676R_1500x500",
+         "human_readable_role_for_display": "Editor",
+         "id": 1135197,
+         "iq": 75871,
+         "login": "SirChuckwagon",
+         "name": "SirChuckwagon",
+         "role_for_display": "editor",
+         "url": "https://genius.com/SirChuckwagon",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Dy6XHpcYCZU"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1212310",
+     "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+     "id": 1212310,
+     "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "West Coast Crew",
+     "url": "https://genius.com/artists/West-coast-crew"
+    },
+    {
+     "api_path": "/artists/1430211",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1430211,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Casanova Malone",
+     "url": "https://genius.com/artists/Casanova-malone"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1212320",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212320,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Amondo Calhoun",
+     "url": "https://genius.com/artists/Amondo-calhoun"
+    },
+    {
+     "api_path": "/artists/1212321",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212321,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Wooley",
+     "url": "https://genius.com/artists/David-wooley"
+    },
+    {
+     "api_path": "/artists/542442",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 542442,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Russell Smith",
+     "url": "https://genius.com/artists/Russell-smith"
+    },
+    {
+     "api_path": "/artists/1212322",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212322,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Berry",
+     "url": "https://genius.com/artists/Thomas-berry"
+    },
+    {
+     "api_path": "/artists/1212323",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212323,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Willie Lemon",
+     "url": "https://genius.com/artists/Willie-lemon"
+    }
+   ],
+   "artist": "West Coast Crew",
+   "lyrics": "Come Jam With The Crew Lyrics[Intro]\nMr. J: Yo, what's poppin' D?\nD-Rock: What's up J man, I'm just chillin' the most\nMr. J: Lemon Lime\nLemon Lime: What's up baby boy?\nMr. J: Big boys can't get none this year huh?\nLemon Lime: You know how we do it in '86 partna\nMr. J: Yo, D, are you ready to rock the house man?\nD-Rock: Yeah, man, we might as well rock the house man\nMr. J: Well, let's go ahead and do it\nD-Rock: Word\nMr. J: Hey fellas, check this out\n[Verse 1: Mr. J]\nI said hello guys and hello girls\nI'd like to wish love and happiness around the world\n'Cause I'm Mr. J and I'm the ultimate cool\nI'm a certified member of the West Coast Crew\nLivin' life, cuttin' it up, so sweet\nAnd on my side, is D-Rock-D\nAnd Cassanova's down on the keyboards\nHe's comin' fresh with brand new chords, so\n\n[Verse: Backup Singers & Mr. J]\nIf you like the beat come and jam with the crew (Aw yeah)\nIf you like the beat then come on in and jam (Just the girls)\nIf you like the beat come and jam with the crew (Real sexy baby)\nIf you like the beat then come on in and jam\n\nListen to me\n\n[Verse 2: Lemon Lime]\nAll you big time DJs that's out there\nI wanna let you all know that we do care\nBecause we, made this record, just for you\nAnd you can spin it on a turntable, if you choose\nFrom front to front and from back to back\nYou can spit up on your chin, don't give it no slack\nBecause it's the Lemon Lime and that's my name\nI do it this way, no shame to my game\nYou might also like[Verse: Backup Singers]\nIf you like the beat come and jam with the crew\nIf you like the beat then come on in and jam\nIf you like the beat come and jam with the crew\nIf you like the beat then come on in and jam\n\nAww yeah\nAww\n\n[Verse 3]\nWell thank you fellas, we sure sound good\nI hope they like us in your neighborhood\nI said the West Coast Crew on the radio\nNobody at home, ever thought so\nI said, but here we are, and we're havin' big fun\nWent to New York, L.A. and Washington, and said ah\nAll you girls, sing along\nAnd freak to the beat, you know you can't go wrong\n\n[Verse: Backup Singers]\nIf you like the beat come and jam with the crew\nIf you like the beat then come on in and jam\nIf you like the beat come and jam with the crew\nIf you like the beat then come on in and jam\n\n[Outro: Backup Singers]\nIf you like the beat come and jam with the crew\nIf you like the beat then come on in and jam\nIf you like the beat come and jam with the crew\nIf you like the beat then come on in and jamEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3608832",
+   "artist_names": "West Coast Crew",
+   "full_title": "D.O.A. by\u00a0West\u00a0Coast Crew",
+   "header_image_thumbnail_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "header_image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "id": 3608832,
+   "language": "en",
+   "lyrics_owner_id": 626613,
+   "lyrics_state": "complete",
+   "path": "/West-coast-crew-doa-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/West-coast-crew-doa-sample",
+   "release_date_components": {
+    "year": 1985,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1985",
+   "release_date_with_abbreviated_month_for_display": "1985",
+   "song_art_image_thumbnail_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "song_art_image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 5,
+    "iq_earners": 3,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "D.O.A.",
+   "title_with_featured": "D.O.A.",
+   "url": "https://genius.com/West-coast-crew-doa-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1212310",
+    "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+    "id": 1212310,
+    "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "West Coast Crew",
+    "url": "https://genius.com/artists/West-coast-crew"
+   },
+   "apple_music_id": "659902195",
+   "apple_music_player_url": "https://genius.com/songs/3608832/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3608832' class='rg_embed_link' data-song-id='3608832'>Read <a href='https://genius.com/West-coast-crew-doa-lyrics'>\u201cD.O.A.\u201d by West\u00a0Coast Crew</a> on Genius</div> <script crossorigin src='//genius.com/songs/3608832/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Jam-Power Recording Studio",
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/367481",
+    "cover_art_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+    "full_title": "In The Mix (West Coast Crew) by West Coast Crew",
+    "id": 367481,
+    "name": "In The Mix (West Coast Crew)",
+    "url": "https://genius.com/albums/West-coast-crew/In-the-mix-west-coast-crew",
+    "artist": {
+     "api_path": "/artists/1212310",
+     "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+     "id": 1212310,
+     "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "West Coast Crew",
+     "url": "https://genius.com/artists/West-coast-crew"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/1430211",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1430211,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Casanova Malone",
+       "url": "https://genius.com/artists/Casanova-malone"
+      }
+     ]
+    },
+    {
+     "label": "Percussionist",
+     "artists": [
+      {
+       "api_path": "/artists/1430211",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1430211,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Casanova Malone",
+       "url": "https://genius.com/artists/Casanova-malone"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/981873",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 981873,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ronnie Vann",
+       "url": "https://genius.com/artists/Ronnie-vann"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1388344",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1388344,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Koenig",
+       "url": "https://genius.com/artists/David-koenig"
+      },
+      {
+       "api_path": "/artists/1036231",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1036231,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Craig Burbidge",
+       "url": "https://genius.com/artists/Craig-burbidge"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1135197,
+    "annotator_login": "SirChuckwagon",
+    "api_path": "/referents/14179609",
+    "classification": "needs_exegesis",
+    "fragment": "D.O.A.",
+    "id": 14179609,
+    "is_description": true,
+    "path": "/14179609/West-coast-crew-doa/Doa",
+    "range": {
+     "content": "D.O.A."
+    },
+    "song_id": 3608832,
+    "url": "https://genius.com/14179609/West-coast-crew-doa/Doa",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3608832",
+     "client_timestamps": {
+      "updated_by_human_at": 1625407276,
+      "lyrics_updated_at": 1625407277
+     },
+     "context": "West Coast Crew",
+     "id": 3608832,
+     "image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+     "link_title": "D.O.A. by\u00a0West\u00a0Coast Crew",
+     "title": "D.O.A.",
+     "type": "Song",
+     "url": "https://genius.com/West-coast-crew-doa-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14179609",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14179609,
+      "pinned": false,
+      "share_url": "https://genius.com/14179609",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14179609/West-coast-crew-doa/Doa",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1135197",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/pg93ClvsSXisDYHY676R_1500x500",
+         "human_readable_role_for_display": "Editor",
+         "id": 1135197,
+         "iq": 75871,
+         "login": "SirChuckwagon",
+         "name": "SirChuckwagon",
+         "role_for_display": "editor",
+         "url": "https://genius.com/SirChuckwagon",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=2PmpEJu8J4U"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1212310",
+     "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+     "id": 1212310,
+     "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "West Coast Crew",
+     "url": "https://genius.com/artists/West-coast-crew"
+    },
+    {
+     "api_path": "/artists/1430211",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1430211,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Casanova Malone",
+     "url": "https://genius.com/artists/Casanova-malone"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1212320",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212320,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Amondo Calhoun",
+     "url": "https://genius.com/artists/Amondo-calhoun"
+    },
+    {
+     "api_path": "/artists/1212321",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212321,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Wooley",
+     "url": "https://genius.com/artists/David-wooley"
+    },
+    {
+     "api_path": "/artists/542442",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 542442,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Russell Smith",
+     "url": "https://genius.com/artists/Russell-smith"
+    },
+    {
+     "api_path": "/artists/1212322",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212322,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Berry",
+     "url": "https://genius.com/artists/Thomas-berry"
+    },
+    {
+     "api_path": "/artists/1212323",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212323,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Willie Lemon",
+     "url": "https://genius.com/artists/Willie-lemon"
+    }
+   ],
+   "artist": "West Coast Crew",
+   "lyrics": "D.O.A. Lyrics[Chorus 1]\nFreak don't wanna party\nFreak don't want romance\nFreak can't give it up, no play\nShe came to the set D.O.A., uh D.O.A\nFreak don't wanna party\nFreak don't want romance (Freak don't want romance)\nFreak can't give it up, no play (Freak can't give it up, no play)\nShe came to the set D.O.A. (She came to the set...)\n\n[Verse 1: Mr. Jay]\nD.O.A. (Hit it!)\nI walk through the door and I can see that she was bored\nSo I said \"What's your name?\" and she started to play games\nI said \"Baby, what is wrong? Don't you know, I got it going on\"\nAnd she said \"J, I have heard, about you, the latest word\"\nAnd all the rumors, she believed, so I put my [?] down, I must leave\nDon't you know I got class, and I'm debonair\nAnd contrary to rumor I'm all out there\nThen she started acting rude, and she got an attitude\nAnd I said \"Since you wanna be alone, somebody take this dead girl home\" 'cause the...\n[Chorus 2]\nFreak don't wanna party\nFreak don't want romance\nFreak can't give it up, no play\nShe came to the set D.O.A\nBitch don't wanna party\nFreak don't want romance\nFreak can't give it up, no play\nShe came to the set D.O.A\nA D.O.A\n\n[Verse 2: D-Rock-D]\nFrom the way she acted and the way her body packed it\nShe stimulated my attention, and my kinkiness reacted\nShe was standing on the wall, with a black lace camisole\nI said \"Sexy, won't you dance?\", but she said \"Sorry, there's no chance\"\nI told her \"Baby, what's the deal? You don't know how you make D-Rock feel\nI want to take you home with all that lace and just make love on the fireplace\nWe'll drink champagne and have some laughs, and then afterwards I'll give you a bath\nLay you to rest in satin sheets and kiss my way up from your seat\"\nThen J said...\n\n[Chorus 2]\nFreak don't wanna party\nFreak don't want romance\nFreak can't give it up, no play\nShe came to the set D.O.A\nBitch don't wanna party\nFreak don't want romance\nFreak can't give it up, no play\nShe came to the set D.O.A\nYou might also like[Bridge]\nI think she needs a revival\nShe came here dead on arrival\nI think she needs a revival\nShe came here dead on arrival\nD.O.A\n\n[Verse 3: Lemon Lime]\nSee this girl at a party that had caught my eye\nSo I thought to myself, yes I would try\nTo grab her by the hand so we could dance\nBut quickly to the bathroom she had ran\nOh my, oh my, is it something I said?\nOr is it that my rap is dead?\nNah, it couldn't be, my rhyme is too def\nRight now, Lemon Lime is above the rest\nI waited 'til she came out the ladies room\nAnd at the moment [?]\nThat she could be my girl for the rest of the night\nBut something inside didn't feel alright\nBut then I kept thinking to myself\nI better try to find me somebody else\nBecause a high-pitched voice said \"Get away\nHave you heard Lemon Lime, she's D.O.A.!\"\n\n[Chorus 2]\nFreak don't wanna party\nFreak don't want romance\nFreak can't give it up, no play\nShe came to the set D.O.A\nFreak don't wanna party\nFreak don't want romance\nFreak can't give it up, no play\nShe came to the set D.O.A\n[Bridge]\nI think she needs a revival\nShe came here dead on arrival\nI think she needs a revival\nShe came here dead on arrival\nD.O.A\n\n[Chorus 1]\nFreak don't wanna party\nFreak don't want romance\nFreak can't give it up, no play\nShe came to the set D.O.A., uh D.O.A (another one!)\nFreak don't wanna party (Freak don't wanna party)\nFreak don't want romance (Freak don't want romance)\nFreak can't give it up, no play (Freak can't give it up, no play)\nShe came to the set D.O.A. (she came to the set D.O.A.)\n\n[Chorus 3]\nEverybody!\nFreak don't wanna party\nFreak don't want romance\nFreak can't give it up, no play\nShe came to the set D.O.A\nFreak don't wanna party\nFreak wanna be alone\nFreak don't have a name\nSomebody take this dead freak home\nFreak don't wanna party\nFreak don't want romance\nFreak ain't giving up no play\nShe came to the set D.O.A\nFreak don't wanna party\nFreak wanna be alone\nFreak don't have a name\nSomebody take this dead freak home\n\n[Instrumental]\n\n[Chorus 3]\nFreak don't wanna party\nFreak don't want romance\nFreak can't give it up, no play\nShe came to the set D.O.A\nFreak don't wanna party\nFreak wanna be alone\nFreak don't have a name\nSomebody take this dead freak home, this dead freak home\nHit me!\n\n[Outro]\nJust take her home, just take her home\nWon't let me bone, just take her home\nJust take her home, just take her home\nWon't let me bone, just take her home\nJust take her home, just take her home\nWon't let me bone, just take her home\nJust take her home, just take her home\nWon't let me bone, just take her home\nShe was D.O.A\nShe was D.O.A\nShe was D.O.AEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5833497",
+   "artist_names": "West Coast Crew",
+   "full_title": "We Are The Crew by\u00a0West\u00a0Coast Crew",
+   "header_image_thumbnail_url": "https://images.genius.com/6b06b55f22f80d8f667d71e62ccb736e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/6b06b55f22f80d8f667d71e62ccb736e.593x593x1.jpg",
+   "id": 5833497,
+   "language": "en",
+   "lyrics_owner_id": 22594,
+   "lyrics_state": "complete",
+   "path": "/West-coast-crew-we-are-the-crew-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/West-coast-crew-we-are-the-crew-sample",
+   "release_date_components": {
+    "year": 1984,
+    "month": 1,
+    "day": 1
+   },
+   "release_date_for_display": "January 1, 1984",
+   "release_date_with_abbreviated_month_for_display": "Jan. 1, 1984",
+   "song_art_image_thumbnail_url": "https://images.genius.com/6b06b55f22f80d8f667d71e62ccb736e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/6b06b55f22f80d8f667d71e62ccb736e.593x593x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "We Are The Crew",
+   "title_with_featured": "We Are The Crew",
+   "url": "https://genius.com/West-coast-crew-we-are-the-crew-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1212310",
+    "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+    "id": 1212310,
+    "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "West Coast Crew",
+    "url": "https://genius.com/artists/West-coast-crew"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5833497/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5833497' class='rg_embed_link' data-song-id='5833497'>Read <a href='https://genius.com/West-coast-crew-we-are-the-crew-lyrics'>\u201cWe Are The Crew\u201d by West\u00a0Coast Crew</a> on Genius</div> <script crossorigin src='//genius.com/songs/5833497/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1984-01-01",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/664084",
+    "cover_art_url": "https://images.genius.com/6b06b55f22f80d8f667d71e62ccb736e.593x593x1.jpg",
+    "full_title": "We Are The Crew by West Coast Crew",
+    "id": 664084,
+    "name": "We Are The Crew",
+    "url": "https://genius.com/albums/West-coast-crew/We-are-the-crew",
+    "artist": {
+     "api_path": "/artists/1212310",
+     "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+     "id": 1212310,
+     "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "West Coast Crew",
+     "url": "https://genius.com/artists/West-coast-crew"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 22594,
+    "annotator_login": "MarchHare",
+    "api_path": "/referents/20504052",
+    "classification": "needs_exegesis",
+    "fragment": "We Are The Crew",
+    "id": 20504052,
+    "is_description": true,
+    "path": "/20504052/West-coast-crew-we-are-the-crew/We-are-the-crew",
+    "range": {
+     "content": "We Are The Crew"
+    },
+    "song_id": 5833497,
+    "url": "https://genius.com/20504052/West-coast-crew-we-are-the-crew/We-are-the-crew",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5833497",
+     "client_timestamps": {
+      "updated_by_human_at": 1626915217,
+      "lyrics_updated_at": 1626915217
+     },
+     "context": "West Coast Crew",
+     "id": 5833497,
+     "image_url": "https://images.genius.com/6b06b55f22f80d8f667d71e62ccb736e.593x593x1.jpg",
+     "link_title": "We Are The Crew by\u00a0West\u00a0Coast Crew",
+     "title": "We Are The Crew",
+     "type": "Song",
+     "url": "https://genius.com/West-coast-crew-we-are-the-crew-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20504052",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20504052,
+      "pinned": false,
+      "share_url": "https://genius.com/20504052",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20504052/West-coast-crew-we-are-the-crew/We-are-the-crew",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/22594",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/904c67a2546d924512aa709b7ff894d7",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/904c67a2546d924512aa709b7ff894d7",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/904c67a2546d924512aa709b7ff894d7",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/904c67a2546d924512aa709b7ff894d7",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/904c67a2546d924512aa709b7ff894d7",
+         "human_readable_role_for_display": "Contributor",
+         "id": 22594,
+         "iq": 31986,
+         "login": "MarchHare",
+         "name": "MarchHare",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MarchHare",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=g0UOtiAjPjY"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/981873",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 981873,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ronnie Vann",
+     "url": "https://genius.com/artists/Ronnie-vann"
+    },
+    {
+     "api_path": "/artists/2346204",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 2346204,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michael Rochelle",
+     "url": "https://genius.com/artists/Michael-rochelle"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "West Coast Crew",
+   "lyrics": "We Are The Crew LyricsWest Coast Crew is gonna rock for you, baby\n\nLemon, Lemon, Lemon Lime, Lime\nD, D, D-Rock,\u2005Rock\nMr.\u2005Jay, Mr. Jay,\u2005the West Coast Crew\n\nI'm so sour\u2005just like a lemon\nBut that's okay, I still catch women\nWomen\u205fare\u205fmy\u205ffavorite subject\nIf you\u205fask me why\u205fI say I love it\nSo hit me\nLemon, Lemon, Lemon Lime, Lime\nD, D, D-Rock, Rock\nMr. Jay, Mr. Jay, the West Coast Crew\n\nI'm Mr. Jay, king of persuasion\nAnd I got a rap for all occasions\nIt takes a freak to get me energized\nAnd then I'll freak you to death and bring you back to life\nSo just watch me\n\nLemon, Lemon, Lemon Lime, Lime\nD, D, D-Rock, Rock\nMr. Jay, Mr. Jay, the West Coast Crew\n\nWe love you\nThe crew loves you\n\nI'm Kool Rock D, as you can see\nI can be your ultimate fantasy\nI can rock your world in many ways\nI'm the man who started this freakin' craze\nSo just rock, y'all\n\nLemon, Lemon, Lemon Lime, Lime\nD, D, D-Rock, Rock\nMr. Jay, Mr. Jay, the West Coast Crew\nYou might also likeJam it on your radio, Jam it on your radio\nJam it on your radio, Jam it on your radio\nJam it on your radio, Jam it on your radio\nJam it on your radio, Jam it on your radio\nJam it on your radio, Jam it on your radio\nJam it on your radio, Jam it on your radio\nJam it on your radio, Jam it on your radio\nJam it on your radio, Jam it on your radio\nJam it on your radio, Jam it on your radio\nJam it on your radio, Jam it on your radio\n\nThe crew loves you\nJam\nWe love to jam\nOn your radio\n\nWe came to rock for you today\nLemon Lime, D-Rock and Mr. Jay\nSay hello and Jay will too\nAnd all together we're the West Coast Crew\nThe crew loves you\n\nLemon, Lemon, Lemon Lime, Lime\nD, D, D-Rock, Rock\nMr. Jay, Mr. Jay\nJam\nWe love to jam\nJam\nJam it on your radio, Jam it on your radio\nJam it on your radio, Jam it on your radio\nWe love to jam on your radio, Jam on your radio\nJam on your radio, Jam on your radio\nJam\nWe love to jam\nWe love to jam\nJam (What you're starin' at? what you're starin' at?)\nOn your radio\nWe love to jam\nIn the studio\nJam it on your radio, Jam it on your radio\nJam it on your radio, Jam it on your radio\nJam it on your radio, Jam it on your radio\nJam it on your radio, Jam it on your radioEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3608833",
+   "artist_names": "West Coast Crew",
+   "full_title": "Baby Girl by\u00a0West\u00a0Coast Crew",
+   "header_image_thumbnail_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "header_image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "id": 3608833,
+   "language": "en",
+   "lyrics_owner_id": 13962853,
+   "lyrics_state": "complete",
+   "path": "/West-coast-crew-baby-girl-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/West-coast-crew-baby-girl-sample",
+   "release_date_components": {
+    "year": 1985,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1985",
+   "release_date_with_abbreviated_month_for_display": "1985",
+   "song_art_image_thumbnail_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "song_art_image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Baby Girl",
+   "title_with_featured": "Baby Girl",
+   "url": "https://genius.com/West-coast-crew-baby-girl-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1212310",
+    "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+    "id": 1212310,
+    "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "West Coast Crew",
+    "url": "https://genius.com/artists/West-coast-crew"
+   },
+   "apple_music_id": "659902196",
+   "apple_music_player_url": "https://genius.com/songs/3608833/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3608833' class='rg_embed_link' data-song-id='3608833'>Read <a href='https://genius.com/West-coast-crew-baby-girl-lyrics'>\u201cBaby Girl\u201d by West\u00a0Coast Crew</a> on Genius</div> <script crossorigin src='//genius.com/songs/3608833/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Jam-Power Recording Studio",
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/367481",
+    "cover_art_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+    "full_title": "In The Mix (West Coast Crew) by West Coast Crew",
+    "id": 367481,
+    "name": "In The Mix (West Coast Crew)",
+    "url": "https://genius.com/albums/West-coast-crew/In-the-mix-west-coast-crew",
+    "artist": {
+     "api_path": "/artists/1212310",
+     "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+     "id": 1212310,
+     "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "West Coast Crew",
+     "url": "https://genius.com/artists/West-coast-crew"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/1430211",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1430211,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Casanova Malone",
+       "url": "https://genius.com/artists/Casanova-malone"
+      }
+     ]
+    },
+    {
+     "label": "Percussionist",
+     "artists": [
+      {
+       "api_path": "/artists/1430211",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1430211,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Casanova Malone",
+       "url": "https://genius.com/artists/Casanova-malone"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/981873",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 981873,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ronnie Vann",
+       "url": "https://genius.com/artists/Ronnie-vann"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1388344",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1388344,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Koenig",
+       "url": "https://genius.com/artists/David-koenig"
+      },
+      {
+       "api_path": "/artists/1036231",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1036231,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Craig Burbidge",
+       "url": "https://genius.com/artists/Craig-burbidge"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1135197,
+    "annotator_login": "SirChuckwagon",
+    "api_path": "/referents/14179610",
+    "classification": "needs_exegesis",
+    "fragment": "Baby Girl",
+    "id": 14179610,
+    "is_description": true,
+    "path": "/14179610/West-coast-crew-baby-girl/Baby-girl",
+    "range": {
+     "content": "Baby Girl"
+    },
+    "song_id": 3608833,
+    "url": "https://genius.com/14179610/West-coast-crew-baby-girl/Baby-girl",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3608833",
+     "client_timestamps": {
+      "updated_by_human_at": 1626224786,
+      "lyrics_updated_at": 1626224786
+     },
+     "context": "West Coast Crew",
+     "id": 3608833,
+     "image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+     "link_title": "Baby Girl by\u00a0West\u00a0Coast Crew",
+     "title": "Baby Girl",
+     "type": "Song",
+     "url": "https://genius.com/West-coast-crew-baby-girl-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14179610",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14179610,
+      "pinned": false,
+      "share_url": "https://genius.com/14179610",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14179610/West-coast-crew-baby-girl/Baby-girl",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1135197",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/pg93ClvsSXisDYHY676R_1500x500",
+         "human_readable_role_for_display": "Editor",
+         "id": 1135197,
+         "iq": 75871,
+         "login": "SirChuckwagon",
+         "name": "SirChuckwagon",
+         "role_for_display": "editor",
+         "url": "https://genius.com/SirChuckwagon",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=0eVXNdCwxlE"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1212310",
+     "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+     "id": 1212310,
+     "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "West Coast Crew",
+     "url": "https://genius.com/artists/West-coast-crew"
+    },
+    {
+     "api_path": "/artists/1430211",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1430211,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Casanova Malone",
+     "url": "https://genius.com/artists/Casanova-malone"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1212320",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212320,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Amondo Calhoun",
+     "url": "https://genius.com/artists/Amondo-calhoun"
+    },
+    {
+     "api_path": "/artists/1212321",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212321,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Wooley",
+     "url": "https://genius.com/artists/David-wooley"
+    },
+    {
+     "api_path": "/artists/542442",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 542442,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Russell Smith",
+     "url": "https://genius.com/artists/Russell-smith"
+    },
+    {
+     "api_path": "/artists/1212322",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212322,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Berry",
+     "url": "https://genius.com/artists/Thomas-berry"
+    },
+    {
+     "api_path": "/artists/1212323",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212323,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Willie Lemon",
+     "url": "https://genius.com/artists/Willie-lemon"
+    }
+   ],
+   "artist": "West Coast Crew",
+   "lyrics": "Baby Girl Lyrics[Chorus]\nBaby girl come next to me (to me)\nBaby girl don't you fear (fear)\nBaby girl come next to me cause\nI only wanna whisper in ya ear (ear)\nBaby girl want to do me (do me)\nBaby girl have no fear (fear)\nBaby girl want to do me cause\nI only wanna whisper in ya ear (ear)\n\n[Verse 1]\nWhen you move into my neighborhood I try to make a pass\nIf you babygirl wasn\u2019t working too fast\nAnd If I were\nI\u2019m sorry bout that\n'Cause you walk away crying saying I was a quack\nYou surely are confused\nTell me what do you mean\nBut calling me a quack do it need soft sheen (nope)\nI\u2019m thinking to myself no that's not it\nBut babygirl tryna play hard to get\nWhat kind of drag you throwing in next?\n\nWell let me tell you if this is me\nAnd if the old story goes many fish in the sea\nAll that got to her when I said those words\nBecause she stopped in her path as if she heard\nShe turned around and said \u201cAre you talkin to me, I\u2019m the kind of girl you can\u2019t find in the sea\u201d (Oh really)\n\u201cSo don't try to fit me in that category cause it just won\u2019t work, I\u2019ve heard your story\u201d\nObviously you didn't cause you turned and looked\nSaid something real fast, that's all it took\nTo get your attention and I didn't want to do that but I had no choice you called me a quack\n\n[Chorus]\nBaby girl come next to me (to me)\nBaby girl have you fear (fear)\nBaby girl come next to me cause\nI only wanna whisper in ya ear (ear)\n\nSo what kind of drag you throwing next?\n\n[Verse 2]\nYo babygirl what's your name and number\nBabygirl why you making me wonder\nThere's a thousand things that we can do\nNumber one is I can make love to you\nSecondly we can go to your favorite show\nAfterward go dancing at your favorite disco\nOr stay home and burn candle lights\nAnd lookin through my glass ceiling\nYou can see the moonlight\nFrom the atmosphere and exquisite food\nThe conversation baby will get you in the mood\nSo don't you leave or feel dismayed\nAnd don't be offended by the words I say\n'Cause feeling you baby is my only ambition\nI know you can tell from your woman\u2019s intuition\nI\u2019m not the average man throwing out lines\nBut after all the drags I put on you\nYou will be mines\nYou might also like[Chorus]\nBaby girl come next to me (to me)\nBaby girl have no fear (fear)\nBaby girl come next to me cause\nI only wanna whisper in ya ear (ear)\nBaby girl come next to me (to me)\nBaby girl have no fear (fear)\nBaby girl come next to me cause\nI only wanna whisper in ya ear (ear)\n\n[Verse 3]\nBaby girl trying to play me for a fool\nAnd we all know that that ain't cool\nYou know what you want and you know how to get it\nSo don't hold back babygirl come with it\nYou're trying to decide or is it that you're shy\nHow long would you keep me wondering why\nNever do you answer when I ask you for a date\nYou're a dizzy dump broad you think I'm gonna wait\nI know that you're sweet and you're also pretty\nThere's a girl like you in every city\nI'm D-Rock D no ask a freak\nI can catch a different girl seven days a week\nSo I'm not gonna cry or think about you\nI've got bigger and better more important things to do\nSo step on back give me respect\n'Cause girls like you I never sweat (sweat)Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3608834",
+   "artist_names": "West Coast Crew",
+   "full_title": "Hi Ho by\u00a0West\u00a0Coast Crew",
+   "header_image_thumbnail_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "header_image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "id": 3608834,
+   "language": "en",
+   "lyrics_owner_id": 381464,
+   "lyrics_state": "complete",
+   "path": "/West-coast-crew-hi-ho-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/West-coast-crew-hi-ho-sample",
+   "release_date_components": {
+    "year": 1985,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1985",
+   "release_date_with_abbreviated_month_for_display": "1985",
+   "song_art_image_thumbnail_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "song_art_image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Hi Ho",
+   "title_with_featured": "Hi Ho",
+   "url": "https://genius.com/West-coast-crew-hi-ho-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1212310",
+    "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+    "id": 1212310,
+    "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "West Coast Crew",
+    "url": "https://genius.com/artists/West-coast-crew"
+   },
+   "apple_music_id": "659902197",
+   "apple_music_player_url": "https://genius.com/songs/3608834/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3608834' class='rg_embed_link' data-song-id='3608834'>Read <a href='https://genius.com/West-coast-crew-hi-ho-lyrics'>\u201cHi Ho\u201d by West\u00a0Coast Crew</a> on Genius</div> <script crossorigin src='//genius.com/songs/3608834/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Jam-Power Recording Studio",
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/367481",
+    "cover_art_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+    "full_title": "In The Mix (West Coast Crew) by West Coast Crew",
+    "id": 367481,
+    "name": "In The Mix (West Coast Crew)",
+    "url": "https://genius.com/albums/West-coast-crew/In-the-mix-west-coast-crew",
+    "artist": {
+     "api_path": "/artists/1212310",
+     "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+     "id": 1212310,
+     "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "West Coast Crew",
+     "url": "https://genius.com/artists/West-coast-crew"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/1430211",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1430211,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Casanova Malone",
+       "url": "https://genius.com/artists/Casanova-malone"
+      }
+     ]
+    },
+    {
+     "label": "Percussionist",
+     "artists": [
+      {
+       "api_path": "/artists/1430211",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1430211,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Casanova Malone",
+       "url": "https://genius.com/artists/Casanova-malone"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/981873",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 981873,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ronnie Vann",
+       "url": "https://genius.com/artists/Ronnie-vann"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1388344",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1388344,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Koenig",
+       "url": "https://genius.com/artists/David-koenig"
+      },
+      {
+       "api_path": "/artists/1036231",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1036231,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Craig Burbidge",
+       "url": "https://genius.com/artists/Craig-burbidge"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1135197,
+    "annotator_login": "SirChuckwagon",
+    "api_path": "/referents/14179611",
+    "classification": "needs_exegesis",
+    "fragment": "Hi Ho",
+    "id": 14179611,
+    "is_description": true,
+    "path": "/14179611/West-coast-crew-hi-ho/Hi-ho",
+    "range": {
+     "content": "Hi Ho"
+    },
+    "song_id": 3608834,
+    "url": "https://genius.com/14179611/West-coast-crew-hi-ho/Hi-ho",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3608834",
+     "client_timestamps": {
+      "updated_by_human_at": 1626963025,
+      "lyrics_updated_at": 1626963025
+     },
+     "context": "West Coast Crew",
+     "id": 3608834,
+     "image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+     "link_title": "Hi Ho by\u00a0West\u00a0Coast Crew",
+     "title": "Hi Ho",
+     "type": "Song",
+     "url": "https://genius.com/West-coast-crew-hi-ho-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14179611",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14179611,
+      "pinned": false,
+      "share_url": "https://genius.com/14179611",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14179611/West-coast-crew-hi-ho/Hi-ho",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1135197",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/pg93ClvsSXisDYHY676R_1500x500",
+         "human_readable_role_for_display": "Editor",
+         "id": 1135197,
+         "iq": 75871,
+         "login": "SirChuckwagon",
+         "name": "SirChuckwagon",
+         "role_for_display": "editor",
+         "url": "https://genius.com/SirChuckwagon",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=QyTHJob1tTE"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1212310",
+     "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+     "id": 1212310,
+     "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "West Coast Crew",
+     "url": "https://genius.com/artists/West-coast-crew"
+    },
+    {
+     "api_path": "/artists/1430211",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1430211,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Casanova Malone",
+     "url": "https://genius.com/artists/Casanova-malone"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1212320",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212320,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Amondo Calhoun",
+     "url": "https://genius.com/artists/Amondo-calhoun"
+    },
+    {
+     "api_path": "/artists/1212321",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212321,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Wooley",
+     "url": "https://genius.com/artists/David-wooley"
+    },
+    {
+     "api_path": "/artists/542442",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 542442,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Russell Smith",
+     "url": "https://genius.com/artists/Russell-smith"
+    },
+    {
+     "api_path": "/artists/1212322",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212322,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Berry",
+     "url": "https://genius.com/artists/Thomas-berry"
+    },
+    {
+     "api_path": "/artists/1212323",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212323,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Willie Lemon",
+     "url": "https://genius.com/artists/Willie-lemon"
+    }
+   ],
+   "artist": "West Coast Crew",
+   "lyrics": "Hi Ho LyricsHey, skip, the introduction\nAll we really need is the production\nAnd a [?] to bump, nice and loud\nSo we can proceed to rock the crowd\nAnd you sittin' in your chair\nNo sense being alone feeling despair\nThe cut is on, get out your seat\nRock to the rhythm of the west coast beat\nFans are tired of the same old thing\nRappers [?] eat [?] a sucker MC\nThen I pray the rhymes are supposed to be\nThat's the true mark of a wannabe\nSo rock to the groove and move your feet\nSo rock to the beat, it sounds so sweet\nAnd if you wanna be so unique\nEverybody in the house, repeat after me\nHi, ho, the Freak is dead\nEverybody's doin' a brand new dance\nSame old beat played out\nThe Crew came here to rock the house\n\nHi, ho, the Freak is dead\nEverybody's doin' a brand new dance\nSame old beat won't jam\nFinally the groove was fresh again\n\nOh yeah!\nHere tonight from Valencia, California\nIt's D-Rock in the place to be\nAre you ready D?\nAre you ready? (Oh yeah)\nCheck it out, here comes D-Rock, ha\n\nHey, J and Lemon Lime\nCasanova on the boards right on time\nThis is how we do it in '86\nWe reach down into our bag of tricks\nPulled out a fresh new cut\nWe got everybody out shakin' their butt\nNow you must admit\nThe crew gets as live as live can get\nUno, dos, and three is tres\nAll you wannabes stay out my face\nWe all know the bump's played out\nAnd if you're wearin' platforms you hold not clout\nReal freak, a freak behind closed doors\nNot in public or big dance floors\nNo need to brag and boast\nWe're chillin' the most and we're from the west coast!\nYou might also likeHi, ho, the Freak is dead\nEverybody's doin' a brand new dance\nSame old beat played out\nThe Crew came here to rock the house\n\nHi, ho, the Freak is dead\nEverybody's doin' a brand new dance\nSame old beat won't jam\nFinally the groove was fresh again\n\nOh yeah!\nHere tonight all the way from Lake View Terrace\nIn sunny southern California\nThe sexiest man in America\nFormer Mr. Universe\nLadies and gentleman (What more can I say?)\nHere's Lemon!\n\nOh my stars, it's ten o'clock\nThe cruise ship pulled in on the dock\nWe just came in from oversea\nKnockin' on people down to their knees\nWas it crew? (Yes!) Was it weak? (Nah)\nJust open up the show and kick it off\nIt was me, Mr. Jay and D-Rock D\nDoing things fresh so easily\nAnd then came along [?] Tom [?]\nHe said he want to [?] with me\nI said \"No my man, you can't do that\nI heard your rhymes and your rhymes is wack\"\nTom started running, crying out the room\nTurned back around and said \"See you soon\"\nI said \"Okay Tom, since you want it this way\n[?] on the mic maybe you should play\"\nHi, ho, the Freak is dead\nEverybody's doin' a brand new dance\nSame old beat played out\nThe Crew came here to rock the house\n\nHi, ho, the Freak is dead\nEverybody's doin' a brand new dance\nSame old beat won't jam\nFinally the groove was fresh again\n\nI think I like this!\nOh yeah (Oh yeah)\n\nHi, ho, the Freak is dead\nEverybody's doin' a brand new dance\nSame old beat played out\nThe Crew came here to rock the house\n\nHi, ho, the Freak is dead\nEverybody's doin' a brand new dance\nSame old beat won't jam\nFinally the groove was fresh again\n\n[Instrumental Break]\n\nHi, ho, the Freak is dead\nEverybody's doin' a brand new dance\nSame old beat played out\nThe Crew came here to rock the house\n\nHi, ho, the Freak is dead\nEverybody's doin' a brand new dance\nSame old beat won't jam\nFinally the groove was fresh again\n\nHi, ho, the Freak is dead\nHi, ho, the [?] is dead\nHi, ho, the Freak is dead\nHi, ho, this beat is def! Huh!Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3608835",
+   "artist_names": "West Coast Crew",
+   "full_title": "Crazy Cut by\u00a0West\u00a0Coast Crew",
+   "header_image_thumbnail_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "header_image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "id": 3608835,
+   "language": "en",
+   "lyrics_owner_id": 381464,
+   "lyrics_state": "complete",
+   "path": "/West-coast-crew-crazy-cut-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/West-coast-crew-crazy-cut-sample",
+   "release_date_components": {
+    "year": 1985,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1985",
+   "release_date_with_abbreviated_month_for_display": "1985",
+   "song_art_image_thumbnail_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "song_art_image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Crazy Cut",
+   "title_with_featured": "Crazy Cut",
+   "url": "https://genius.com/West-coast-crew-crazy-cut-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1212310",
+    "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+    "id": 1212310,
+    "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "West Coast Crew",
+    "url": "https://genius.com/artists/West-coast-crew"
+   },
+   "apple_music_id": "659902198",
+   "apple_music_player_url": "https://genius.com/songs/3608835/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3608835' class='rg_embed_link' data-song-id='3608835'>Read <a href='https://genius.com/West-coast-crew-crazy-cut-lyrics'>\u201cCrazy Cut\u201d by West\u00a0Coast Crew</a> on Genius</div> <script crossorigin src='//genius.com/songs/3608835/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": "Jam-Power Recording Studio",
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/367481",
+    "cover_art_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+    "full_title": "In The Mix (West Coast Crew) by West Coast Crew",
+    "id": 367481,
+    "name": "In The Mix (West Coast Crew)",
+    "url": "https://genius.com/albums/West-coast-crew/In-the-mix-west-coast-crew",
+    "artist": {
+     "api_path": "/artists/1212310",
+     "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+     "id": 1212310,
+     "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "West Coast Crew",
+     "url": "https://genius.com/artists/West-coast-crew"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Keyboards",
+     "artists": [
+      {
+       "api_path": "/artists/1430211",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1430211,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Casanova Malone",
+       "url": "https://genius.com/artists/Casanova-malone"
+      }
+     ]
+    },
+    {
+     "label": "Percussionist",
+     "artists": [
+      {
+       "api_path": "/artists/1430211",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1430211,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Casanova Malone",
+       "url": "https://genius.com/artists/Casanova-malone"
+      }
+     ]
+    },
+    {
+     "label": "Mixing Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/981873",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 981873,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Ronnie Vann",
+       "url": "https://genius.com/artists/Ronnie-vann"
+      }
+     ]
+    },
+    {
+     "label": "Engineer",
+     "artists": [
+      {
+       "api_path": "/artists/1388344",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1388344,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "David Koenig",
+       "url": "https://genius.com/artists/David-koenig"
+      },
+      {
+       "api_path": "/artists/1036231",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "id": 1036231,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Craig Burbidge",
+       "url": "https://genius.com/artists/Craig-burbidge"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1135197,
+    "annotator_login": "SirChuckwagon",
+    "api_path": "/referents/14179612",
+    "classification": "needs_exegesis",
+    "fragment": "Crazy Cut",
+    "id": 14179612,
+    "is_description": true,
+    "path": "/14179612/West-coast-crew-crazy-cut/Crazy-cut",
+    "range": {
+     "content": "Crazy Cut"
+    },
+    "song_id": 3608835,
+    "url": "https://genius.com/14179612/West-coast-crew-crazy-cut/Crazy-cut",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3608835",
+     "client_timestamps": {
+      "updated_by_human_at": 1649226457,
+      "lyrics_updated_at": 1649226457
+     },
+     "context": "West Coast Crew",
+     "id": 3608835,
+     "image_url": "https://images.genius.com/da9b244898dd6f2daf1e3682c21fc9fe.290x290x1.jpg",
+     "link_title": "Crazy Cut by\u00a0West\u00a0Coast Crew",
+     "title": "Crazy Cut",
+     "type": "Song",
+     "url": "https://genius.com/West-coast-crew-crazy-cut-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/14179612",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 14179612,
+      "pinned": false,
+      "share_url": "https://genius.com/14179612",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/14179612/West-coast-crew-crazy-cut/Crazy-cut",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1135197",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/6b2c139c94c25c8c97e79c006e371409",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/pg93ClvsSXisDYHY676R_1500x500",
+         "human_readable_role_for_display": "Editor",
+         "id": 1135197,
+         "iq": 75871,
+         "login": "SirChuckwagon",
+         "name": "SirChuckwagon",
+         "role_for_display": "editor",
+         "url": "https://genius.com/SirChuckwagon",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=5L1FUrSwrC0"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1212310",
+     "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+     "id": 1212310,
+     "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "West Coast Crew",
+     "url": "https://genius.com/artists/West-coast-crew"
+    },
+    {
+     "api_path": "/artists/1430211",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1430211,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Casanova Malone",
+     "url": "https://genius.com/artists/Casanova-malone"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/1212320",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212320,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Amondo Calhoun",
+     "url": "https://genius.com/artists/Amondo-calhoun"
+    },
+    {
+     "api_path": "/artists/1212321",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212321,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "David Wooley",
+     "url": "https://genius.com/artists/David-wooley"
+    },
+    {
+     "api_path": "/artists/542442",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 542442,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Russell Smith",
+     "url": "https://genius.com/artists/Russell-smith"
+    },
+    {
+     "api_path": "/artists/1212322",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212322,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Thomas Berry",
+     "url": "https://genius.com/artists/Thomas-berry"
+    },
+    {
+     "api_path": "/artists/1212323",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 1212323,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Willie Lemon",
+     "url": "https://genius.com/artists/Willie-lemon"
+    }
+   ],
+   "artist": "West Coast Crew",
+   "lyrics": "Crazy Cut LyricsYou know the tempo on the beat about 105\n([?]) for you to put your body in stride\n'Cause we know for a fact that you like to dance\n[?] and give yourself a chance\nIt's so unique, baby girl likes the way it sounds\nIt's so unique, baby girl like the way it sounds\nDo you really? (Yeah!) Do you really? (Yeah!)\nDo you really, do you really, do you really? (Oh yeah!)\n\nYou know my mother always told me there's a beat like this\nSo everybody in the house, if you will please 'cause you know\nWe just like to rock\nWe just like to rock\nWe just like to rock\nTo the rhythm, to the tempo, that'll make you drop\nSo are you ready? (For what?)\nTo rock the people again\nTo start it off, Lemon Lime, 'cause you know you're my friend\nWell I was strolling through the park, I met a [?]\nI tried to get her number but she said I fail (Oh really?)\nWhat could I say? What could I do?\nNothin' in the world but what's wrong with you\nShe said\nYou can't have my number 'cause men just make me sick\nBut why!\nI made a promise to myself to turn that down real quick\nAll the ladies in the house wanna know his name\n(It's Lemon Lime y'all, it's Lemon Lime y'all)\nAnd all the fellas in the place wanna play his game\n(It's Lemon Lime y'all, it's Lemon Lime y'all)\nWell that's funny (Is it really?) Where's D-Rock D?\nGet on the mic, perform for me, yo!\n\nD-Rock D, that is me\nYou will discover that I'm freaky\nBecause every girl I ever had\nSpent one night and now they're glad\nWait, wait, wait, wait, wait a minute, wait a minute\nWait, wait, wait, wait, wait a minute, wait a minute\nWait, wait, wait, wait, wait a minute\nWhy do they call you a freak, huh?\n\nI don't know but I sure don't care\n'Cause we got fresh waves all in our hair\nAnd when we're on the mic, we're always trippin'\nFresh keyboards and bass drum kickin'\nOur music is so finger-lickin'\nThat the crew is the ones you will be pickin'\nSo all you MCs, it's just us three\nLemon Lime, Mr. Jay, and D-Rock D\nAnd I'm proud to be a member of the (West Coast Crew!)\nAnd I'm proud to be a member of the (West Coast Crew!)\nAnd I'm proud to be a member of the (West Coast Crew!)\n[?] (West Coast Crew!)\nWell let's go (Everybody!)\nLet's go (Come on!)\nGirl, you put us altogether, are we having fun?\nAt first, what the people did not know\nIs the West Coast Crew was running show\nI think so, for once, I have to agree\nTake a good look all you see is three\nLemon Lime, D-Rock D, on to Mister Jay\nGet on the mic and let us hear you play\nYou might also likeI'm a rapper on the MC trolley, my weight gains every day\nAnd I got my start on the West Coast in the city of LA (Hot damn!)\nWith D-Rock D and Lemon and Casanova Malone\nWe're three MCs [?] on the microphone (Hit it Jay!)\n\nPeople find the crew sound so devastating\nCertain DJs find it incriminating\nAll the time the popularity's escalating\nAnd the critics all sit around debating\nTrynna guess how many dollars we makin'\nI'm sorry to say it's confidential information\nBut every time they hear the crew, we always pumpin'\nSounds so fresh and the bass is thumpin'\nSo all you wannabes who's over there bummin'\nNext to the crew, we got nothin' in common\nI was walkin' down the street (When?) the other day\nA young lady stopped me, she had to say\nI wanna meet you Rock, from the crew\nI heard Lemon Lime [?]\nBut baby girl [?]\nHe took her to the room and all I heard was...\nAhh! Ahh! Ahh! Ahh!\nAhh! Ahh! Ahh! Ahh!\n\nAll you ladies out there, are you ready tonight? (Oh yeah, oh yeah!)\nAnd you fellas out there, do you feel alright? (Oh yeah, oh yeah!)\nListen\n[?] gonna play that [?] jam, the [?] jam, the [?] jam\n[?] gonna play that [?] jam and we gonna rock the house down\n(One more time y'all)\n[?] gonna play that [?] jam, the [?] jam, the [?] jam\n[?] gonna play that [?] jam and we gonna rock the house down\n(Play it, [?])Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5832997",
+   "artist_names": "West Coast Crew",
+   "full_title": "We Really Do Like To Rock by\u00a0West\u00a0Coast Crew",
+   "header_image_thumbnail_url": "https://images.genius.com/b5816ea2d59dcb1a44174f0ec7c228fb.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/b5816ea2d59dcb1a44174f0ec7c228fb.600x600x1.jpg",
+   "id": 5832997,
+   "language": "en",
+   "lyrics_owner_id": 22594,
+   "lyrics_state": "complete",
+   "path": "/West-coast-crew-we-really-do-like-to-rock-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/West-coast-crew-we-really-do-like-to-rock-sample",
+   "release_date_components": {
+    "year": 1984,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1984",
+   "release_date_with_abbreviated_month_for_display": "1984",
+   "song_art_image_thumbnail_url": "https://images.genius.com/b5816ea2d59dcb1a44174f0ec7c228fb.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/b5816ea2d59dcb1a44174f0ec7c228fb.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "We Really Do Like To Rock",
+   "title_with_featured": "We Really Do Like To Rock",
+   "url": "https://genius.com/West-coast-crew-we-really-do-like-to-rock-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/1212310",
+    "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+    "id": 1212310,
+    "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "West Coast Crew",
+    "url": "https://genius.com/artists/West-coast-crew"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/5832997/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5832997' class='rg_embed_link' data-song-id='5832997'>Read <a href='https://genius.com/West-coast-crew-we-really-do-like-to-rock-lyrics'>\u201cWe Really Do Like To Rock\u201d by West\u00a0Coast Crew</a> on Genius</div> <script crossorigin src='//genius.com/songs/5832997/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/664026",
+    "cover_art_url": "https://images.genius.com/b5816ea2d59dcb1a44174f0ec7c228fb.600x600x1.jpg",
+    "full_title": "Jealous People/Wild by West Coast Crew",
+    "id": 664026,
+    "name": "Jealous People/Wild",
+    "url": "https://genius.com/albums/West-coast-crew/Jealous-people-wild",
+    "artist": {
+     "api_path": "/artists/1212310",
+     "header_image_url": "https://images.genius.com/20d543b5ee6fedc66ee559ecbfb246bb.600x357x1.jpg",
+     "id": 1212310,
+     "image_url": "https://images.genius.com/9c82d53980b1fbeee81f4013bd6cd53d.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "West Coast Crew",
+     "url": "https://genius.com/artists/West-coast-crew"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 22594,
+    "annotator_login": "MarchHare",
+    "api_path": "/referents/20503013",
+    "classification": "needs_exegesis",
+    "fragment": "We Really Do Like To Rock",
+    "id": 20503013,
+    "is_description": true,
+    "path": "/20503013/West-coast-crew-we-really-do-like-to-rock/We-really-do-like-to-rock",
+    "range": {
+     "content": "We Really Do Like To Rock"
+    },
+    "song_id": 5832997,
+    "url": "https://genius.com/20503013/West-coast-crew-we-really-do-like-to-rock/We-really-do-like-to-rock",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5832997",
+     "client_timestamps": {
+      "updated_by_human_at": 1626271432,
+      "lyrics_updated_at": 1616311330
+     },
+     "context": "West Coast Crew",
+     "id": 5832997,
+     "image_url": "https://images.genius.com/b5816ea2d59dcb1a44174f0ec7c228fb.600x600x1.jpg",
+     "link_title": "We Really Do Like To Rock by\u00a0West\u00a0Coast Crew",
+     "title": "We Really Do Like To Rock",
+     "type": "Song",
+     "url": "https://genius.com/West-coast-crew-we-really-do-like-to-rock-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/20503013",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 20503013,
+      "pinned": false,
+      "share_url": "https://genius.com/20503013",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/20503013/West-coast-crew-we-really-do-like-to-rock/We-really-do-like-to-rock",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/22594",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/904c67a2546d924512aa709b7ff894d7",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/904c67a2546d924512aa709b7ff894d7",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/904c67a2546d924512aa709b7ff894d7",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/904c67a2546d924512aa709b7ff894d7",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/904c67a2546d924512aa709b7ff894d7",
+         "human_readable_role_for_display": "Contributor",
+         "id": 22594,
+         "iq": 31986,
+         "login": "MarchHare",
+         "name": "MarchHare",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MarchHare",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=r-eSaeTFELg"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/2346204",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 2346204,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michael Rochelle",
+     "url": "https://genius.com/artists/Michael-rochelle"
+    },
+    {
+     "api_path": "/artists/981873",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "id": 981873,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668632954",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Ronnie Vann",
+     "url": "https://genius.com/artists/Ronnie-vann"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "West Coast Crew",
+   "lyrics": "We Really Do Like To Rock LyricsWe are the West Coast Crew\nAnd we like motivating party people like you\nSo if you're\u2005feeling\u2005down and the\u2005party is bumping\nLet the West Coast\u2005Crew make this party jump\nBeat this!\n\n[Mr. Jay]\nThe West Coast Crew is\u205flive\u205fin\u205fthree ways\nWith Lemon\u205fLime, D-Rock and\u205fMr. Jay\n\n[Lemon Lime]\nNow I'm one of the three of this special crew\nAnd they call me Lemon Lime, I like to rock with you\nWell, the Lemon that you heard is there for being sour\nWith the Lime on the side to give off the power\nAnd the man on my side, his name is D-Rock\nHe's going to show all the ladies what he's all about\n[D-Rock]\nD-Rock is the name baby that I claim\nI guarantee that you will find me in the hall of fame\nThe chemistry of our crew that is made of three\nAnd if you're looking for the freak of the crew, it's me\nBecause I got that style and that special flair\nThere's not a girl I can't handle and this I can bet\nSo if you're down and want to give me a go\nJust come to our dressing room after the show\nNow I've said all the things that a real freak would say\nSo I'm going to turn the mic over to Mr. Jay\n\n[Mr. Jay]\nTantalizing, mesmerizing, oh so fine\nBecause the taste of the beat, it just might blow your mind\nYou know we're cold and hot, I say we're hot and cold\n'Cause we're too hot to handle and too hot to hold\nBecause the West Coast Crew is worth its weight in gold\nWe got dangerous lines for the world to behold\nYou know we\n\n[Chorus]\nReally do like to rock\nWe really do like to rock, rock rock\nIf you really like to rock\nBeat this!\nYou might also like[Lemon Lime]\nYou know, everybody, what we're all about\nI rock to the rhythm without no doubt\nYou see, we do it cool, we do it smooth\nWe want everybody to be in the groove\n(I'm sour, with power)\nIt was one night, about twelve o'clock\nAll the fellas was down at the end of the block\nI went outside to see what was wrong\nBut there was a ring on my telephone\nWhen I went to the house to answer it\nIt sound like my girl, a girl named Trish\nI said 'Hello Trish, how you're doing tonight?\nCan I come right over and give you a ride?\nA place not far, just you and me\nAnd the rest girl, will be history'\n\n[D-Rock]\nCheck it out, baby, I'm back once more\n[?]\nGonna tell you about the Awesome Two\nGonna tell what D-Rock-D will do\nWith me, Lemon Lime and Mr. Jay\nThere's no one who could hang this way\nI'm six feet one with light brown eyes\nI got the rap to make you hypnotized\nMake you turn around, make you do the freak\nMake you lose the count of the days of the week\nNow I've said all the things I've got to say\nI'm gonna get off the mic and go on my way\nI'm gonna go\nTo another place\nI'm gonna rap to the beat without a fear\nI'm gonna rap to the beat and disappear\n[Mr. Jay]\nLike the world goes, round and round\nJamming to the beat of the supersonic sound\nJamming to the beat of the electric drum\nJamming to the beat of the [?]\nJamming to the beat all night long\nTo keep you hanging on the edge of the danger zone\nSo spread the news, from front to back\nThere's nothing in the world that I lack\nLike a razor blade, my rhyme's so sharp\nIt shines a light out in the dark\nLike [?] bird and the bees\nRappin' comes so naturally to me\nI control your soul [?]\nThe treble and the bass [?] the sound\nSo scratch, mix [?]\nYou see, we can't go wrong\nBecause you rock to my beat all night long\n[?] Mr. Jay put you in a trance\nCatch a freak attack, get up and dance\n\n[Chorus]\nReally do like to rock\nWe really do like to rock, rock rock\nIf you really like to rock\nWe really do like to rock, rock rock\nIf you really like to rock\nBeat this!\n\nBeat this, beat that, freak this, freak that, beat this, beat that\nFreak this, freak that, beat this, beat that, freak this, freak that\n\nBeat this, beat that, freak this, freak that, beat this, beat that\nFreak this, freak that, beat this, beat that, freak this, freak that\n\nBeat this, beat that, freak this, freak that, beat this, beat that\nFreak this, freak that, beat this, beat that, freak this, freak that\n\nBeat this, beat that, freak this, freak that, beat this, beat that\nFreak this, freak that, beat this, beat that, freak this, freak thatEmbed"
+  }
+ ]
+}

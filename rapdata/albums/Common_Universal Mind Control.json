@@ -1,0 +1,700 @@
+{
+ "_type": "album",
+ "api_path": "/albums/1694",
+ "cover_art_thumbnail_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.1000x1000x1.jpg",
+ "full_title": "Universal Mind Control by Common",
+ "id": 1694,
+ "name": "Universal Mind Control",
+ "name_with_artist": "Universal Mind Control (artist: Common)",
+ "release_date_components": {
+  "year": 2008,
+  "month": 12,
+  "day": 9
+ },
+ "url": "https://genius.com/albums/Common/Universal-mind-control",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/223",
+  "header_image_url": "https://images.genius.com/5eb3b5fd0cc65fbab5466d22c19278f1.1000x661x1.jpg",
+  "id": 223,
+  "image_url": "https://images.genius.com/334bd07941665eb5b381fb51bced319d.1000x1000x1.jpg",
+  "index_character": "c",
+  "is_meme_verified": true,
+  "is_verified": true,
+  "name": "Common",
+  "slug": "Common",
+  "url": "https://genius.com/artists/Common",
+  "iq": 10935
+ },
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 17,
+    "api_path": "/songs/2115",
+    "artist_names": "Common (Ft. Pharrell Williams)",
+    "full_title": "Universal Mind Control (UMC) by\u00a0Common (Ft.\u00a0Pharrell\u00a0Williams)",
+    "header_image_thumbnail_url": "https://images.genius.com/79727142d755723e2a70fab724c0e58d.220x220x1.jpg",
+    "header_image_url": "https://images.genius.com/79727142d755723e2a70fab724c0e58d.220x220x1.jpg",
+    "id": 2115,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 1057,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1556421330,
+    "path": "/Common-universal-mind-control-umc-lyrics",
+    "pyongs_count": 10,
+    "relationships_index_url": "https://genius.com/Common-universal-mind-control-umc-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 7,
+     "day": 1
+    },
+    "release_date_for_display": "July 1, 2008",
+    "release_date_with_abbreviated_month_for_display": "Jul. 1, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/79727142d755723e2a70fab724c0e58d.220x220x1.jpg",
+    "song_art_image_url": "https://images.genius.com/79727142d755723e2a70fab724c0e58d.220x220x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 12385
+    },
+    "title": "Universal Mind Control (UMC)",
+    "title_with_featured": "Universal Mind Control (UMC) (Ft.\u00a0Pharrell\u00a0Williams)",
+    "updated_by_human_at": 1607675559,
+    "url": "https://genius.com/Common-universal-mind-control-umc-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/110",
+      "header_image_url": "https://images.genius.com/6bb3ce5bd62c7acfc3a66798c4bbeb26.640x427x1.jpg",
+      "id": 110,
+      "image_url": "https://images.genius.com/aa964e94a21e7b893801ed3a2bd389b8.1000x1000x1.jpg",
+      "index_character": "p",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Pharrell Williams",
+      "slug": "Pharrell-williams",
+      "url": "https://genius.com/artists/Pharrell-williams",
+      "iq": 692
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/223",
+     "header_image_url": "https://images.genius.com/5eb3b5fd0cc65fbab5466d22c19278f1.1000x661x1.jpg",
+     "id": 223,
+     "image_url": "https://images.genius.com/334bd07941665eb5b381fb51bced319d.1000x1000x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Common",
+     "slug": "Common",
+     "url": "https://genius.com/artists/Common",
+     "iq": 10935
+    },
+    "artist": "Common",
+    "lyrics": "Universal Mind Control (UMC) Lyrics[Intro: Pharrell]\nAiyyo, all they wanna do is dance\nThat's all they wanna do\n\n[Verse 1: Common]\nThis is that automatic\nI stay fresh like I'm wrapped in plastic\nP goes spastic, C galactic\nSouthside boy, we Cadillac it\nCharismatic, Asiatic\nI hustle for mathematics\nCameras, action, changed the status\nActor tappin' yo' favorite actress\nGucci rockin', coochies poppin'\nMovie watchin', booties droppin'\nBody movin', showin', provin'\nStylin' and being fly (c'mon)\nI touch the masses like a Catholic\nExpensive rap shit, my future's backlit\nInteract with the cat who macks and stacks\nMy vernac' attracts y'all react; so let's go, uhh\n[Hook: Pharrell]\nThis is that new shit, keep 'em standing in line\nThat universal mind control, now move yo' behind\nUh, you know you like it; it's calling yo' name\nNigga, this is that new shit, and it don't feel the same\nIt's got that dang da-da-dang d-dang-a-dang dang\nDang diggy dang d-dang-a-dang dang\nBop bop, d-dang d-dang diggy diggy\nBop bop, d-dang d-dang dang\n\n[Verse 2: Common]\nSome pop, some lock, some move robotic\nLike cash money I stay in pocket\nU.M.C. r-r-r-rock, don't stop it\nChicks exotic, mix Hpnotiq\nSuperhero role boy, I'm bionic\nYou a fad on some level, I'm a supersonic\nGirl, you 'bout it, you can strip like comic\nAnd trance to melodic Technotronic\nBeats knockin', seats droppin'\nSeeds poppin', streets rockin'\nFreakin', shakin, money makin'\nStylin' and being fly\nI'm the one the ladies-ladies chose to\nStrip and pose to, take off their clothes to\nToast to the one that go coast to coast to\nMr. Global, the focal, let's go, uhh\nYou might also like[Hook: Pharrell]\nThis is that new shit, keep 'em standing in line\nThat universal mind control, now move yo' behind\nUh, you know you like it; it's calling yo' name\nNigga, this is that new shit, and it don't feel the same\nIt's got that dang da-da-dang d-dang-a-dang dang\nDang diggy dang d-dang-a-dang dang\nBop bop, d-dang d-dang diggy diggy\nBop bop, d-dang d-dang dang\n\n[Verse 3: Common]\nI am a renegade, I never been afraid\nFresh and I'm get-tin paid\nThe future future of this age!\nFrom the Chi so I talk this way\nTwist the hay and the Grand Marnier\nRock the fly shit like every day\nTo the top and I'm on my way, let's go, uhh\n\n[Hook: Pharrell]\nThis is that new shit, keep 'em standing in line\nThat universal, mind control now move yo' behind\nUh, you know you like it; it's calling yo' name\nNigga, this is that new shit, and it don't feel the same\nIt's got that dang da-da-dang d-dang-a-dang dang\nDang diggy dang d-dang-a-dang dang\nBop bop, d-dang d-dang diggy diggy\nBop bop, d-dang d-dang dang10Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/14427",
+    "artist_names": "Common (Ft. Kanye West & Pharrell Williams)",
+    "full_title": "Punch Drunk Love by\u00a0Common (Ft.\u00a0Kanye\u00a0West & Pharrell\u00a0Williams)",
+    "header_image_thumbnail_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.1000x1000x1.jpg",
+    "id": 14427,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1572478592,
+    "path": "/Common-punch-drunk-love-lyrics",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Common-punch-drunk-love-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 12,
+     "day": 9
+    },
+    "release_date_for_display": "December 9, 2008",
+    "release_date_with_abbreviated_month_for_display": "Dec. 9, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 13431
+    },
+    "title": "Punch Drunk Love",
+    "title_with_featured": "Punch Drunk Love (Ft.\u00a0Kanye\u00a0West & Pharrell\u00a0Williams)",
+    "updated_by_human_at": 1607674561,
+    "url": "https://genius.com/Common-punch-drunk-love-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/110",
+      "header_image_url": "https://images.genius.com/6bb3ce5bd62c7acfc3a66798c4bbeb26.640x427x1.jpg",
+      "id": 110,
+      "image_url": "https://images.genius.com/aa964e94a21e7b893801ed3a2bd389b8.1000x1000x1.jpg",
+      "index_character": "p",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Pharrell Williams",
+      "slug": "Pharrell-williams",
+      "url": "https://genius.com/artists/Pharrell-williams",
+      "iq": 692
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/72",
+      "header_image_url": "https://images.genius.com/934dd8e870341eb3a4872cef774460d1.540x540x1.jpg",
+      "id": 72,
+      "image_url": "https://images.genius.com/8460a4109f080cb172dd6eeaae3e2aed.383x383x1.jpg",
+      "index_character": "k",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Kanye West",
+      "slug": "Kanye-west",
+      "url": "https://genius.com/artists/Kanye-west"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/223",
+     "header_image_url": "https://images.genius.com/5eb3b5fd0cc65fbab5466d22c19278f1.1000x661x1.jpg",
+     "id": 223,
+     "image_url": "https://images.genius.com/334bd07941665eb5b381fb51bced319d.1000x1000x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Common",
+     "slug": "Common",
+     "url": "https://genius.com/artists/Common",
+     "iq": 10935
+    },
+    "artist": "Common",
+    "lyrics": "Punch Drunk Love Lyrics[Hook: Kanye West]\n'ey baby, am I crazy?\nOr was you givin me the eye?\nYou said maybe? (Yea) Well, you crazy\nBecause I know I'm too fly\nAlready know I'm too fly\nAlready know I'm too fly (You hype!)\nAlready know I'm too fly\nYeah, I know what you like\n\n[Verse 1: Common]\nRight now I'm off the wine, wine, we can take our time, time\nSo much I want to punch spill the bump when we grind\nMy uh is in ya body, my uh is in ya mind\nCheck my dictionary, that ass is so divine\nIt slippery when it's wet girl, I can read the signs\nI knock and I knock, uhh, can I come inside?\nI knock and I knock, girl, can I come inside?\nI feel like it's home when I'm in between ya thighs\nIt's the joy and the pain and the bites and the brain\nWhat make it feel so good, that type of stuff you can't explain\nI do, what I do, to do, to make it rain\nYou got the invite tonight and I'm so glad ya came\n'Cause you the type of dame to be game and yo\nMic check like the way I begin my show\nGirl I come from chica' so in I 'go\nTurn around, it's about to be a TKO\n[Hook]\n\n[Verse 2: Common]\nSome call me Com (Com), some call me the Red (Red)\nYou can call me daddy, I'mma put ya to bed\nAn appetite for seduction and it gotta be fed\nThis sexual eruption gotcha hittin ya head\nOn the board and, knock, you screamin, \"Oh Lord\"\nWe exchange like students cause I study a broad\nAnd listen to ya body and, low key party and\nI keep pushin and pushin, you pump the vol-i-ume up\nWe the type to make lovin we up\nWe take a ride down south cause you need to re-up\nGirl you call me Big Bank like I was savin it up\nI'm the doctor, I can hold it 'til patience is up\nAh, ah, ah-ah - I make, I make I make it hot baby\nAh, ah-ah - I know, I know, I know ya spot baby\nWhen we do it like we don't want it to end\nIt's three PM we gon' do it again\n\n[Hook]\n\n[Bridge: Pharrell]\nC'mon girl, let's go\nTo distant lands unknown\nWe can fly on air\nIf love is every where for you and me\nYou might also like[Hook] + [Bridge]3Embed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/14422",
+    "artist_names": "Common (Ft. CeeLo Green)",
+    "full_title": "Make My Day by\u00a0Common (Ft.\u00a0CeeLo\u00a0Green)",
+    "header_image_thumbnail_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.1000x1000x1.jpg",
+    "id": 14422,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1556422957,
+    "path": "/Common-make-my-day-lyrics",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Common-make-my-day-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 12,
+     "day": 9
+    },
+    "release_date_for_display": "December 9, 2008",
+    "release_date_with_abbreviated_month_for_display": "Dec. 9, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false
+    },
+    "title": "Make My Day",
+    "title_with_featured": "Make My Day (Ft.\u00a0CeeLo\u00a0Green)",
+    "updated_by_human_at": 1607674885,
+    "url": "https://genius.com/Common-make-my-day-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/4413",
+      "header_image_url": "https://images.genius.com/ca9d9a060a1089b5c4f740b8c7a39db5.1000x333x1.jpg",
+      "id": 4413,
+      "image_url": "https://images.genius.com/bf2035e369f7331ffc57a2059a9fce8a.400x400x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "CeeLo Green",
+      "slug": "Ceelo-green",
+      "url": "https://genius.com/artists/Ceelo-green",
+      "iq": 100
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/223",
+     "header_image_url": "https://images.genius.com/5eb3b5fd0cc65fbab5466d22c19278f1.1000x661x1.jpg",
+     "id": 223,
+     "image_url": "https://images.genius.com/334bd07941665eb5b381fb51bced319d.1000x1000x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Common",
+     "slug": "Common",
+     "url": "https://genius.com/artists/Common",
+     "iq": 10935
+    },
+    "artist": "Common",
+    "lyrics": "Make My Day Lyrics[Hook: Cee-Lo]\nYeah the sun is shining brighter\nCause she make my day\nYeah, you really make my day\nAhh-haah-ohh...Ohh-ohh-ohh\nYeah, I think I like her\nCause she really makes my day\nYeah, she really makes my day\nAhh-haah-ohh...Ohh-ohh-ohh\n\n[Verse 1: Common]\nSeen her on the beach, she was wrapped in a towel\nHer body's so endowed, seen her ass, cracked a smile\nEnjoying the Nile, taking the breeze in\nOn some cat and mouse and she was, just cheesing\nThe sun eased in our conversation\nCalifornia dreamin' 'bout Californication\nSaid she had some drinks in the cooler and I had an invitation\nIf I wanted I could brew up, this is just an indication\nOf how cool she was\nA couple chicks came up with their groupie love\nThey ain't want no pictures, only to be hugged\nI'm thinkin' DAMN, damn, that's really cool because\nSometimes I wanna chill\nSometimes the best things in life are not in your plans\nYou came to the sand and got more than a tan\nBaby girl, I'm a man and we can do this my way\nTake a ride on the highway and pretend like it's Friday and it is\n[Hook]\n\n[Verse 2: Common]\nShe was at a barbecue\nPretty painted nails, she took off her shoes\nShe was 'show and tell' like it was grammar school\nSipping on some ale, I'm thinking, \"Man, she cool!\"\nSun smiling on her hair\nHey, they playing spades and we can be a pair\nShe had a spread on her, I can see it from her chair\nI love it when it's sunny, girl, you could be my Cher\nIt's, Independence Day and free is in the air\nWe danced and danced away, yo\nShowed her how to step, it's like a tango\nFrom her body angle, I can tell she like me\nShe got me a flav, girl you're sweet as Icee\nSpicy talk, the sauce drip from my lips\nTake tricks and let's dip, we can do something hip\nTake a trip around the world in a day, play Fiona A\nLet your worries blow away like it's all okay, and it is!\n\n[Hook x2]You might also like1Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/14429",
+    "artist_names": "Common",
+    "full_title": "Sex 4 Suga by\u00a0Common",
+    "header_image_thumbnail_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.1000x1000x1.jpg",
+    "id": 14429,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1565291303,
+    "path": "/Common-sex-4-suga-lyrics",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Common-sex-4-suga-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 12,
+     "day": 9
+    },
+    "release_date_for_display": "December 9, 2008",
+    "release_date_with_abbreviated_month_for_display": "Dec. 9, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Sex 4 Suga",
+    "title_with_featured": "Sex 4 Suga",
+    "updated_by_human_at": 1607675631,
+    "url": "https://genius.com/Common-sex-4-suga-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/223",
+     "header_image_url": "https://images.genius.com/5eb3b5fd0cc65fbab5466d22c19278f1.1000x661x1.jpg",
+     "id": 223,
+     "image_url": "https://images.genius.com/334bd07941665eb5b381fb51bced319d.1000x1000x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Common",
+     "slug": "Common",
+     "url": "https://genius.com/artists/Common",
+     "iq": 10935
+    },
+    "artist": "Common",
+    "lyrics": "Sex 4 Suga Lyrics[Hook x2]\nGirl, ya been touched by the forces of nature\nI'm just trying to motivate ya\nElectricity is definitely there\nI got shocked when I touched your hair\nSex 4 suga, suga 4 sex\nSex 4 suga, suga 4 sex\nSex 4 suga, suga 4 sex\nSex 4 suga, suga 4 sex\n\n[Verse 1]\nGirl, ooh, you look \"uh\"\nYou're the type of thick that I came here for\nWhat's your name? I can't hear ya\nWill it be alright if I called you \"Suga\"?\nYou could call me \"Smokey\", I'll be the \"Bear\"\nYour smell is sexy, it's all in the air\nWhatcha got girl is so unfair\nI like the way you move, so keep it right there\nOr you can do what you wanna do\nI'm just glad I'm in front of you\nBut I don't mind being behind\nCause I'ma touch you where the sun don't shine\nGot my hand on my money while you on the grind\nIn tune with you, cause you so fine\nAnd when you wine, it's genuine\nGet on my vine and we can climb\n[Hook x2]\n\n[Verse 2]\nHeard you used to dance at Magic City\nThe other girls couldn't have been half as pretty\nYou look so sexy when you grab them--\nOoh; oh yes\nSuga good Lord, you've been blessed\nIf this is a sin, I must confess\nThe way you dress, is like burlesque\nI guess you don't mind being undressed\nI like the way it's going down\nHips are moving all around\nRound and round, upside down\nI once was lost but now I'm found\nSweetheart, can you give me another round?\nSweating like you losing pounds\nTouch the ground, making sounds\nSuga ooh Suga, you wear the crown\n\n[Hook x2]\n\n[Bridge]\nAll that dancing, Suga\nMake me want to do ya\nThe way you move and shake it\nAh ah, on the dance floor\nWanna touch and feel ya\nWe can get familiar\nThe way you move and shake it\nMake me want you some more\nYou might also like[Verse 3]\nOoh, you making my nature rise\nWe can do more than fantasize\nLet's do the do, me and you\nWe can whoa-oh-whoa and whoopty whoo\nYour physique brings out my freak\nI like the way your body speaks\nI want some of you every day of the week\nSuga Suga, you ain't nothing sweet, uh\n\n[Hook x2]1Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 29,
+    "api_path": "/songs/58077",
+    "artist_names": "Common (Ft. Pharrell Williams)",
+    "full_title": "Announcement by\u00a0Common (Ft.\u00a0Pharrell\u00a0Williams)",
+    "header_image_thumbnail_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.1000x1000x1.jpg",
+    "id": 58077,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 40944,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1582405025,
+    "path": "/Common-announcement-lyrics",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Common-announcement-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 12,
+     "day": 9
+    },
+    "release_date_for_display": "December 9, 2008",
+    "release_date_with_abbreviated_month_for_display": "Dec. 9, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 5,
+     "hot": false,
+     "pageviews": 5892
+    },
+    "title": "Announcement",
+    "title_with_featured": "Announcement (Ft.\u00a0Pharrell\u00a0Williams)",
+    "updated_by_human_at": 1607675668,
+    "url": "https://genius.com/Common-announcement-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/110",
+      "header_image_url": "https://images.genius.com/6bb3ce5bd62c7acfc3a66798c4bbeb26.640x427x1.jpg",
+      "id": 110,
+      "image_url": "https://images.genius.com/aa964e94a21e7b893801ed3a2bd389b8.1000x1000x1.jpg",
+      "index_character": "p",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Pharrell Williams",
+      "slug": "Pharrell-williams",
+      "url": "https://genius.com/artists/Pharrell-williams",
+      "iq": 692
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/223",
+     "header_image_url": "https://images.genius.com/5eb3b5fd0cc65fbab5466d22c19278f1.1000x661x1.jpg",
+     "id": 223,
+     "image_url": "https://images.genius.com/334bd07941665eb5b381fb51bced319d.1000x1000x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Common",
+     "slug": "Common",
+     "url": "https://genius.com/artists/Common",
+     "iq": 10935
+    },
+    "artist": "Common",
+    "lyrics": "Announcement Lyrics[Intro x3: Common]\nI'm finna take you to the tip-top, baby\n\n[Hook: Common]\nEverybody, I'd like to announce\nThrow your hands up when we in the house\nYeah, this is hip hop, baby\nI'm finna take you to the tip-top, baby\nAnd tell your girl that the tickets is out\nAnd we gonna do this 'til they kickin' us out\nCause, this is hip hop, baby\nI'm finna take you to the tip-top, baby\n[Verse 1: Common]\nLive from the south side, this one, hide your gun\nRepresenting Chi Town to the fullest, raps are bullets\nSee them rappers? They be duckin'\nWhen Comm be buckin' in the kitchen, fuckin'\nOn the sink, got my momma a mink\nThink Common is the link\nThought the game was extinct\nLady, them jeans is as slim as Shady\nBrought them back from the 80's\nNow, let's make some babies\nFreestyle paid off so Lincoln paid me\nNow we can push more whips than slavery\nAlex Haley of this rap shit, my roots is deep\nYou heard the bitch in you, yeah I know what's beef\nLet it cook and I pop like grease\nYou thirsty niggas can't shock my feast, ugh\nI still love her, she be needin' the dick\nWhen it comes to hip-hop, it's just me and my bitch\n\n[Hook]\n\n[Verse 2: Pharrell]\nBaby, you're like, \"What the-- fuck? There is no other\"\nValet crashed my Rolls so quickly I bought another\nSorry, Mr. Williams moved out the building\nSpot to the top, 50 feet was the ceiling\n(Slow down, son, you're killin' 'em) Well funded it was not gangsta\nCame to shitty deals, reminiscing gives me chills\nWhen Puff was with Biggie, Versace on every niggie\nThe backpacker copped the Porsche and drove through his city\nNow, all the little bitties, from ugly to pretty\nI was the magician, mesmerize 'em, made 'em listen\nMy dick is like a blow-pop baby\nAnd it get stiffer than some Botox baby\nBut show out baby, and show me you gon' act right\nAnd I'll be pedaling backwards like a track bike\nShe don't know the Casio cost a hundred\nIt's been two years since I done it, now all the rappers want it\nWhat?\nYou might also like[Hook]\n\n[Verse 3: Common]\nAs I sit back, relax with Chicago on my back\nUnzip the backpack, pull out a fifth of 'gnac\nI probably go to jail but naw, that ain't me\nI style crazy and net like Jay Z\nThe black Kojak \"I get money\" and want more stacks\nThe rap photographer, the way the flow snap\nBroads say, \"Are you a philosopher?\"\nYea yea, I'll philosophize on top of ya\n\n[Hook]1Embed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 23,
+    "api_path": "/songs/14418",
+    "artist_names": "Common",
+    "full_title": "Gladiator by\u00a0Common",
+    "header_image_thumbnail_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.1000x1000x1.jpg",
+    "id": 14418,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1629583976,
+    "path": "/Common-gladiator-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Common-gladiator-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 12,
+     "day": 9
+    },
+    "release_date_for_display": "December 9, 2008",
+    "release_date_with_abbreviated_month_for_display": "Dec. 9, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false
+    },
+    "title": "Gladiator",
+    "title_with_featured": "Gladiator",
+    "updated_by_human_at": 1629584034,
+    "url": "https://genius.com/Common-gladiator-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/223",
+     "header_image_url": "https://images.genius.com/5eb3b5fd0cc65fbab5466d22c19278f1.1000x661x1.jpg",
+     "id": 223,
+     "image_url": "https://images.genius.com/334bd07941665eb5b381fb51bced319d.1000x1000x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Common",
+     "slug": "Common",
+     "url": "https://genius.com/artists/Common",
+     "iq": 10935
+    },
+    "artist": "Common",
+    "lyrics": "Gladiator Lyrics[Intro: Pharrell & Common]\nNothing, nothing, nothing, nothing\nNothing you could do (Straight up)\nThere's nothing you could do (You know the boy is serious)\nThere's nothing you could do\nI don't even know why you wanna play with it\nThere's nothing you could do\n\n[Hook: Common]\nThey say he's a radical, he don't fit the game\nA heart full of glory and a fist of pain\nA couple of battle scars but shit's the same\nAre you not entertained?\nTo all the onlookers and the bystanders\nWait 'til intermission, run, buy your cameras\nRecord the moment, cause it'll be platinum\nAnd you could say you seen Common rock the stadium\nThe gladiator\n[Verse 1: Common]\nI was told by a wise old to come from the heart\nThough I might've did The Light, I don't run from the dark\nThe dark knight to spark mics and start fights\nThe warrior archetype like Kimbo Slice\nIt's strength in the beard, am I loved or feared?\nA beast amongst boys, like Paul I'm revered\nVroof, vroof-vroof, vroof-vroof-vroof, well\nLike Jacob Jewel, I keep clientele\nYou frail on the mic like you might break a nail\nI might smoke a joint but I won't take the L\nI knew a fat broad that broke the scale\nStill touched down cause I was off Martell\nHad dreams of breaking Mike Vick out of jail\nTook the Underground Rail' to the NFL\nI rebel in YSL\nHere to leave a trail like Nelson Mandel'\n\n[Pre-Hook: Pharrell & Common]\nThere's nothing you could do\nMan, why you wanna go against me?\nThere's nothing you could do (You've seen where I'm from)\nThere's nothing you could do (You've seen what I do)\nThere's nothing you could do\n\n[Hook: Common]\nThey say he's a radical, he don't fit the game\nA heart full of glory and a fist of pain\nA couple of battle scars but shit's the same\nAre you not entertained?\nTo all the onlookers and the bystanders\nWait 'til intermission, run, buy your cameras\nRecord the moment, cause it'll be platinum\nAnd you could say you seen Common rock the stadium\nThe gladiator\nYou might also like[Verse 2: Common]\nMy words is the sword, my skill is the shield\nMy life is the style, I stay dressed to kill\nA legend like Will, Smith with the steel\nI could save the world when shit get for real\nThe skinny George Foreman, all in your grill\nMy rhyme style is blind, it's all in the feel\nTouch it and watch the blood fall with the steel\nThe weak raps you wrote you could call that your will\nMy drive (VROOM!) is how I stay the livest\nYour guys got you gassed, my flow is a hybrid\nCrashed I survived it, gashes over eyelids\nYou easy to take out cause you hot garbage\nI'm amped like wattage\u2014the truth, nigga, honest\nAny moment opponents drop out like college\nKneel and pay homage to the rap Ziggy Stardust\nStadium, hands in the air, fists balled up\n\n[Pre-Hook: Pharrell & Common]\nThere's nothing you could do (You know what it is)\nThere's nothing you could do (The boy is raw)\nThere's nothing you could do (So who next?)\nThere's nothing you could do\n\n[Hook: Common]\nThey say he's a radical, he don't fit the game\nA heart full of glory and a fist of pain\nA couple of battle scars but shit's the same\nAre you not entertained?\nTo all the onlookers and the bystanders\nWait 'til intermission, run, buy your cameras\nRecord the moment, cause it'll be platinum\nAnd you could say you seen Common rock the stadium\nThe gladiator\n[Verse 3: Common]\nFeet in the dirt, blood on the shirt\nScars over bars, symbols of the work\nTight clothes the armor, center of the drama\nDefeat your whole army like this is Sparta\nSo don't violate or you'll get violated\nSome of you model bitches is so overrated\nDon't mean to underrate it but damn it, I made it\nIn the water I waded, on the corner I painted\nDraw blood like we related\nMCs get de-decapitated\nSyncopated is the style that I fight with, write with\nMr. Excitement change your face up like a white chick\nThen light shit up like a dread with the herbs\nGet sex in the city and head in the burbs\nThese are the words of a radical\nThe crowd applaud, I'm bowed, I'm proud\nTo be the gladiator\n\n[Pre-Hook: Pharrell & Common]\nThere's nothing you could do (How could you even question this?)\nThere's nothing you could do\nThere's nothing you could do (Now you know)\nThere's nothing you could do (The future)\n\n[Hook: Common]\nThey say he's a radical, he don't fit the game\nA heart full of glory and a fist of pain\nA couple of battle scars but shit's the same\nAre you not entertained?\nTo all the onlookers and the bystanders\nWait 'til intermission, run, buy your cameras\nRecord the moment, cause it'll be platinum\nAnd you could say you seen Common rock the stadium\nThe gladiatorEmbed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/201613",
+    "artist_names": "Common (Ft. Muhsinah)",
+    "full_title": "Changes by\u00a0Common (Ft.\u00a0Muhsinah)",
+    "header_image_thumbnail_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.1000x1000x1.jpg",
+    "id": 201613,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 88410,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1556422445,
+    "path": "/Common-changes-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Common-changes-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 11,
+     "day": 6
+    },
+    "release_date_for_display": "November 6, 2008",
+    "release_date_with_abbreviated_month_for_display": "Nov. 6, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 4,
+     "hot": false
+    },
+    "title": "Changes",
+    "title_with_featured": "Changes (Ft.\u00a0Muhsinah)",
+    "updated_by_human_at": 1607675520,
+    "url": "https://genius.com/Common-changes-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/64642",
+      "header_image_url": "https://images.genius.com/bddfd0f606181ef70d6ae5d13f33a9c1.1000x1000x1.jpg",
+      "id": 64642,
+      "image_url": "https://images.genius.com/b9610a9f577054b6c5eca157ac61e0b7.852x852x1.jpg",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Muhsinah",
+      "slug": "Muhsinah",
+      "url": "https://genius.com/artists/Muhsinah"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/223",
+     "header_image_url": "https://images.genius.com/5eb3b5fd0cc65fbab5466d22c19278f1.1000x661x1.jpg",
+     "id": 223,
+     "image_url": "https://images.genius.com/334bd07941665eb5b381fb51bced319d.1000x1000x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Common",
+     "slug": "Common",
+     "url": "https://genius.com/artists/Common",
+     "iq": 10935
+    },
+    "artist": "Common",
+    "lyrics": "Changes Lyrics[Verse 1: Common]\nI'm the river that flow through the hood\nThrough the woods, through the 'burbs\nThrough the mud, through the bricks\nOver the curb, to the forest reserve\nGot with four acres and a forest of words\nPlant and grown them, for the young seeds to know them\nTrees is blowing, we see change in the wind\nIt's a new day and I got to take it in\nSee a black man run, we need him to win\nYoung eyes search, search for a better tomorrow\nThat belief lead the way and the angels follow\nOpen doors for the hopeful to go through\nCause I was chose to and I'm supposed to\n[Hook x2: Muhsinah]\nI know that change gon' come\nThe race begun\nWe're almost there, oh yea\n\n[Verse 2: Common]\nI spoke like a child, I wrote like a child\nAlways smiled, let my mind float like a child\nWishing I was smart as these kids are now\nAll grown up still wishing I'm child, again\nChurch song reminded me to stay grateful\nOmoye reminded me to stay playful\nDays go by, my life on high\nI lead on my wall so the fight don't die\nIn me, I found purpose why I emcee\nInspire a young world to be greater than me\nI fall awake and I dream a song\nSo the little shorties will sing along\n\n[Hook x2]\n\n[Verse 3]\nWelcome children, welcome me\nYour sentiments is felt in me\nI see the future and the walk you have\nDon't let these fools take you off your path\nLaugh if you need to, smile if you need to\nLife is a trip, ride along and proceed to\nDrive to believe to do what you want to do\nRemember your kings and queens are still humble too\nLife is in front of you, no need to look back again\nVictory can be claimed while you still battling\nTravel along with the food I provide you\nTo awaken the voice that's inside you\nYou might also like[Hook x2]\n\n[Outro: Omoye Assata Lynn]\nChange is inevitable you can't stop it\nChange is happening in everybody's life\nChange is like a furious hurricane that you can't stop\nWhat is change?\nChange is Martin Luther King Jr.,\nGhandi, Shakespeare, Assata Shakur\nBarack Obama\nAnd you can't forget Common\nChange is gonna happen\nChange is hopeEmbed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 5,
+    "api_path": "/songs/201600",
+    "artist_names": "Common",
+    "full_title": "Inhale by\u00a0Common",
+    "header_image_thumbnail_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.1000x1000x1.jpg",
+    "id": 201600,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 88410,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1631470033,
+    "path": "/Common-inhale-lyrics",
+    "pyongs_count": 3,
+    "relationships_index_url": "https://genius.com/Common-inhale-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 12,
+     "day": 9
+    },
+    "release_date_for_display": "December 9, 2008",
+    "release_date_with_abbreviated_month_for_display": "Dec. 9, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Inhale",
+    "title_with_featured": "Inhale",
+    "updated_by_human_at": 1631470033,
+    "url": "https://genius.com/Common-inhale-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/223",
+     "header_image_url": "https://images.genius.com/5eb3b5fd0cc65fbab5466d22c19278f1.1000x661x1.jpg",
+     "id": 223,
+     "image_url": "https://images.genius.com/334bd07941665eb5b381fb51bced319d.1000x1000x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Common",
+     "slug": "Common",
+     "url": "https://genius.com/artists/Common",
+     "iq": 10935
+    },
+    "artist": "Common",
+    "lyrics": "Inhale Lyrics[Hook]\nIn-inhale, in-inhale\nIn-inhale, in-inhale\n\n[Verse 1]\nI breathe deep like an old man in a deep sleep\nOr Indian peace pipe in a tepee\nThe beginning, the end; the first, the last\nBreath into eternity the verse will last\nGot a chick in the south that be cursing fast\nWhen it was a drought, I knew the thirst would last\nHunger of a homeless, microphoners\nPlayed the game and got a bonus, man cause the plan is\nTo master like Tiger, so much drive\nI am the definition of a rider\nDaughter's name means 'survivor', from a tribe of\nColliders, just one word can't describe her\nA scribe of the streets, and a good life that we all want to reach\nI'm hotter than a beach\nFlow is so deep, even underwater\nI can inhale to put the world in order\n[Hook]\n\n[Verse 2]\nGasping for air, and everlast\nStill raps that are rare, I write with Christ\nPassion to stair-way to Heaven is to stay in step\nBreath is deep like my man Johnny Depp\nYou never know the next one God could have kept\nSo I find it hard to accept\nI came from a gang, now I'm a star with a rep\nJust to get-- by, 'cause I was slept on like a red-eye\nLike Rastafara, I knew to keep my head high\nBlessed by the father, son of the author of life\nSo rap became my wife\nLike love at first sight or a thug in his first fight\nIt's all new, so you got to feel your way through\nUntil you break through, it might take two\nInhale deep to inflict too, it's great to\nBreathe\n\n[Hook x2]You might also like3Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 9,
+    "api_path": "/songs/78669",
+    "artist_names": "Common (Ft. Chester French)",
+    "full_title": "What a World by\u00a0Common (Ft.\u00a0Chester\u00a0French)",
+    "header_image_thumbnail_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.1000x1000x1.jpg",
+    "id": 78669,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 11524,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1556426466,
+    "path": "/Common-what-a-world-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Common-what-a-world-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 12,
+     "day": 9
+    },
+    "release_date_for_display": "December 9, 2008",
+    "release_date_with_abbreviated_month_for_display": "Dec. 9, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false
+    },
+    "title": "What a World",
+    "title_with_featured": "What a World (Ft.\u00a0Chester\u00a0French)",
+    "updated_by_human_at": 1607675984,
+    "url": "https://genius.com/Common-what-a-world-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1320",
+      "header_image_url": "https://images.genius.com/df97b07fa6b5969633cc654de0de74b0.1000x667x1.jpg",
+      "id": 1320,
+      "image_url": "https://images.genius.com/83f241bddd502df18510f6c0dbcf37d0.570x525x1.jpg",
+      "index_character": "c",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Chester French",
+      "slug": "Chester-french",
+      "url": "https://genius.com/artists/Chester-french"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/223",
+     "header_image_url": "https://images.genius.com/5eb3b5fd0cc65fbab5466d22c19278f1.1000x661x1.jpg",
+     "id": 223,
+     "image_url": "https://images.genius.com/334bd07941665eb5b381fb51bced319d.1000x1000x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Common",
+     "slug": "Common",
+     "url": "https://genius.com/artists/Common",
+     "iq": 10935
+    },
+    "artist": "Common",
+    "lyrics": "What a World Lyrics[Hook: Chester French]\nWhat do you see when you look at me and I'm just standing there?\nShit that make a robot twerk, that\u2019s what's in my blood\nAnd I won\u2019t stop until I drop, cause my life's just burning out\nSo I'll keep climbing and won\u2019t look down until I reach the top\nWhat a world, what a world, what a world, what a world\nWhat a world, what a world, what a world, what a world\n[Verse 1]\nA little boy from Chicago had dreams to be a star\nAnd make a way and get some pay and drive a fancy car\nThough his mama used to say to him, \u201cAye boy just go school\u201d\nBut whether it was old or new, in school he broke the rules\n[Hook]\n\n[Verse 2]\nNow his whole life he told his boys, \u201cHey y'all I'm going to rap\u201d\nSo when he got a rap contract, it wasn't no turning back\nNow his mama she would say to him, \u201cYou need to get get back in school\u201d\nAnd all the trash that the peoples say, he was using that for fuel\n\n[Hook]\n\n[Verse 3]\nAnd the story goes on and on, it goes on and on and on\nThey say, \u201cHey boy, you rap real good, but you ain't making no hit songs\u201d\nSo he'd tell him self, \"Yo yo yo, self, you gotta do it the way you do\nAnd make this music from your soul and make it fresh and new\"\n\n[Hook]\n\n[Verse 4]\nThen the game it started to change, they say music, it ain't the same\nThough he remained, the song he sang is, \"Keep your drive stay in your lane\"\nInch by inch the people came, they started to know his name and say, \"Do your thang\"\nNow the whole whole world singing his song from Chicago a star is born\n\n[Hook]You might also likeEmbed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/14428",
+    "artist_names": "Common (Ft. Martina Topley-Bird)",
+    "full_title": "Everywhere by\u00a0Common (Ft.\u00a0Martina\u00a0Topley-Bird)",
+    "header_image_thumbnail_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.1000x1000x1.jpg",
+    "id": 14428,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1556422442,
+    "path": "/Common-everywhere-lyrics",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Common-everywhere-sample",
+    "release_date_components": {
+     "year": 2008,
+     "month": 12,
+     "day": 9
+    },
+    "release_date_for_display": "December 9, 2008",
+    "release_date_with_abbreviated_month_for_display": "Dec. 9, 2008",
+    "song_art_image_thumbnail_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/5e77fbc81fc58bc396f33872fc1ec855.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Everywhere",
+    "title_with_featured": "Everywhere (Ft.\u00a0Martina\u00a0Topley-Bird)",
+    "updated_by_human_at": 1607676124,
+    "url": "https://genius.com/Common-everywhere-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1707",
+      "header_image_url": "https://images.genius.com/5a62afbc774c569172b38386a6b7f4bf.547x697x1.jpg",
+      "id": 1707,
+      "image_url": "https://images.genius.com/27ceadfc7d17cc74412c7567b62aa6f6.471x471x1.jpg",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Martina Topley-Bird",
+      "slug": "Martina-topley-bird",
+      "url": "https://genius.com/artists/Martina-topley-bird"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/223",
+     "header_image_url": "https://images.genius.com/5eb3b5fd0cc65fbab5466d22c19278f1.1000x661x1.jpg",
+     "id": 223,
+     "image_url": "https://images.genius.com/334bd07941665eb5b381fb51bced319d.1000x1000x1.jpg",
+     "index_character": "c",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Common",
+     "slug": "Common",
+     "url": "https://genius.com/artists/Common",
+     "iq": 10935
+    },
+    "artist": "Common",
+    "lyrics": "Everywhere Lyrics[Hook: Martina Topley-Bird]\nHow did you know I've been waiting for this time to come?\nAnd though it tastes like forever\nIt may not stay long\nEverywhere is summer. (x4)\n\n[Verse 1: Martina Topley-Bird]\nA shaman since before my birth\nAnd I came down to rock the Earth\nMy mission condition:\nI give you, you listen\nI'm syncing in time in parallel\nIn binary, no 3rd return\nI'm planning intention\nWith all the redemption\n[Hook]\n\n[Verse 2: Common]\nNo pop, no pop, no pop, no pop\nWe gon'do this thang till the sky just drop\nLock into ya mind away we rock\nIn a rocket is the 87 astronaut\nTop of the soul, dove and I got in a hole\nAt the moment they were saying, \"It was outta control\"\nStrap in to your mind, why eyes see some recline\nYou'll see in time your season to shine\nWhen the stadium is dark, emcees are defined\nGet ready, on your mark, put your feet on the line\nThe race is on to space beyond\nYou gon' get there by doing what you want\nSometimes the most famous feel all alone\nSo we drift to a place that we call our home\nI was known as being spaced and outta my dome\nNow I know, it's all I've known\n\n[Hook]You might also like1Embed"
+   }
+  }
+ ]
+}

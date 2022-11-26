@@ -1,0 +1,181 @@
+{
+ "_type": "album",
+ "api_path": "/albums/22565",
+ "cover_art_thumbnail_url": "https://images.genius.com/188ec64cf1aef9029f1d39d44c36d7a7.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/188ec64cf1aef9029f1d39d44c36d7a7.600x600x1.jpg",
+ "full_title": "Deep Hearted by Strong Arm Steady",
+ "id": 22565,
+ "name": "Deep Hearted",
+ "name_with_artist": "Deep Hearted (artist: Strong Arm Steady)",
+ "release_date_components": {
+  "year": 2007,
+  "month": 8,
+  "day": 28
+ },
+ "url": "https://genius.com/albums/Strong-arm-steady/Deep-hearted",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/5360",
+  "header_image_url": "https://images.genius.com/2f1773bc32cdc3239d1076cb4ae06df6.1000x664x1.jpg",
+  "id": 5360,
+  "image_url": "https://images.genius.com/ed3767e2d5c63bfc5c0a9e1d27a59f51.1000x1000x1.jpg",
+  "index_character": "s",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Strong Arm Steady",
+  "slug": "Strong-arm-steady",
+  "url": "https://genius.com/artists/Strong-arm-steady"
+ },
+ "tracks": [
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 11,
+    "api_path": "/songs/92690",
+    "artist_names": "Strong Arm Steady (Ft. Dilated Peoples)",
+    "full_title": "Co-Operation by\u00a0Strong\u00a0Arm Steady (Ft.\u00a0Dilated\u00a0Peoples)",
+    "header_image_thumbnail_url": "https://images.genius.com/188ec64cf1aef9029f1d39d44c36d7a7.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/188ec64cf1aef9029f1d39d44c36d7a7.600x600x1.jpg",
+    "id": 92690,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 89158,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": null,
+    "path": "/Strong-arm-steady-co-operation-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Strong-arm-steady-co-operation-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 8,
+     "day": 28
+    },
+    "release_date_for_display": "August 28, 2007",
+    "release_date_with_abbreviated_month_for_display": "Aug. 28, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/188ec64cf1aef9029f1d39d44c36d7a7.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/188ec64cf1aef9029f1d39d44c36d7a7.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 8,
+     "hot": false
+    },
+    "title": "Co-Operation",
+    "title_with_featured": "Co-Operation (Ft.\u00a0Dilated\u00a0Peoples)",
+    "updated_by_human_at": 1537663618,
+    "url": "https://genius.com/Strong-arm-steady-co-operation-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/1091",
+      "header_image_url": "https://images.genius.com/dd1b6ed40bb79b9416be73caa288332d.600x400x1.jpg",
+      "id": 1091,
+      "image_url": "https://images.genius.com/dd1b6ed40bb79b9416be73caa288332d.600x400x1.jpg",
+      "index_character": "d",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Dilated Peoples",
+      "slug": "Dilated-peoples",
+      "url": "https://genius.com/artists/Dilated-peoples"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/5360",
+     "header_image_url": "https://images.genius.com/2f1773bc32cdc3239d1076cb4ae06df6.1000x664x1.jpg",
+     "id": 5360,
+     "image_url": "https://images.genius.com/ed3767e2d5c63bfc5c0a9e1d27a59f51.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Strong Arm Steady",
+     "slug": "Strong-arm-steady",
+     "url": "https://genius.com/artists/Strong-arm-steady"
+    },
+    "artist": "Strong Arm Steady",
+    "lyrics": "Co-Operation Lyrics[Hook]\nDead men tell no stories, liars can\u2019t live in the street\nWhatever plans God has for me, I\u2019ll cooperate instead of compete\nWe coming for \u2018em nigga, (Yeah!)\nAin\u2019t no looking back (Yeah)\nForward motion nigga\nJust remember that\nWe gon\u2019 get \u2018em, get \u2018em, we gon\u2019 hit \u2018em, hit \u2018em. (No...No...No)\nWe gon\u2019 get \u2018em get \u2018em, we gon\u2019 hit \u2018em, hit \u2018em\n\n[Evidence]\n(It\u2019s that CA all day...)\nEvidence, Taylor Made, it\u2019s custom\nI heard if they smile too much don\u2019t trust \u2018em\nI heard the phone\u2019s no place for discussion\nJust heard a click, either I\u2019m bugged or bugging. (Look out!)\nSome call it living in fear\nBelieve most of what you see, some of what you hear\nDon\u2019t believe in ghosts?\nThe Lost Angel\u2019s here\nDon\u2019t think your friends will set you up?\nIt\u2019s your year - it\u2019s going down\nAnd when it does, shed no tears\nSleep with both eyes open, and one of my ears\nReady, always scoping one of my peers\nI can sense the fake energy behind your cheers\nI can slow the flow down, just to make it clear\nShift my gears, my enemies close in line\nIf you can\u2019t trust none of your crew, how you supposed to climb\nI guess keep your guard up, they fade out in due time\n[Hook]\n\n[Mitchy Slick]\nWhy when a nigga from the West where Dickies it\u2019s too bangin\nBut when out-of-towners do it, it\u2019s a fashion statement (Fuck that!)\nWhy most DJs out here say they support the West\nBump us on Hump Day, but chump us out the rest\nHow to blow under those conditions?\nI\u2019m only known where the project chicks is living\nWhere the Ninety-Six Caprice\u2019s on the spinners is driven\nWhen Slick spitting better know the hitmen is listening\nThat\u2019s who I kick it for - not the radio\nMy niggas is stuck with California Level Fours\nTo use hip-hop to motivate in other days\nWith the urban survival even if it causes decay\nStretching yay, having to put a bitch they kinda like, out on the blade\nSteady Gang feel the killers and the dealers pain\nSome of us still got hard flame for slang\n\n[Hook]\n\n[Rakaa]\n(We gon\u2019 get \u2018em...)\nWatch you colors homie, watch your slang\nWatch how you make your fingers twist and change\nA lot of brothers out here still ain\u2019t playing\nA lot of blocks out here still gang bang\nDilated wrong kind, SD to LA\nTo the Bay, gotta say \u2018Rest in Peace\u2019 to Mac Dre (R.I.P!)\nBoyz in the Hood shit, Menance to Society flow\nNow the beats bang like Colors on your radio\nCrazy since the Eighties, now Kobe\u2019s dropping eighty-one\nOn these rap tours, nightclubs to the stadium\nSick Angelino squad, savage ammunition strike\nStrong Arm Steady Gang, sedatives and stimuli\nBack with a bong, man we just killed a quarter\nI\u2019m a DJ advocate, toasting firewater\nWith Krondon and Phil Da Agony chopping up the orders\nMoving big work with Mitchy Slick, down by the border\nYou might also like[Outro - Mitchy Slick]\nYeah...nigga, Strong Arm Steady, nigga\nYeah, West Coast is cracking, don\u2019t get it fucked up\nAnd Dilated, don\u2019t get them fucked up neither, yeah datEmbed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/147806",
+    "artist_names": "Strong Arm Steady (Ft. Black Thought & Saukrates)",
+    "full_title": "Clean Up by\u00a0Strong\u00a0Arm Steady (Ft.\u00a0Black\u00a0Thought & Saukrates)",
+    "header_image_thumbnail_url": "https://images.genius.com/188ec64cf1aef9029f1d39d44c36d7a7.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/188ec64cf1aef9029f1d39d44c36d7a7.600x600x1.jpg",
+    "id": 147806,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 303,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1626129280,
+    "path": "/Strong-arm-steady-clean-up-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Strong-arm-steady-clean-up-sample",
+    "release_date_components": {
+     "year": 2007,
+     "month": 8,
+     "day": 28
+    },
+    "release_date_for_display": "August 28, 2007",
+    "release_date_with_abbreviated_month_for_display": "Aug. 28, 2007",
+    "song_art_image_thumbnail_url": "https://images.genius.com/188ec64cf1aef9029f1d39d44c36d7a7.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/188ec64cf1aef9029f1d39d44c36d7a7.600x600x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false
+    },
+    "title": "Clean Up",
+    "title_with_featured": "Clean Up (Ft.\u00a0Black\u00a0Thought & Saukrates)",
+    "updated_by_human_at": 1626129279,
+    "url": "https://genius.com/Strong-arm-steady-clean-up-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/176",
+      "header_image_url": "https://images.genius.com/f88b161036a5c143cd012057a090d326.560x560x1.jpg",
+      "id": 176,
+      "image_url": "https://images.genius.com/f88b161036a5c143cd012057a090d326.560x560x1.jpg",
+      "index_character": "b",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Black Thought",
+      "slug": "Black-thought",
+      "url": "https://genius.com/artists/Black-thought",
+      "iq": 11969
+     },
+     {
+      "_type": "artist",
+      "api_path": "/artists/1957",
+      "header_image_url": "https://s3.amazonaws.com/rapgenius/tumblr_m7br2tdFDR1qlmdtco1_1342561582_cover.jpg",
+      "id": 1957,
+      "image_url": "https://s3.amazonaws.com/rapgenius/tumblr_m7br2tdFDR1qlmdtco1_1342561582_cover.jpg",
+      "index_character": "s",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Saukrates",
+      "slug": "Saukrates",
+      "url": "https://genius.com/artists/Saukrates"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/5360",
+     "header_image_url": "https://images.genius.com/2f1773bc32cdc3239d1076cb4ae06df6.1000x664x1.jpg",
+     "id": 5360,
+     "image_url": "https://images.genius.com/ed3767e2d5c63bfc5c0a9e1d27a59f51.1000x1000x1.jpg",
+     "index_character": "s",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Strong Arm Steady",
+     "slug": "Strong-arm-steady",
+     "url": "https://genius.com/artists/Strong-arm-steady"
+    },
+    "artist": "Strong Arm Steady",
+    "lyrics": "Clean Up Lyrics[Intro]\nNow this is the real thing, we found a groove, ha\nWe move each other\n\n[Verse 1: Saukrates]\nI don't wanna leave you on the sidelines dude\nThe clock is ticking get your mind right dude\nRememberin' the days when I was like you\nWhy I ain't end up in the pine box? True\nWhat goes up, must come down\nSo when you sittin' at the top, you've won one round\nNow here comes one generation that's so profound\nYou ain't never heard the word \"assassination\" so pronounced\nLike as yo, as go through the repercussion of\nWinnin' while you sinnin', the nation stay huntin' for you\n[Hook: Saukrates]\nAnd I don't mean to break the news to you niggas\nBut the crabs in the bucket are true\nAs true as a bullet, easy as a trigger pon it\nI'm sure you'll do what's best for you\nSo clean up, don't ease up\nI know you'll do what's best for you\n\n[Verse 2: Krondon]\nDon't let the pressure leave your membrane bust\nI see this wicked world got your head messed up\nYou couldn't cut it so you should've been gave up\nWho told yo ass hit that angel dust?\nWe the needy with bullets for the gritty\nGrind time 24/7, substance possessions\nPeter get strong armed to pay Pa\nIt's a hood loan, hollow hearts ain't involved\nRelationships can't resolve, we entertain spite\nHunger pains, watch parallels evolve\nRealise size ain't shit, it's a movement\nOf the grit or result to the time that's spent\nNot speculating gang bang culture we live amongst\nOr the crunk, know no better so you get stuck\nBad luck's contagious, but telling is hereditary\nA few get the shine but the rest behind cages\nScary\nYou might also like[Hook: Saukrates]\nAnd I don't mean to break the news to you niggas\nBut the crabs in the bucket are true\nAs true as a bullet, easy as a trigger pon it\nI'm sure you'll do what's best for you\nSo clean up, don't ease up\nI know you'll do what's best for you\n\n[Verse 3: Black Thought]\nYo, conflict is crucial, the drama is just futile, hush\nKinda make you wanna wonder what to do you know it must\nGet a little easier on some \"Ooh Child\", trust\nPeople cut throat this is the new style\nI know your man just passed but this too shall\nJust keep those crabs out of where you lay your roots down\nThey in the bucket tryna make they splash\nAnd cake boys figure, fuck it they gon' take they cash\nCause it's like, I gotta get it, gots-gots to get it\nEspecially in a city where cops not permitted\nSo box lock your digits\nI hate to be the one to break the news to you but shit's hot\nWatch them niggas\nA few is gonna flat out, walk up and say \"fuck you\"\nOthers is gon' play it like, \"Aye, what you been up to?\"\nKnowing they only wanna get somebody to touch you\nI know regardless you gon' do what you must do, true\n(You)\n[Hook: Saukrates]\nAnd I don't mean to break the news to you niggas\nBut the crabs in the bucket are true\nAs true as a bullet, easy as a trigger pon it\nI'm sure you'll do what's best for you\nSo clean up, don't ease up\nI know you'll do what's best for you\n\n[Outro]\nMe? You know I ain't high\nNigga, I ain't high\nYou know why?\nCause I can't truly be high unless all my motherfuckin' friends is high\nI look around, I see my friends\nDo you know what I feel like doing?\n(What you feel like doing?)\nI feel like sharing my shitEmbed"
+   }
+  }
+ ]
+}

@@ -1,0 +1,3955 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/564442",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+ "id": 564442,
+ "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "T La Rock",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/T-la-rock",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 1181198,
+  "annotator_login": "InMySix-Four",
+  "api_path": "/referents/7794147",
+  "classification": "needs_exegesis",
+  "fragment": "T La Rock",
+  "id": 7794147,
+  "is_description": true,
+  "path": "/7794147/T-la-rock/T-la-rock",
+  "range": {
+   "content": "T La Rock"
+  },
+  "song_id": null,
+  "url": "https://genius.com/7794147/T-la-rock/T-la-rock",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/564442",
+   "context": null,
+   "id": 564442,
+   "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+   "link_title": "T La Rock",
+   "title": "T La Rock",
+   "type": "Artist",
+   "url": "https://genius.com/artists/T-la-rock"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/7794147",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 7794147,
+    "pinned": false,
+    "share_url": "https://genius.com/7794147",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/7794147/T-la-rock/T-la-rock",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/1181198",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.rapgenius.com/avatars/tiny/3a994550a63de4cbe2993e9c81473314",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.rapgenius.com/avatars/thumb/3a994550a63de4cbe2993e9c81473314",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.rapgenius.com/avatars/small/3a994550a63de4cbe2993e9c81473314",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.rapgenius.com/avatars/medium/3a994550a63de4cbe2993e9c81473314",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.rapgenius.com/avatars/medium/3a994550a63de4cbe2993e9c81473314",
+       "human_readable_role_for_display": "Contributor",
+       "id": 1181198,
+       "iq": 13294,
+       "login": "InMySix-Four",
+       "name": "InMySix-Four",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/InMySix-Four",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3059814",
+   "artist_names": "T La Rock",
+   "full_title": "Tudy Fruity Judy by\u00a0T\u00a0La Rock",
+   "header_image_thumbnail_url": "https://images.genius.com/28cbecd1e8b5e6ae733c8f05106ee30c.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/28cbecd1e8b5e6ae733c8f05106ee30c.300x300x1.jpg",
+   "id": 3059814,
+   "language": "en",
+   "lyrics_owner_id": 3390058,
+   "lyrics_state": "complete",
+   "path": "/T-la-rock-tudy-fruity-judy-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/T-la-rock-tudy-fruity-judy-sample",
+   "release_date_components": {
+    "year": 1987,
+    "month": 1,
+    "day": 1
+   },
+   "release_date_for_display": "January 1, 1987",
+   "release_date_with_abbreviated_month_for_display": "Jan. 1, 1987",
+   "song_art_image_thumbnail_url": "https://images.genius.com/28cbecd1e8b5e6ae733c8f05106ee30c.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/28cbecd1e8b5e6ae733c8f05106ee30c.300x300x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Tudy Fruity Judy",
+   "title_with_featured": "Tudy Fruity Judy",
+   "url": "https://genius.com/T-la-rock-tudy-fruity-judy-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/564442",
+    "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+    "id": 564442,
+    "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "T La Rock",
+    "url": "https://genius.com/artists/T-la-rock"
+   },
+   "apple_music_id": "160151600",
+   "apple_music_player_url": "https://genius.com/songs/3059814/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3059814' class='rg_embed_link' data-song-id='3059814'>Read <a href='https://genius.com/T-la-rock-tudy-fruity-judy-lyrics'>\u201cTudy Fruity Judy\u201d by T\u00a0La Rock</a> on Genius</div> <script crossorigin src='//genius.com/songs/3059814/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1987-01-01",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/340824",
+    "cover_art_url": "https://images.genius.com/0bbdd95a3dca596956e0daf90b355580.600x600x1.jpg",
+    "full_title": "Lyrical King (From the Boogie Down Bronx) by T La Rock",
+    "id": 340824,
+    "name": "Lyrical King (From the Boogie Down Bronx)",
+    "url": "https://genius.com/albums/T-la-rock/Lyrical-king-from-the-boogie-down-bronx",
+    "artist": {
+     "api_path": "/artists/564442",
+     "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "id": 564442,
+     "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "T La Rock",
+     "url": "https://genius.com/artists/T-la-rock"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3390058,
+    "annotator_login": "BiggDJD",
+    "api_path": "/referents/11697125",
+    "classification": "needs_exegesis",
+    "fragment": "Tudy Fruity Judy",
+    "id": 11697125,
+    "is_description": true,
+    "path": "/11697125/T-la-rock-tudy-fruity-judy/Tudy-fruity-judy",
+    "range": {
+     "content": "Tudy Fruity Judy"
+    },
+    "song_id": 3059814,
+    "url": "https://genius.com/11697125/T-la-rock-tudy-fruity-judy/Tudy-fruity-judy",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3059814",
+     "client_timestamps": {
+      "updated_by_human_at": 1571618124,
+      "lyrics_updated_at": 1571618124
+     },
+     "context": "T La Rock",
+     "id": 3059814,
+     "image_url": "https://images.genius.com/28cbecd1e8b5e6ae733c8f05106ee30c.300x300x1.jpg",
+     "link_title": "Tudy Fruity Judy by\u00a0T\u00a0La Rock",
+     "title": "Tudy Fruity Judy",
+     "type": "Song",
+     "url": "https://genius.com/T-la-rock-tudy-fruity-judy-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11697125",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11697125,
+      "pinned": false,
+      "share_url": "https://genius.com/11697125",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11697125/T-la-rock-tudy-fruity-judy/Tudy-fruity-judy",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3390058",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/l60cv0yu0t",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/l60cv0yu0t",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/l60cv0yu0t",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/l60cv0yu0t",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/52kuzi4ho2m",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3390058,
+         "iq": 570,
+         "login": "BiggDJD",
+         "name": "BiggDJD",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/BiggDJD",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=EsrR0FFQlkc"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/382763",
+     "header_image_url": "https://images.genius.com/76cbbcd88bf70e21d61e3284eae3d442.355x355x1.jpg",
+     "id": 382763,
+     "image_url": "https://images.genius.com/76cbbcd88bf70e21d61e3284eae3d442.355x355x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kurtis Mantronik",
+     "url": "https://genius.com/artists/Kurtis-mantronik"
+    },
+    {
+     "api_path": "/artists/1121519",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+     "id": 1121519,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Louie Lou",
+     "url": "https://genius.com/artists/Louie-lou"
+    },
+    {
+     "api_path": "/artists/564442",
+     "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "id": 564442,
+     "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "T La Rock",
+     "url": "https://genius.com/artists/T-la-rock"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/564442",
+     "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "id": 564442,
+     "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "T La Rock",
+     "url": "https://genius.com/artists/T-la-rock"
+    }
+   ],
+   "artist": "T La Rock",
+   "lyrics": "Tudy Fruity Judy Lyrics[Verse 1]\nIt was getting' kinda late, about a quarter to 8\nWhen I reminded myself that I had a date\nWith Tudy Fruity Judy with the big round booty\nThe talk of the town as the raving beauty\nAs she walked down the street\nFellas kneel to their feet\nSaying \"Praise the lord!\" and kissed the concrete\nShe walked down the street all nice and slow\nWith the butt swinging around like a bowl of Jell-O\nEvery step she'd take the ground will shake\nThe buildings vibrated and the windows will break\n[Hook]\nTudy, Fruity, Tudy, Fruity, Fruity, Judy\nWith the big round booty\n\n[Verse 2]\nShe continued to roam around New York City\nFlaunting her body showing males no pity\nSwing and swang her rump left to right\nCausing automobiles to stop short at the light\nShe guaranteed to attract the old and young\nWith the moving of the hips and the trill of the tongue\nMaking five guys drool was her idea of fun\nShe make you sweat out bullets by massaging her bum\nShe wear short mini skirts well above her knees\nMake your eyes light up like Christmas trees\nShe make you melt like butter with one single touch\nWhether you were Black, Spanish, Chinese, Turkish, or Dutch\nTudy Fruity Judy is just too much\n\n[Hook]\n\nTudy, Fruity, Tudy, Fruity, Tudy, Judy\nWith the big round booty\n\n[Verse 3]\nI knew all about Judy and her cute little tricks\nDeceiving and misleading all the men just were kicks\nShe was wilder than an animal with no type of shame\n'Cause there is no game T La Rock can't tame\nI'm very intellectual I must admit\nAnd there isn't a girl that I can't outwit\nIs it that Mi-Lo-Wan tryna get in the snatch?\nBut tonight Judy is finally gonna meet her match\nSee I'm very energetic have a lust for sex\nCan have 3 at a time and fall out of next\nIn line to rewind for the rest of the night\nMay the lord be with you if I find you were tight\nYou might also like[Hook]\nTudy, Fruity, Tudy, Fruity, Tudy, Judy\nWith the big round booty\n\n[Verse 4]\nNow it's 10 after 8 and I'm still waiting\nWhile with myself just steady debating\nShould I go home or should I stay\nBefore I could decide guess who was coming my way\nNo other, my brother, but Tudy Fruity Judy\nAnd, Jesus Christ, she sure was a beauty\nThe first thing I said was lets go to my place\nNot walk, or pace, lets race\nShe said you don't waste time I like that in a man\nAnd I said I'm glad you understand\nNow when I took her to my house I took my very first feel\nMy shit got harder than solid steel\nI was humping and a pumping on Judy's butt\nIn 3 quarters of a minute I busted a nut\nOh, thank you Lord for what you giving me\nThe opportunity to have Judy\nBefore I reach the age of 31\nI'll have 2 pair of twins and 1 grandson\nAnd chill it out y'all for a whole decade\nWith Judy on my side don't I got it made?1Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/3220274",
+   "artist_names": "T La Rock",
+   "full_title": "Bust These Lyrics by\u00a0T\u00a0La Rock",
+   "header_image_thumbnail_url": "https://images.genius.com/668414c947412787fd63ceb55bbe3da7.300x304x1.jpg",
+   "header_image_url": "https://images.genius.com/668414c947412787fd63ceb55bbe3da7.599x606x1.jpg",
+   "id": 3220274,
+   "language": "en",
+   "lyrics_owner_id": 381464,
+   "lyrics_state": "complete",
+   "path": "/T-la-rock-bust-these-lyrics-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/T-la-rock-bust-these-lyrics-sample",
+   "release_date_components": {
+    "year": 1987,
+    "month": 1,
+    "day": 1
+   },
+   "release_date_for_display": "January 1, 1987",
+   "release_date_with_abbreviated_month_for_display": "Jan. 1, 1987",
+   "song_art_image_thumbnail_url": "https://images.genius.com/668414c947412787fd63ceb55bbe3da7.300x304x1.jpg",
+   "song_art_image_url": "https://images.genius.com/668414c947412787fd63ceb55bbe3da7.599x606x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Bust These Lyrics",
+   "title_with_featured": "Bust These Lyrics",
+   "url": "https://genius.com/T-la-rock-bust-these-lyrics-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/564442",
+    "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+    "id": 564442,
+    "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "T La Rock",
+    "url": "https://genius.com/artists/T-la-rock"
+   },
+   "apple_music_id": "160151686",
+   "apple_music_player_url": "https://genius.com/songs/3220274/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_3220274' class='rg_embed_link' data-song-id='3220274'>Read <a href='https://genius.com/T-la-rock-bust-these-lyrics-lyrics'>\u201cBust These Lyrics\u201d by T\u00a0La Rock</a> on Genius</div> <script crossorigin src='//genius.com/songs/3220274/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1987-01-01",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/340824",
+    "cover_art_url": "https://images.genius.com/0bbdd95a3dca596956e0daf90b355580.600x600x1.jpg",
+    "full_title": "Lyrical King (From the Boogie Down Bronx) by T La Rock",
+    "id": 340824,
+    "name": "Lyrical King (From the Boogie Down Bronx)",
+    "url": "https://genius.com/albums/T-la-rock/Lyrical-king-from-the-boogie-down-bronx",
+    "artist": {
+     "api_path": "/artists/564442",
+     "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "id": 564442,
+     "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "T La Rock",
+     "url": "https://genius.com/artists/T-la-rock"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 381464,
+    "annotator_login": "APH",
+    "api_path": "/referents/12622052",
+    "classification": "needs_exegesis",
+    "fragment": "Bust These Lyrics",
+    "id": 12622052,
+    "is_description": true,
+    "path": "/12622052/T-la-rock-bust-these-lyrics/Bust-these-lyrics",
+    "range": {
+     "content": "Bust These Lyrics"
+    },
+    "song_id": 3220274,
+    "url": "https://genius.com/12622052/T-la-rock-bust-these-lyrics/Bust-these-lyrics",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/3220274",
+     "client_timestamps": {
+      "updated_by_human_at": 1504316674,
+      "lyrics_updated_at": 1504316674
+     },
+     "context": "T La Rock",
+     "id": 3220274,
+     "image_url": "https://images.genius.com/668414c947412787fd63ceb55bbe3da7.599x606x1.jpg",
+     "link_title": "Bust These Lyrics by\u00a0T\u00a0La Rock",
+     "title": "Bust These Lyrics",
+     "type": "Song",
+     "url": "https://genius.com/T-la-rock-bust-these-lyrics-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/12622052",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 12622052,
+      "pinned": false,
+      "share_url": "https://genius.com/12622052",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/12622052/T-la-rock-bust-these-lyrics/Bust-these-lyrics",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/381464",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/mhjmda4f8nuoe2qgyjd8nz5mi",
+         "human_readable_role_for_display": "Editor",
+         "id": 381464,
+         "iq": 127786,
+         "login": "APH",
+         "name": "APH",
+         "role_for_display": "editor",
+         "url": "https://genius.com/APH",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Qjyhym3rJ0A"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/1121519",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+     "id": 1121519,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Louie Lou",
+     "url": "https://genius.com/artists/Louie-lou"
+    },
+    {
+     "api_path": "/artists/564442",
+     "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "id": 564442,
+     "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "T La Rock",
+     "url": "https://genius.com/artists/T-la-rock"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "T La Rock",
+   "lyrics": "Bust These Lyrics Lyrics(Hook)\nHard rapping, funky beats, def scratching, no gimmicks\nPut your ears to the speakers and bust these lyrics!\n\nI\u2019m attacking weak rappers, periodically destroying\nT La Rock, imitators have become so annoying\nI turn on my radio which I keep on the shelf\nEvery station I turn to I keep hearing myself\nI hear myself on records I never made\nI\u2019m not dumb my mind is sharper than the butchers blade!\n? angry like this and rappers who persist\nI explode like a bomb I get so pissed\nI can't stand it no more, I try my best to implore\nNow it's time for T La Rock to even the score!\n(Hook)\n\nI use the mic like a belt, beat rappers like children\nAnd then I condescend\nGraciously pretend to step off, though I may pretend to be through\nBut this part of my strategy\nDisillusioning with pre-planned tactics\nWill protect myself like you do with prophylactics\nIngenious ideas to despair my foes\nI stalk em and hawk 'em no matter where they go\nI\u2019m the notorious fear inflicter\nI\u2019m the mongoose, you\u2019re the boa constrictor\nI\u2019m good, you\u2019re garbage, we\u2019re easy to distinguish\nI will be the victor, you prefer to relinquish\nHuh! I\u2019m ready to commence annihilation\nMy mind is now morbid, there\u2019s no rehabilitation\nI\u2019m a rapper killer with the strength of a gorilla\nA brutal slayer, clone of Attila\nThe Hun, you better run, punk flee while you can\nMy orders to kill, there\u2019ll be no count demands\nI\u2019m entering the boundaries of insanity\nGrotesque actions altering humanity\nDisgusted to the fullest at all enemies\nBold rappers who dare battle me are a tease\nI\u2019m a professor of war, honorable veteran\nStrategy coordinator, acute militarian\nProfound, I\u2019m bound to increase in my strength\nAnd definitely there\u2019ll be no lengths\nOf you shit talking rappers who don\u2019t even know me\nYou\u2019re as fictional to me as Obi Wan Kenobi!\nYou might also likeLike a tramp, you're equal to a two cent stamp\nYour mind is dead, you will never revamp\nOr revise, surprise, I see you're in shock\nDontcha know ? prepared to ?\nI'm hot like lava, I'm ready to roast\nYou weak duck rappers who keep playin' me close\nWhen I walk, heads slam, the people all chant\nI'm a walking time-bomb equivalent to a power plant!\n\nWhen challenged, I drool, I'm so powerful\nMy jaws lock on the mic like the jaws of a pit bull\nI go mad, break out into a tantrum\nMentally convert into a hip hop phantom\nMy foes then panic, shake like a leaf\nKnowing their destruction will be short and brief\n? up like a snail, faces turn pale\n? a thousand miles a second on each finger nail\nI'm dangerous, deadly like a scorpion\nFearless, undisputed champion\nUnique in the mind, and strength I'm like ?\nPhysique of a model, tall dark and handsome\nBlack and you know it, nicknamed the poet\nThe lyrical king who ? to bring\nFunky fresh lyrics and keep running things!\n\n(Hook)\nDo it Greg!\n\nI have unmeasurable power, unbelievable force\nI bring more pleasure to the mind than sexual intercourse\nRhyming is my specialty, rapping I\u2019ve perfected\nConsidered dead rappers I seeked and resurrected\nThat climax of my power is beyond extreme\nI have the mind of a scientist to program dreams\nLike a magnet I attract, keep jams well packed\nLike a hypodermic needle my lyrics extract\nAll bad thoughts, repulsing ideas\nAnxiety ? I stimulate like beer\nMost lyric writers are well out of my league\nLike history! All my lyrics intrigue\nThe thought of rap on the air was considered remote\nIf you had leukemia there was no antidote\nAs the world evolves many problems are solved\nTo keep this good thing going I\u2019ve become involved\nJoin with me, Lou, and Greg, my comrades\nAs a team our dream is to make you glad\nRemain a part of the hip hop world\nThat goes to every man and woman\nEvery boy and girl!Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4870519",
+   "artist_names": "T La Rock",
+   "full_title": "Breakdown by\u00a0T\u00a0La Rock",
+   "header_image_thumbnail_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+   "id": 4870519,
+   "language": "en",
+   "lyrics_owner_id": 381464,
+   "lyrics_state": "complete",
+   "path": "/T-la-rock-breakdown-lyrics",
+   "pyongs_count": 1,
+   "relationships_index_url": "https://genius.com/T-la-rock-breakdown-sample",
+   "release_date_components": {
+    "year": 1985,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1985",
+   "release_date_with_abbreviated_month_for_display": "1985",
+   "song_art_image_thumbnail_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 2,
+    "transcribers": 3,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Breakdown",
+   "title_with_featured": "Breakdown",
+   "url": "https://genius.com/T-la-rock-breakdown-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/564442",
+    "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+    "id": 564442,
+    "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "T La Rock",
+    "url": "https://genius.com/artists/T-la-rock"
+   },
+   "apple_music_id": "1055499789",
+   "apple_music_player_url": "https://genius.com/songs/4870519/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4870519' class='rg_embed_link' data-song-id='4870519'>Read <a href='https://genius.com/T-la-rock-breakdown-lyrics'>\u201cBreakdown\u201d by T\u00a0La Rock</a> on Genius</div> <script crossorigin src='//genius.com/songs/4870519/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/562670",
+    "cover_art_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+    "full_title": "He\u2019s Incredible by T La Rock",
+    "id": 562670,
+    "name": "He\u2019s Incredible",
+    "url": "https://genius.com/albums/T-la-rock/Hes-incredible",
+    "artist": {
+     "api_path": "/artists/564442",
+     "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "id": 564442,
+     "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "T La Rock",
+     "url": "https://genius.com/artists/T-la-rock"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 381464,
+    "annotator_login": "APH",
+    "api_path": "/referents/18043229",
+    "classification": "needs_exegesis",
+    "fragment": "Breakdown",
+    "id": 18043229,
+    "is_description": true,
+    "path": "/18043229/T-la-rock-breakdown/Breakdown",
+    "range": {
+     "content": "Breakdown"
+    },
+    "song_id": 4870519,
+    "url": "https://genius.com/18043229/T-la-rock-breakdown/Breakdown",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4870519",
+     "client_timestamps": {
+      "updated_by_human_at": 1606797396,
+      "lyrics_updated_at": 1570891922
+     },
+     "context": "T La Rock",
+     "id": 4870519,
+     "image_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+     "link_title": "Breakdown by\u00a0T\u00a0La Rock",
+     "title": "Breakdown",
+     "type": "Song",
+     "url": "https://genius.com/T-la-rock-breakdown-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18043229",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18043229,
+      "pinned": false,
+      "share_url": "https://genius.com/18043229",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18043229/T-la-rock-breakdown/Breakdown",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/381464",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/mhjmda4f8nuoe2qgyjd8nz5mi",
+         "human_readable_role_for_display": "Editor",
+         "id": 381464,
+         "iq": 127786,
+         "login": "APH",
+         "name": "APH",
+         "role_for_display": "editor",
+         "url": "https://genius.com/APH",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=1WXTRuzqHPk"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": "https://genius.com/T-la-rock-breakdown-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/5554872",
+       "artist_names": "John Davis & The Monster Orchestra",
+       "full_title": "I Can't Stop by\u00a0John\u00a0Davis & The Monster Orchestra",
+       "header_image_thumbnail_url": "https://images.genius.com/ccffbee518e0f55f1b94f92c344a965d.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/ccffbee518e0f55f1b94f92c344a965d.600x600x1.jpg",
+       "id": 5554872,
+       "language": "en",
+       "lyrics_owner_id": 22594,
+       "lyrics_state": "complete",
+       "path": "/John-davis-and-the-monster-orchestra-i-cant-stop-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/John-davis-and-the-monster-orchestra-i-cant-stop-sample",
+       "release_date_components": {
+        "year": 1976,
+        "month": 1,
+        "day": 1
+       },
+       "release_date_for_display": "January 1, 1976",
+       "release_date_with_abbreviated_month_for_display": "Jan. 1, 1976",
+       "song_art_image_thumbnail_url": "https://images.genius.com/ccffbee518e0f55f1b94f92c344a965d.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/ccffbee518e0f55f1b94f92c344a965d.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "I Can\u2019t Stop",
+       "title_with_featured": "I Can't Stop",
+       "url": "https://genius.com/John-davis-and-the-monster-orchestra-i-cant-stop-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/2231642",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+        "id": 2231642,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "John Davis & The Monster Orchestra",
+        "url": "https://genius.com/artists/John-davis-and-the-monster-orchestra"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3149761",
+       "artist_names": "Funk, Inc.",
+       "full_title": "Kool Is Back by\u00a0Funk,\u00a0Inc.",
+       "header_image_thumbnail_url": "https://images.genius.com/848d7ed95e2ff262ab52cfe1b9e37ac4.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/848d7ed95e2ff262ab52cfe1b9e37ac4.1000x1000x1.jpg",
+       "id": 3149761,
+       "language": "en",
+       "lyrics_owner_id": 387897,
+       "lyrics_state": "complete",
+       "path": "/Funk-inc-kool-is-back-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Funk-inc-kool-is-back-sample",
+       "release_date_components": {
+        "year": 1971,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1971",
+       "release_date_with_abbreviated_month_for_display": "1971",
+       "song_art_image_thumbnail_url": "https://images.genius.com/848d7ed95e2ff262ab52cfe1b9e37ac4.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/848d7ed95e2ff262ab52cfe1b9e37ac4.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Kool Is Back",
+       "title_with_featured": "Kool Is Back",
+       "url": "https://genius.com/Funk-inc-kool-is-back-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/573007",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+        "id": 573007,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Funk, Inc.",
+        "url": "https://genius.com/artists/Funk-inc"
+       }
+      },
+      {
+       "annotation_count": 1,
+       "api_path": "/songs/2220116",
+       "artist_names": "The Soul Searchers",
+       "full_title": "Ashley\u2019s Roachclip by\u00a0The\u00a0Soul Searchers",
+       "header_image_thumbnail_url": "https://images.genius.com/82b7ccd1097726e95c36a7830b2b9371.300x299x1.jpg",
+       "header_image_url": "https://images.genius.com/82b7ccd1097726e95c36a7830b2b9371.564x562x1.jpg",
+       "id": 2220116,
+       "language": null,
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/The-soul-searchers-ashleys-roachclip-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/The-soul-searchers-ashleys-roachclip-sample",
+       "release_date_components": {
+        "year": 1974,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1974",
+       "release_date_with_abbreviated_month_for_display": "1974",
+       "song_art_image_thumbnail_url": "https://images.genius.com/82b7ccd1097726e95c36a7830b2b9371.300x299x1.jpg",
+       "song_art_image_url": "https://images.genius.com/82b7ccd1097726e95c36a7830b2b9371.564x562x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Ashley\u2019s Roachclip",
+       "title_with_featured": "Ashley\u2019s Roachclip",
+       "url": "https://genius.com/The-soul-searchers-ashleys-roachclip-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/20478",
+        "header_image_url": "https://images.genius.com/d69c5c69e662b0f9923c532ec1a5aa44.1000x750x1.png",
+        "id": 20478,
+        "image_url": "https://images.genius.com/6c45398a24a2c935b6f6882a7d24ca58.416x416x1.png",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Soul Searchers",
+        "url": "https://genius.com/artists/The-soul-searchers"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": "https://genius.com/T-la-rock-breakdown-sample/samples",
+     "songs": [
+      {
+       "annotation_count": 4,
+       "api_path": "/songs/47024",
+       "artist_names": "Ultramagnetic MC's",
+       "full_title": "Break North by\u00a0Ultramagnetic\u00a0MC's",
+       "header_image_thumbnail_url": "https://images.genius.com/56a1e5a2bfa4b8db0d43d6952527cbfe.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/56a1e5a2bfa4b8db0d43d6952527cbfe.1000x1000x1.jpg",
+       "id": 47024,
+       "language": "en",
+       "lyrics_owner_id": 50,
+       "lyrics_state": "complete",
+       "path": "/Ultramagnetic-mcs-break-north-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Ultramagnetic-mcs-break-north-sample",
+       "release_date_components": {
+        "year": 1988,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1988",
+       "release_date_with_abbreviated_month_for_display": "1988",
+       "song_art_image_thumbnail_url": "https://images.genius.com/56a1e5a2bfa4b8db0d43d6952527cbfe.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/56a1e5a2bfa4b8db0d43d6952527cbfe.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 2,
+        "hot": false
+       },
+       "title": "Break North",
+       "title_with_featured": "Break North",
+       "url": "https://genius.com/Ultramagnetic-mcs-break-north-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/7155",
+        "header_image_url": "https://images.genius.com/74bf677bb136efd48121a00bfd1b0ede.350x243x1.jpg",
+        "id": 7155,
+        "image_url": "https://images.genius.com/74bf677bb136efd48121a00bfd1b0ede.350x243x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ultramagnetic MC\u2019s",
+        "url": "https://genius.com/artists/Ultramagnetic-mcs"
+       }
+      },
+      {
+       "annotation_count": 10,
+       "api_path": "/songs/211895",
+       "artist_names": "DJ Shadow",
+       "full_title": "The Number Song by\u00a0DJ\u00a0Shadow",
+       "header_image_thumbnail_url": "https://images.genius.com/9b9a75ee7324f93f1cf22fdc18e8e421.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/9b9a75ee7324f93f1cf22fdc18e8e421.1000x1000x1.jpg",
+       "id": 211895,
+       "language": "en",
+       "lyrics_owner_id": 214310,
+       "lyrics_state": "complete",
+       "path": "/Dj-shadow-the-number-song-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Dj-shadow-the-number-song-sample",
+       "release_date_components": {
+        "year": 1996,
+        "month": 11,
+        "day": 19
+       },
+       "release_date_for_display": "November 19, 1996",
+       "release_date_with_abbreviated_month_for_display": "Nov. 19, 1996",
+       "song_art_image_thumbnail_url": "https://images.genius.com/9b9a75ee7324f93f1cf22fdc18e8e421.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/9b9a75ee7324f93f1cf22fdc18e8e421.1000x1000x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 9,
+        "hot": false,
+        "pageviews": 6425
+       },
+       "title": "The Number Song",
+       "title_with_featured": "The Number Song",
+       "url": "https://genius.com/Dj-shadow-the-number-song-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/5407",
+        "header_image_url": "https://images.genius.com/0393b92dc0b4ff2fdf49f528ce972f48.1000x563x1.jpg",
+        "id": 5407,
+        "image_url": "https://images.genius.com/0b80fe362729709910d3d8ff0745547d.640x640x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "DJ Shadow",
+        "url": "https://genius.com/artists/Dj-shadow"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": "https://genius.com/Cardi-b-bad-bunny-and-j-balvin-i-like-it-sample/covers",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": "https://genius.com/Cardi-b-bad-bunny-and-j-balvin-i-like-it-sample/remixes",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": "https://genius.com/Cardi-b-bad-bunny-and-j-balvin-i-like-it-sample/translations",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/564442",
+     "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "id": 564442,
+     "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "T La Rock",
+     "url": "https://genius.com/artists/T-la-rock"
+    }
+   ],
+   "artist": "T La Rock",
+   "lyrics": "Breakdown Lyrics[Intro]\nBreakdown!\nIf you want it, you got it, you got, you got it, you got it,\u2005you\u2005got it\nBut you\u2005got to come get it\nIf you\u2005really want to rock and really want to sway\nThen here's your day\n\nI got the breakdown!\nI really got the breakdown!\nParty people! (Yeah!)\nI'm gonna need a little help for the one to five countdown\nAre you ready? (Yeah!)\nBreak it down!\n(One, two, three, four, five, breakdown!)\n[Chorus]\nI really got the breakdown!\n\n[Verse 1]\nI know I understand partyin' based on strollin'\nRollin' through the party scene\nWhat I mean, that's there's always a way to make a party okay\nToday, we gonna make this party sway\nWhat I truly represent, the party content\nI can't give up, because I'm so hellbent\nI want the \"one-for-all, all-for-one\" phrase to be\nRecited as an anthem at every par-T\nLa Rock\n\n[Chorus]\nI got the breakdown!\nI really got the breakdown!\n\n[Verse 2]\nI can be hard like metal, or soft like butter\nSo emcees in the place, please don't stutter\nWhen you hear my name, you'll feel no shame\n'Cause at the end it will all turn out the same\nSo, jump and grab a girl, let's break the ice\nCooperate, or I\u2019ll be forced to switch the dice\n'Cause I\u2019m slick as oil, fresh like coil\nWon\u2019t rust or wrinkle like aluminum foil\nDon\u2019t try to resist, or even flake\n'Cause I\u2019ll box you out 'til you begin to shake\nI won\u2019t damage you, or leave a single scratch\nBut I\u2019ll make you regret you were considered a match\nTo confront or deal, or shall I say feel?\nThe knowledge and power of these concentrated skills\nTo describe these rhymes will be difficult to you\nI have written documents just to prove to you\nI\u2019m the originating ruler of the MC kingdom\nWon\u2019t run or bite, only write and sing 'em\nTake this advice, tell it to your friend\nT La Rock's gonna rock 'til the party ends\nYou might also like[Instrumental Bridge]\n\n[Verse 3]\nMy name is T La Rock, I got the heart of a lion\nI never give up, I just keep on tryin'\nLike bats can't see, the sting of a bee\nLike somethin' amazin' you see on TV\nJust like the old, old time to the early days\nMy name is T La Rock and I'm here to amaze\nWith a certain kind of power, I could never go sour\nEveryday on the hour, sucker emcees I devour\nLike a knob on the door, the key to the lock\nIf you don't have the key, then you'll have to knock\nWhen you come to the door, just have a grin\n'Cause if you don't, then you won't get in\nBe yourself, don't try to act fly\n'Cause if you do, I might pass you by\n'Cause I'm known to rock a party, never endin' abrupt\nSo, come on party people, get up, and get up and get down\n\n[Chorus]\nI really got the breakdown!\n\n[Verse 4]\nHis technique will astonish though the topping board with skill\nYou are free to inquire at the harmony field\nHis continual, perennial master mix\nHis precision or decision of the record that he mixed\nLike the force of a quake, the record he will shake\nMore credit you will give him for the rhythm that he makes\n[Scratching]\nSome find it hard to comprehend how two records can blend\nThat's when we try to simplify and mix 'em again\nThe records he will switch, then slow down the pitch\nWith precise ingenuity a thing it will twitch\nCausing the record to move back and forth\nThe fader east and west, the records are the north\nHis finger now attached to the record like a latch\nA new sound will develop better known as a scratch\n[Scratching]\n[Chorus]\nI got the breakdown!\n\n[Outro]\nParty people! (Yeah!)\nGonna need a little help for the one to five countdown\nAre you ready? (Yeah!)\n(One, two, three, four, five!)\nBreakdown!1Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4649556",
+   "artist_names": "T La Rock (Ft. Greg Nice)",
+   "full_title": "Bass Machine by\u00a0T\u00a0La Rock (Ft.\u00a0Greg\u00a0Nice)",
+   "header_image_thumbnail_url": "https://images.genius.com/d192458bbce490e3b6965473046b56af.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/d192458bbce490e3b6965473046b56af.600x600x1.jpg",
+   "id": 4649556,
+   "language": "en",
+   "lyrics_owner_id": 381464,
+   "lyrics_state": "complete",
+   "path": "/T-la-rock-bass-machine-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/T-la-rock-bass-machine-sample",
+   "release_date_components": {
+    "year": 1986,
+    "month": 1,
+    "day": 1
+   },
+   "release_date_for_display": "January 1, 1986",
+   "release_date_with_abbreviated_month_for_display": "Jan. 1, 1986",
+   "song_art_image_thumbnail_url": "https://images.genius.com/d192458bbce490e3b6965473046b56af.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/d192458bbce490e3b6965473046b56af.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Bass Machine",
+   "title_with_featured": "Bass Machine (Ft.\u00a0Greg\u00a0Nice)",
+   "url": "https://genius.com/T-la-rock-bass-machine-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/3361",
+     "header_image_url": "https://images.genius.com/1be1ceb6c3973c1fb0efa72b7d29c0f8.620x400x1.jpg",
+     "id": 3361,
+     "image_url": "https://images.genius.com/1be1ceb6c3973c1fb0efa72b7d29c0f8.620x400x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Greg Nice",
+     "url": "https://genius.com/artists/Greg-nice"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/564442",
+    "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+    "id": 564442,
+    "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "T La Rock",
+    "url": "https://genius.com/artists/T-la-rock"
+   },
+   "apple_music_id": "1069169464",
+   "apple_music_player_url": "https://genius.com/songs/4649556/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4649556' class='rg_embed_link' data-song-id='4649556'>Read <a href='https://genius.com/T-la-rock-bass-machine-lyrics'>\u201cBass Machine\u201d by T\u00a0La Rock</a> on Genius</div> <script crossorigin src='//genius.com/songs/4649556/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1986-01-01",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": null,
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 381464,
+    "annotator_login": "APH",
+    "api_path": "/referents/17445204",
+    "classification": "needs_exegesis",
+    "fragment": "Bass Machine",
+    "id": 17445204,
+    "is_description": true,
+    "path": "/17445204/T-la-rock-bass-machine/Bass-machine",
+    "range": {
+     "content": "Bass Machine"
+    },
+    "song_id": 4649556,
+    "url": "https://genius.com/17445204/T-la-rock-bass-machine/Bass-machine",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4649556",
+     "client_timestamps": {
+      "updated_by_human_at": 1561214446,
+      "lyrics_updated_at": 1561214142
+     },
+     "context": "T La Rock",
+     "id": 4649556,
+     "image_url": "https://images.genius.com/d192458bbce490e3b6965473046b56af.600x600x1.jpg",
+     "link_title": "Bass Machine by\u00a0T\u00a0La Rock (Ft.\u00a0Greg\u00a0Nice)",
+     "title": "Bass Machine",
+     "type": "Song",
+     "url": "https://genius.com/T-la-rock-bass-machine-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/17445204",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 17445204,
+      "pinned": false,
+      "share_url": "https://genius.com/17445204",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/17445204/T-la-rock-bass-machine/Bass-machine",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/381464",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/mhjmda4f8nuoe2qgyjd8nz5mi",
+         "human_readable_role_for_display": "Editor",
+         "id": 381464,
+         "iq": 127786,
+         "login": "APH",
+         "name": "APH",
+         "role_for_display": "editor",
+         "url": "https://genius.com/APH",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=jmiSOfhslMI"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/382763",
+     "header_image_url": "https://images.genius.com/76cbbcd88bf70e21d61e3284eae3d442.355x355x1.jpg",
+     "id": 382763,
+     "image_url": "https://images.genius.com/76cbbcd88bf70e21d61e3284eae3d442.355x355x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Kurtis Mantronik",
+     "url": "https://genius.com/artists/Kurtis-mantronik"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "T La Rock",
+   "lyrics": "Bass Machine Lyrics[Intro]\nAh yeah!\nRight about now\nKickin' it live\nOn the bass machine, better known as the Roland 808\nThe king of the beats, we call him Mantronik\nAnd I am T La Rock\n\nNow throw your hands in the air\nAnd wave 'em like you just don't care\nAnd if you like the sounds we're throwing down\nSomebody say \"Oh yeah\"! (Oh yeah!)\nOh yeah! (Oh yeah!)\n[Verse 1]\nThe music you hear penetratin' your ear\n[?] created to alleviate fear\nFor those who are weary of adjustin' to rap\nI have a premonition you will soon adapt\nSee the music being played by a musical whiz\nThe sound you will see will come from his\nInnovative mind which I'm sure you will find\nUniquely educated and well refined\nHe's a beat specialist, a master on effects\nOriginality is what he projects\nSong-like rhythms on top of the beat\nDifferentiates my record from the ones on the streets\nThe name Mantronik now world-renowned\nAs the king of the beats, the master of sound\n\nEnter my mellow, the magnificent, DJ Louie Lou\n\nEnter the incredible sound machine, Greg Nice\n\n[Verse 2]\nMy voice permanently is now disclosed\nMy disciples [?] since the day I rose\nI'm audible in speech, not hard to discern\nI'll edit mistakes to relieve your concern\nDischarge your negativity and listen good\nHave you ever heard rhymes so clear and understood?\n\"No!\" is the answer you must reply\nI'll invest your loyalty so it'll never decline\nAnd for you diabolical, malevolent ducks\nWho continue to imitate and won't give up\nIt should be understood, that if I could\nGive you a whole lifetime you'll never write this good\nYou might also likeNow everybody, everybody\nEverybody in the place\nCome on and just throw your hands in the air\nAnd wave 'em like you just don't care\nAnd if you like the sounds we're throwing down\nSomebody say \"Oh yeah\"! (Oh yeah!)\nOh yeah! (Oh yeah!)\n\n(Greg Nice!)\n\nGreg Nice!\n\n[Beatboxing]\n\nI'll edit mistakes [cut and scratched]\n\nOnce again, the king of the beats, Mantronik\n\nAnd to my mellow ChuckEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4870520",
+   "artist_names": "T La Rock",
+   "full_title": "He's Incredible by\u00a0T\u00a0La Rock",
+   "header_image_thumbnail_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+   "id": 4870520,
+   "language": "en",
+   "lyrics_owner_id": 381464,
+   "lyrics_state": "complete",
+   "path": "/T-la-rock-hes-incredible-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/T-la-rock-hes-incredible-sample",
+   "release_date_components": {
+    "year": 1985,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1985",
+   "release_date_with_abbreviated_month_for_display": "1985",
+   "song_art_image_thumbnail_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "He\u2019s Incredible",
+   "title_with_featured": "He's Incredible",
+   "url": "https://genius.com/T-la-rock-hes-incredible-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/564442",
+    "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+    "id": 564442,
+    "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "T La Rock",
+    "url": "https://genius.com/artists/T-la-rock"
+   },
+   "apple_music_id": "1055500035",
+   "apple_music_player_url": "https://genius.com/songs/4870520/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4870520' class='rg_embed_link' data-song-id='4870520'>Read <a href='https://genius.com/T-la-rock-hes-incredible-lyrics'>\u201cHe's Incredible\u201d by T\u00a0La Rock</a> on Genius</div> <script crossorigin src='//genius.com/songs/4870520/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/562670",
+    "cover_art_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+    "full_title": "He\u2019s Incredible by T La Rock",
+    "id": 562670,
+    "name": "He\u2019s Incredible",
+    "url": "https://genius.com/albums/T-la-rock/Hes-incredible",
+    "artist": {
+     "api_path": "/artists/564442",
+     "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "id": 564442,
+     "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "T La Rock",
+     "url": "https://genius.com/artists/T-la-rock"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 381464,
+    "annotator_login": "APH",
+    "api_path": "/referents/18043230",
+    "classification": "needs_exegesis",
+    "fragment": "He\u2019s Incredible",
+    "id": 18043230,
+    "is_description": true,
+    "path": "/18043230/T-la-rock-hes-incredible/Hes-incredible",
+    "range": {
+     "content": "He's Incredible"
+    },
+    "song_id": 4870520,
+    "url": "https://genius.com/18043230/T-la-rock-hes-incredible/Hes-incredible",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4870520",
+     "client_timestamps": {
+      "updated_by_human_at": 1640304650,
+      "lyrics_updated_at": 1570729864
+     },
+     "context": "T La Rock",
+     "id": 4870520,
+     "image_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+     "link_title": "He\u2019s Incredible by\u00a0T\u00a0La Rock",
+     "title": "He's Incredible",
+     "type": "Song",
+     "url": "https://genius.com/T-la-rock-hes-incredible-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18043230",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18043230,
+      "pinned": false,
+      "share_url": "https://genius.com/18043230",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18043230/T-la-rock-hes-incredible/Hes-incredible",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/381464",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/mhjmda4f8nuoe2qgyjd8nz5mi",
+         "human_readable_role_for_display": "Editor",
+         "id": 381464,
+         "iq": 127786,
+         "login": "APH",
+         "name": "APH",
+         "role_for_display": "editor",
+         "url": "https://genius.com/APH",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=jYDm8Kz94Gc"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3598831",
+       "artist_names": "The Disco Four",
+       "full_title": "Do It Do It by\u00a0The\u00a0Disco Four",
+       "header_image_thumbnail_url": "https://images.genius.com/c4647c15f97ca17597ab1f5a888648ff.300x300x1.png",
+       "header_image_url": "https://images.genius.com/c4647c15f97ca17597ab1f5a888648ff.596x596x1.png",
+       "id": 3598831,
+       "language": "en",
+       "lyrics_owner_id": 4619460,
+       "lyrics_state": "complete",
+       "path": "/The-disco-four-do-it-do-it-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/The-disco-four-do-it-do-it-sample",
+       "release_date_components": {
+        "year": 1981,
+        "month": 1,
+        "day": 1
+       },
+       "release_date_for_display": "January 1, 1981",
+       "release_date_with_abbreviated_month_for_display": "Jan. 1, 1981",
+       "song_art_image_thumbnail_url": "https://images.genius.com/c4647c15f97ca17597ab1f5a888648ff.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/c4647c15f97ca17597ab1f5a888648ff.596x596x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Do It Do It",
+       "title_with_featured": "Do It Do It",
+       "url": "https://genius.com/The-disco-four-do-it-do-it-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1219304",
+        "header_image_url": "https://images.genius.com/e7ffa563b7f272b0cfc98e15e548592b.259x259x1.jpg",
+        "id": 1219304,
+        "image_url": "https://images.genius.com/e7ffa563b7f272b0cfc98e15e548592b.259x259x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "The Disco Four",
+        "url": "https://genius.com/artists/The-disco-four"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/3260939",
+       "artist_names": "Fresh 3 MC's",
+       "full_title": "Fresh by\u00a0Fresh\u00a03 MC's",
+       "header_image_thumbnail_url": "https://images.genius.com/1b0bd0901529196ffd51f10f1e303cbd.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/1b0bd0901529196ffd51f10f1e303cbd.600x600x1.jpg",
+       "id": 3260939,
+       "language": "en",
+       "lyrics_owner_id": 381464,
+       "lyrics_state": "complete",
+       "path": "/Fresh-3-mcs-fresh-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Fresh-3-mcs-fresh-sample",
+       "release_date_components": {
+        "year": 1983,
+        "month": 1,
+        "day": 1
+       },
+       "release_date_for_display": "January 1, 1983",
+       "release_date_with_abbreviated_month_for_display": "Jan. 1, 1983",
+       "song_art_image_thumbnail_url": "https://images.genius.com/1b0bd0901529196ffd51f10f1e303cbd.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/1b0bd0901529196ffd51f10f1e303cbd.600x600x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Fresh",
+       "title_with_featured": "Fresh",
+       "url": "https://genius.com/Fresh-3-mcs-fresh-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/1228018",
+        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+        "id": 1228018,
+        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Fresh 3 MC\u2019s",
+        "url": "https://genius.com/artists/Fresh-3-mcs"
+       }
+      },
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/7474700",
+       "artist_names": "Cerrone",
+       "full_title": "Rocket in the Pocket (Live in Paris) by\u00a0Cerrone",
+       "header_image_thumbnail_url": "https://images.genius.com/cb4e432c4b9cafb39e61fa7ae08ff342.300x300x1.jpg",
+       "header_image_url": "https://images.genius.com/cb4e432c4b9cafb39e61fa7ae08ff342.599x599x1.jpg",
+       "id": 7474700,
+       "language": "en",
+       "lyrics_owner_id": 7812368,
+       "lyrics_state": "complete",
+       "path": "/Cerrone-rocket-in-the-pocket-live-in-paris-lyrics",
+       "pyongs_count": null,
+       "relationships_index_url": "https://genius.com/Cerrone-rocket-in-the-pocket-live-in-paris-sample",
+       "release_date_components": {
+        "year": 1979,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1979",
+       "release_date_with_abbreviated_month_for_display": "1979",
+       "song_art_image_thumbnail_url": "https://images.genius.com/cb4e432c4b9cafb39e61fa7ae08ff342.300x300x1.jpg",
+       "song_art_image_url": "https://images.genius.com/cb4e432c4b9cafb39e61fa7ae08ff342.599x599x1.jpg",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false
+       },
+       "title": "Rocket in the Pocket (Live in Paris)",
+       "title_with_featured": "Rocket in the Pocket (Live in Paris)",
+       "url": "https://genius.com/Cerrone-rocket-in-the-pocket-live-in-paris-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/348513",
+        "header_image_url": "https://images.genius.com/5126f3a4ce91d6ff2110514c11318ead.600x600x1.jpg",
+        "id": 348513,
+        "image_url": "https://images.genius.com/010fdb2595176c3075f30189e68afe99.474x474x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Cerrone",
+        "url": "https://genius.com/artists/Cerrone"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": "https://genius.com/Cardi-b-bad-bunny-and-j-balvin-i-like-it-sample/covers",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": "https://genius.com/Cardi-b-bad-bunny-and-j-balvin-i-like-it-sample/remixes",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": "https://genius.com/Cardi-b-bad-bunny-and-j-balvin-i-like-it-sample/translations",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/564442",
+     "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "id": 564442,
+     "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "T La Rock",
+     "url": "https://genius.com/artists/T-la-rock"
+    }
+   ],
+   "artist": "T La Rock",
+   "lyrics": "He\u2019s Incredible Lyrics[Intro]\nLadies and gentlemen\nOnly for the hip-hop... lovers\nHard rock junkies and rhythm fanatics\nB-boy acrobatics\nPassion fills the\u2005air\nCircumstance\u2005and daring provide\u2005the means to get down for\u2005a positive cause\nThat deserves applause\nScratch it! Scratch it!\n\n[Refrain]\nHe manipulates turntables so that beats can be combined\nShowing off the skill so that only the musically inclined\nCan't understand the method he uses\nHe's just incredible!\n[Verse 1]\nYou will always agree with the choice he makes\nThe treble and the scratch, the sharpness of the shakes\nThe record he chooses when the cut is made\nHe's loyal and will boil before he'll ever fade\nThe secrets that he uses in the master mix\nTo him they're only mixes, to others they're tricks\nHe's astonished, the best in the disc jockey field\nHis dues has gave him an invisible shield\nSo slick to the slice, twice as nice\nHis cuts are quick to the bass drum kick\n\n[Refrain]\nHe's just incredible!\n(Kick it!)\n\n[Verse 2]\nI'm sending you a message double-dunked in bass\nMake it so great, the voice won't erase\nMediated thoughts, powered by the mind\nEvery verse is guarded by a patent design\nI'm a musical artist with a physical image\nPreaching and searching for a musical scrimmage\nI'm shielding myself with a deck'll make you scream\nWent undetected but enough to intervene\nCount the seconds, living day by day\nExpressing myself in a musical way\nPower and wealth are important for a goal\nMy [?] is a mirror reflectin' my soul\nPhysical drive, [?] by restraint\nAble to revive, but cause the person to faint\nMacho, stud, gentle and polite\nCute and cool, an all around delight\nPushing and pulling for majority rule\nAs cunning as a fox with the kick of a mule\nI'm the T-L-A-R-O-C-K\nThat's all I have to say\nYou might also like[Interlude]\n(Do it!)\n(So let's rock y'all)\n\n[Verse 3]\nChief rocker, wall-to-wall\nGet it up y'all, let's have ball\nNow it's time to exercise the feelings held back\nGet it up Jack, it's time to act\nNow concentrate, participate\nI dedicate, this feeling that's great\nA compromise, of enormous size\nA nice surprise, so open your eyes\nFantasy, to the highest degree\nNo penalty or costly fee\nJust come with me where souls are free (Free)\nAnd you will see\nA representation of a new sensation\nA facsimile of life itself\nGrab your partner by the hand (Hand)\n\n[Refrain]\nHe's just incredible!\n\n[Verse 4]\nGet up, get down, get down, get up\nJust crack your bottle and fill your cup\nJust give me a toast as I brag and boast\nAbout how I rock from coast to coast\nJust take one drink, you'll feel your head shrink\nEverything black will turn to pink\nYou'll start to rise, feel yourself [?]\nYou'll start singing songs with only one note\nJust sleep it off 'til the very next day\nWhen you wake up in the morning things will be okay (Okay)\nNow one more thing before I forget\nYou better cool out on that love sick\nSee when you drink if you can't hold your head\nYou better drink orange juice instead\n[Refrain]\nHe's just incredible!\n\n[Outro]\nLadies and gentlemen\nOnly for the hip-hop... lovers\nHard rock junkies and rhythm fanatics\nB-boy acrobatics\n(Fresh!)Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4870521",
+   "artist_names": "T La Rock",
+   "full_title": "T La Rock Rockin The Party by\u00a0T\u00a0La Rock",
+   "header_image_thumbnail_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+   "id": 4870521,
+   "language": "en",
+   "lyrics_owner_id": 381464,
+   "lyrics_state": "complete",
+   "path": "/T-la-rock-t-la-rock-rockin-the-party-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/T-la-rock-t-la-rock-rockin-the-party-sample",
+   "release_date_components": {
+    "year": 1985,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1985",
+   "release_date_with_abbreviated_month_for_display": "1985",
+   "song_art_image_thumbnail_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "T La Rock Rockin The Party",
+   "title_with_featured": "T La Rock Rockin The Party",
+   "url": "https://genius.com/T-la-rock-t-la-rock-rockin-the-party-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/564442",
+    "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+    "id": 564442,
+    "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "T La Rock",
+    "url": "https://genius.com/artists/T-la-rock"
+   },
+   "apple_music_id": "1055500039",
+   "apple_music_player_url": "https://genius.com/songs/4870521/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4870521' class='rg_embed_link' data-song-id='4870521'>Read <a href='https://genius.com/T-la-rock-t-la-rock-rockin-the-party-lyrics'>\u201cT La Rock Rockin The Party\u201d by T\u00a0La Rock</a> on Genius</div> <script crossorigin src='//genius.com/songs/4870521/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/562670",
+    "cover_art_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+    "full_title": "He\u2019s Incredible by T La Rock",
+    "id": 562670,
+    "name": "He\u2019s Incredible",
+    "url": "https://genius.com/albums/T-la-rock/Hes-incredible",
+    "artist": {
+     "api_path": "/artists/564442",
+     "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "id": 564442,
+     "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "T La Rock",
+     "url": "https://genius.com/artists/T-la-rock"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 381464,
+    "annotator_login": "APH",
+    "api_path": "/referents/18043231",
+    "classification": "needs_exegesis",
+    "fragment": "T La Rock Rockin The Party",
+    "id": 18043231,
+    "is_description": true,
+    "path": "/18043231/T-la-rock-t-la-rock-rockin-the-party/T-la-rock-rockin-the-party",
+    "range": {
+     "content": "T La Rock Rockin The Party"
+    },
+    "song_id": 4870521,
+    "url": "https://genius.com/18043231/T-la-rock-t-la-rock-rockin-the-party/T-la-rock-rockin-the-party",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4870521",
+     "client_timestamps": {
+      "updated_by_human_at": 1570300208,
+      "lyrics_updated_at": 1570300208
+     },
+     "context": "T La Rock",
+     "id": 4870521,
+     "image_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+     "link_title": "T La Rock Rockin The Party by\u00a0T\u00a0La Rock",
+     "title": "T La Rock Rockin The Party",
+     "type": "Song",
+     "url": "https://genius.com/T-la-rock-t-la-rock-rockin-the-party-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18043231",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18043231,
+      "pinned": false,
+      "share_url": "https://genius.com/18043231",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18043231/T-la-rock-t-la-rock-rockin-the-party/T-la-rock-rockin-the-party",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/381464",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/7502d30274ff1b93d60d6b104c3d9e0b",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/mhjmda4f8nuoe2qgyjd8nz5mi",
+         "human_readable_role_for_display": "Editor",
+         "id": 381464,
+         "iq": 127786,
+         "login": "APH",
+         "name": "APH",
+         "role_for_display": "editor",
+         "url": "https://genius.com/APH",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Vq0MzHZXVEg"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "T La Rock",
+   "lyrics": "T La Rock Rockin The Party Lyrics[Intro]\nJust throw your hands in the air\nAnd wave 'em like you just don't care\nAnd if\u2005you're\u2005liking the sounds\u2005we're throwing down, somebody say oh\u2005yeah! (Oh yeah!)\nOh yeah! (Oh yeah!)\n\nLike this y'all\nLike this y'all\nLike this, the-this, a-like this y'all\n\n[Verse 1]\nFrom city to city, from state to state\nI'm worldwide known as T La Rock the Great\nI'm as a chilly as an Icee, cooler than a breeze\nI can act as a heater when it starts to freeze\nWhen I hold you in my arms you'll forget all your fears\nAs a treat, I'll repeat sweet nothings in your ear\nHere's an accurate description of all of my intention\nThis is something people that I had to mention\nJust sit back, relax, and pull up a seat\nI'll be as frank as a hot dog and far from discreet\n[Verse 2]\nAll you duck emcees step to the rear\nSuper rapper T La Rock is finally here\nTo alleviate confusion, proceed to disillusion\nPerish all thought of surviving the [?]\nThat you can interpret the method I use\nAnd writing fresh lyrics that won't end up confused\nI'm so highly intelligent, gifted with an element\nAble to decipher any statement that's irrelevant\nTo the situation at hand and relentlessly confront and remain in command\nIt's like magic combined with an unknown force\nIt's pure knowledge in the brain that I use as a sword\nSo emcees if you don't wanna, indulge this matter\nDo yourself a favor, be wise and just scatter\n\nNow all the ladies\nAll the ladies\nAll the ladies in the house say oww! (Oww!)\nSay oww! (Oww!)\nNow scream! (Ahh!)\nScream! (Ahh!)\n\nLike this y'all\nLike this y'all\nLike this, the-this, like this y'all\nYou might also like[Verse 3]\nI'm a magical musician from a magical place\nWhen your ears here the treble and your feet feel the bass\nWhere there is no Adam, there is no Eve\nHow you was born is how you believe\nTake a man and a woman make 'em husband and wife\nTake the dead and the buried and bring 'em to life\nI can walk, never tire, run a mile and won't perspire\nWith the powers I posses I can recreate fire\nWith just one thought, whether long or short\nI can cause the destruction of a battle never fought\nStop a plane in its flight, give a blind man his sight\nWith a wink of an eye, turn the day into night\nTurn a mute into a singer with a point of a finger\nMake a militant man to be known [?]\nI can jump up and down holding 600 pounds\nWalk around in a circle without touching the ground\n\n[Verse 4]\nI am the creator, the maker, the supreme being\nThe originator, rhyme-creator that's foreseeing\nYour future as a rapper my advice to you\nIs ameliorate your rapping skill\nReconcile all the [?] until\nAll arguments and differences have come to an and\nAll those you wish to acquaint with can be called friend\nThen and only then will you be able to invent, produce, construct. create\nA masterpiece so intriguing it will fascinate\nAll the musically inclined, then you will find\nThat if you put in on tape they are bound to rewind\nIt over and over and over again\nThen, congratulate you my friend\nNow throw your hands in the air\nAnd wave 'em like you just don't care\nAnd if you like the sounds we're throwing down, somebody say oh yeah! (Oh yeah!)\nOh yeah! (Oh yeah!)\n\nNow all the ladies\nAll the ladies in the house say oww! (Oww!)\nSay oww! (Oww!)\n\nNow all the fellas\nAll the fellas, all the fellas\nAll the fellas in the house say ho! (Ho!)\nSay ho! (Ho!)\nNow scream! (Ahh!)\nScream! (Ahh!)\n\nSay I like it! (I like it!)\nI like it! (I like it!)\nI love it! (I love it!)\nI love it! (I love it!)\n\nNow scream! (Ahh!)\nC'mon, scream! (Ahh!)\n\n[Verse 5]\nNow it was gettin' kind of late, about a quarter to eight\nWhen I reminded myself that I had a date\nWith Tudy Fruity Judy with the big brown booty\nThe talk of the town as the raving beauty\nAs she walked down the street, fellas kneeled to their feet\nScreamed \"praise the lord\" and kissed the concrete\nShe walked down the street all nice and slow\nWith her butt swinging 'round like a bowl of Jell-O\nWhen I took her to my house and take my very first feel\nLike Superman, I was solid steel\nI was humpin' and a pumpin' on Judy's butt\nIn three quarters of a minute..I can't say thatEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4897009",
+   "artist_names": "T La Rock",
+   "full_title": "Incredible (Dub) by\u00a0T\u00a0La Rock",
+   "header_image_thumbnail_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+   "id": 4897009,
+   "language": "en",
+   "lyrics_owner_id": 623560,
+   "lyrics_state": "complete",
+   "path": "/T-la-rock-incredible-dub-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/T-la-rock-incredible-dub-sample",
+   "release_date_components": {
+    "year": 1985,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1985",
+   "release_date_with_abbreviated_month_for_display": "1985",
+   "song_art_image_thumbnail_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Incredible (Dub)",
+   "title_with_featured": "Incredible (Dub)",
+   "url": "https://genius.com/T-la-rock-incredible-dub-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/564442",
+    "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+    "id": 564442,
+    "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "T La Rock",
+    "url": "https://genius.com/artists/T-la-rock"
+   },
+   "apple_music_id": "1055500036",
+   "apple_music_player_url": "https://genius.com/songs/4897009/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4897009' class='rg_embed_link' data-song-id='4897009'>Read <a href='https://genius.com/T-la-rock-incredible-dub-lyrics'>\u201cIncredible (Dub)\u201d by T\u00a0La Rock</a> on Genius</div> <script crossorigin src='//genius.com/songs/4897009/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/562670",
+    "cover_art_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+    "full_title": "He\u2019s Incredible by T La Rock",
+    "id": 562670,
+    "name": "He\u2019s Incredible",
+    "url": "https://genius.com/albums/T-la-rock/Hes-incredible",
+    "artist": {
+     "api_path": "/artists/564442",
+     "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "id": 564442,
+     "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "T La Rock",
+     "url": "https://genius.com/artists/T-la-rock"
+    }
+   },
+   "custom_performances": [
+    {
+     "label": "Scratches",
+     "artists": [
+      {
+       "api_path": "/artists/1121519",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+       "id": 1121519,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Louie Lou",
+       "url": "https://genius.com/artists/Louie-lou"
+      }
+     ]
+    },
+    {
+     "label": "Beats By",
+     "artists": [
+      {
+       "api_path": "/artists/3938",
+       "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+       "id": 3938,
+       "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+       "is_meme_verified": false,
+       "is_verified": false,
+       "name": "Special K",
+       "url": "https://genius.com/artists/Special-k"
+      }
+     ]
+    }
+   ],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8299558,
+    "annotator_login": "Lilflexy",
+    "api_path": "/referents/18109749",
+    "classification": "needs_exegesis",
+    "fragment": "Incredible (Dub)",
+    "id": 18109749,
+    "is_description": true,
+    "path": "/18109749/T-la-rock-incredible-dub/Incredible-dub",
+    "range": {
+     "content": "Incredible (Dub)"
+    },
+    "song_id": 4897009,
+    "url": "https://genius.com/18109749/T-la-rock-incredible-dub/Incredible-dub",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4897009",
+     "client_timestamps": {
+      "updated_by_human_at": 1571615965,
+      "lyrics_updated_at": 1570301490
+     },
+     "context": "T La Rock",
+     "id": 4897009,
+     "image_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+     "link_title": "Incredible (Dub) by\u00a0T\u00a0La Rock",
+     "title": "Incredible (Dub)",
+     "type": "Song",
+     "url": "https://genius.com/T-la-rock-incredible-dub-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18109749",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18109749,
+      "pinned": false,
+      "share_url": "https://genius.com/18109749",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18109749/T-la-rock-incredible-dub/Incredible-dub",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8299558",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/29208fab52ff5a9d29cdd3a52314b573.493x493x1.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/29208fab52ff5a9d29cdd3a52314b573.493x493x1.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/29208fab52ff5a9d29cdd3a52314b573.493x493x1.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/29208fab52ff5a9d29cdd3a52314b573.493x493x1.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/1ppbpp02h6o",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8299558,
+         "iq": 106468,
+         "login": "Lilflexy",
+         "name": "Lilflexy",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Lilflexy",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/3938",
+     "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+     "id": 3938,
+     "image_url": "https://assets.genius.com/images/default_avatar_300.png?1668789382",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Special K",
+     "url": "https://genius.com/artists/Special-k"
+    },
+    {
+     "api_path": "/artists/564442",
+     "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "id": 564442,
+     "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "T La Rock",
+     "url": "https://genius.com/artists/T-la-rock"
+    }
+   ],
+   "artist": "T La Rock",
+   "lyrics": "Incredible (Dub) LyricsPop pop pop pop pop\nShake it, shake it\nShake it\nShake it\nShake it\nShake it, shake it\nShake it\nShake\u2005it\nShake\u2005it, shake it\nShake\u2005it\nListen (Do it, do it, do\u2005it)\nSo, let's rock y'all\n(Do it, do it)\n(Do it, do it, do it)\nSo, let's rock, rock\n(Do it, do it, do it)\nSo, let's rock, y'all\n(Do it, do it, do it)\n(Do it, do it, do it)\nSo, let's rock y'all\n(Do it, do it, do it)\n(Do it, do it, do it)\nSo, let's rock\nLet's rock\n\nPeople, people, people, people\nPeople, people, people, people\nPeople, people, people, people\nPeople, people, people, people\n\nFresh, fresh\nFresh, fresh, fresh\nFresh, fre-fre, fre-fre-fresh\nFresh, fresh\nFresh, fresh, fresh\nFresh, fre-fre, fre-fre-freshYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/4437873",
+   "artist_names": "T La Rock",
+   "full_title": "Big Beat In London by\u00a0T\u00a0La Rock",
+   "header_image_thumbnail_url": "https://images.genius.com/0bbdd95a3dca596956e0daf90b355580.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/0bbdd95a3dca596956e0daf90b355580.600x600x1.jpg",
+   "id": 4437873,
+   "language": "en",
+   "lyrics_owner_id": 1656333,
+   "lyrics_state": "complete",
+   "path": "/T-la-rock-big-beat-in-london-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/T-la-rock-big-beat-in-london-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/0bbdd95a3dca596956e0daf90b355580.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/0bbdd95a3dca596956e0daf90b355580.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 1,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Big Beat In London",
+   "title_with_featured": "Big Beat In London",
+   "url": "https://genius.com/T-la-rock-big-beat-in-london-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/564442",
+    "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+    "id": 564442,
+    "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "T La Rock",
+    "url": "https://genius.com/artists/T-la-rock"
+   },
+   "apple_music_id": "160151753",
+   "apple_music_player_url": "https://genius.com/songs/4437873/apple_music_player",
+   "description": {
+    "plain": "A song about itself and what a great song it is.\n\nIt\u2019s not wrong, though!"
+   },
+   "embed_content": "<div id='rg_embed_link_4437873' class='rg_embed_link' data-song-id='4437873'>Read <a href='https://genius.com/T-la-rock-big-beat-in-london-lyrics'>\u201cBig Beat In London\u201d by T\u00a0La Rock</a> on Genius</div> <script crossorigin src='//genius.com/songs/4437873/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/340824",
+    "cover_art_url": "https://images.genius.com/0bbdd95a3dca596956e0daf90b355580.600x600x1.jpg",
+    "full_title": "Lyrical King (From the Boogie Down Bronx) by T La Rock",
+    "id": 340824,
+    "name": "Lyrical King (From the Boogie Down Bronx)",
+    "url": "https://genius.com/albums/T-la-rock/Lyrical-king-from-the-boogie-down-bronx",
+    "artist": {
+     "api_path": "/artists/564442",
+     "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "id": 564442,
+     "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "T La Rock",
+     "url": "https://genius.com/artists/T-la-rock"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 1656333,
+    "annotator_login": "waldfield",
+    "api_path": "/referents/16843021",
+    "classification": "unreviewed",
+    "fragment": "Big Beat In London",
+    "id": 16843021,
+    "is_description": true,
+    "path": "/16843021/T-la-rock-big-beat-in-london/Big-beat-in-london",
+    "range": {
+     "content": "Big Beat In London"
+    },
+    "song_id": 4437873,
+    "url": "https://genius.com/16843021/T-la-rock-big-beat-in-london/Big-beat-in-london",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4437873",
+     "client_timestamps": {
+      "updated_by_human_at": 1631350680,
+      "lyrics_updated_at": 1631350680
+     },
+     "context": "T La Rock",
+     "id": 4437873,
+     "image_url": "https://images.genius.com/0bbdd95a3dca596956e0daf90b355580.600x600x1.jpg",
+     "link_title": "Big Beat In London by\u00a0T\u00a0La Rock",
+     "title": "Big Beat In London",
+     "type": "Song",
+     "url": "https://genius.com/T-la-rock-big-beat-in-london-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/16843021",
+      "body": {
+       "plain": "A song about itself and what a great song it is.\n\nIt\u2019s not wrong, though!"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 16843021,
+      "pinned": false,
+      "share_url": "https://genius.com/16843021",
+      "source": null,
+      "state": "pending",
+      "url": "https://genius.com/16843021/T-la-rock-big-beat-in-london/Big-beat-in-london",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/1656333",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/b71b884baea9de35a952eaea563590f1",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/b71b884baea9de35a952eaea563590f1",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/b71b884baea9de35a952eaea563590f1",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/b71b884baea9de35a952eaea563590f1",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/h5uPc1maRmGZh6OtYWLW_spelunky%20commision%20final.jpg",
+         "human_readable_role_for_display": "Contributor",
+         "id": 1656333,
+         "iq": 98875,
+         "login": "waldfield",
+         "name": "waldfield",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/waldfield",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "T La Rock",
+   "lyrics": "Big Beat In London LyricsBig beat, bi-bi-bi-bi-big beat\n...In London\n\n\"Big Beat:\" a great description of the tune\nThe drums are so powerful they'll easily consume\nAll negativities extracted from the mind\nThe beat dominates; weak points it finds\nCrashing, slashing, the snare rips throughout the track\nSo powerful, the pull is equal to a power jack\nLifting, shifting, tons of bass\nMaking its way through gravity and space\nThe impact is amazing, samples sound fazing\nWith this Big Beat, all hell we\u2019re raising\nBack once more, lyrics kind of soar\nThe rap is the exterior surrounding the inner core\nOf this funky fresh drum track\nYou can't sit back; you'll have to react\nThis Big Beat is definitely a 10\nHigh grade, it was made to mix and blend\nComing to you from DJ Louie Lou\nGreg Nice and T La Rock we\u2019re the unstoppable crew\nBi-bi-bi-bi-bi-big beat\n...In London\n\nLet's go! Let's start the show\nTurn up the bass on your stereo\n'Til your adrenaline flows from your head to your toe\nExact in time with this tempo\nAs the powerful bass continues to grow\nYour level of resistance will drop to zero\nYou'll come alive, feel freshly revived\nVigorous, full of verve and drive\nPumped (pumped) full of strength and energy\nNo strife in your life, you'll now feel free\nA compatible friend, you'll then recommend\nThis Big Beat... as a way to get in-\nTo more merrier moves, partying spirit\nYou'll have to dance each time you hear it\nRock y\u2019all; it\u2019s time to play\nLet's begin! It\u2019s now okay\nTo get loose (loose)... let your feelings go\nHit the dance floor as I rap solo\nTo this Big Beat that sounds so mean\nRough and tough crispy and clean\n\nThis Big Beat is booming; you better get ready\nYour tympanic membrane will be strained like spaghetti\nBrains will disassemble by the force of a snare\nReassemble with the kick, combined with the rare\nElement, only found in this beat\nSo hot, when described, it's compared to heat\nNegative attitudes are absorbed by the beat\nMaking our mission totally complete\nNow that you're hearing this tune correct\nThere'll not be a flaw you can detect\nOn this Big Beat\nYou might also likeBi-bi-bi-bi-bi-big beat\n...In London\n\nThe beat is battering, teeth are chattering\nListeners are baffled by the mind-shattering\nBeats so funky fresh they\u2019re uncomparable\nHuh! The speakers smoke, on the woofers choke\nThe bass, now taste some of this fresh stuff\nEat it up, beat biters, 'til you had enough\nAs you feast my will increases your rate of frustration\nAs the track moves on it ruins your concentration\nQuit while you're ahead; give in to this beat\n\"Hush hush\" will be the word; I'll keep your biting discreet\n\nLouie Lou! Rock the Big Beat\n\nBi-bi-bi-bi-bi-big beat\n...In LondonEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/4897005",
+   "artist_names": "T La Rock",
+   "full_title": "Breakdown (Dub) by\u00a0T\u00a0La Rock",
+   "header_image_thumbnail_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+   "id": 4897005,
+   "language": "en",
+   "lyrics_owner_id": 381464,
+   "lyrics_state": "complete",
+   "path": "/T-la-rock-breakdown-dub-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/T-la-rock-breakdown-dub-sample",
+   "release_date_components": null,
+   "release_date_for_display": null,
+   "release_date_with_abbreviated_month_for_display": null,
+   "song_art_image_thumbnail_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Breakdown (Dub)",
+   "title_with_featured": "Breakdown (Dub)",
+   "url": "https://genius.com/T-la-rock-breakdown-dub-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/564442",
+    "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+    "id": 564442,
+    "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "T La Rock",
+    "url": "https://genius.com/artists/T-la-rock"
+   },
+   "apple_music_id": "1055500034",
+   "apple_music_player_url": "https://genius.com/songs/4897005/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_4897005' class='rg_embed_link' data-song-id='4897005'>Read <a href='https://genius.com/T-la-rock-breakdown-dub-lyrics'>\u201cBreakdown (Dub)\u201d by T\u00a0La Rock</a> on Genius</div> <script crossorigin src='//genius.com/songs/4897005/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": "instrumental",
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/562670",
+    "cover_art_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+    "full_title": "He\u2019s Incredible by T La Rock",
+    "id": 562670,
+    "name": "He\u2019s Incredible",
+    "url": "https://genius.com/albums/T-la-rock/Hes-incredible",
+    "artist": {
+     "api_path": "/artists/564442",
+     "header_image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "id": 564442,
+     "image_url": "https://images.genius.com/44e8b0d0b356521ccf2994e919c1d4d1.267x267x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "T La Rock",
+     "url": "https://genius.com/artists/T-la-rock"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 8299558,
+    "annotator_login": "Lilflexy",
+    "api_path": "/referents/18109740",
+    "classification": "needs_exegesis",
+    "fragment": "Breakdown (Dub)",
+    "id": 18109740,
+    "is_description": true,
+    "path": "/18109740/T-la-rock-breakdown-dub/Breakdown-dub",
+    "range": {
+     "content": "Breakdown (Dub)"
+    },
+    "song_id": 4897005,
+    "url": "https://genius.com/18109740/T-la-rock-breakdown-dub/Breakdown-dub",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/4897005",
+     "client_timestamps": {
+      "updated_by_human_at": 1572390170,
+      "lyrics_updated_at": 1572390170
+     },
+     "context": "T La Rock",
+     "id": 4897005,
+     "image_url": "https://images.genius.com/7433622beba18469865ffe3959646fe9.400x400x1.jpg",
+     "link_title": "Breakdown (Dub) by\u00a0T\u00a0La Rock",
+     "title": "Breakdown (Dub)",
+     "type": "Song",
+     "url": "https://genius.com/T-la-rock-breakdown-dub-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18109740",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18109740,
+      "pinned": false,
+      "share_url": "https://genius.com/18109740",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18109740/T-la-rock-breakdown-dub/Breakdown-dub",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/8299558",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/29208fab52ff5a9d29cdd3a52314b573.493x493x1.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/29208fab52ff5a9d29cdd3a52314b573.493x493x1.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/29208fab52ff5a9d29cdd3a52314b573.493x493x1.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/29208fab52ff5a9d29cdd3a52314b573.493x493x1.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/1ppbpp02h6o",
+         "human_readable_role_for_display": "Contributor",
+         "id": 8299558,
+         "iq": 106468,
+         "login": "Lilflexy",
+         "name": "Lilflexy",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Lilflexy",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "T La Rock",
+   "lyrics": ""
+  }
+ ]
+}

@@ -1,0 +1,2941 @@
+{
+ "alternate_names": [],
+ "api_path": "/artists/979575",
+ "description": {
+  "plain": "?"
+ },
+ "facebook_name": null,
+ "followers_count": 0,
+ "header_image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+ "id": 979575,
+ "image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+ "instagram_name": null,
+ "is_meme_verified": false,
+ "is_verified": false,
+ "name": "Jonzun Crew",
+ "translation_artist": false,
+ "twitter_name": null,
+ "url": "https://genius.com/artists/Jonzun-crew",
+ "current_user_metadata": {
+  "permissions": [
+   "view_activity_stream"
+  ],
+  "excluded_permissions": [
+   "edit",
+   "edit_images",
+   "edit_names",
+   "edit_anything",
+   "merge",
+   "sort_artist_songs",
+   "follow",
+   "view_contribution_opportunities",
+   "edit_translation_artist",
+   "see_short_id"
+  ],
+  "interactions": {
+   "following": false
+  }
+ },
+ "description_annotation": {
+  "_type": "referent",
+  "annotator_id": 2589885,
+  "annotator_login": "Double_G15",
+  "api_path": "/referents/10110368",
+  "classification": "needs_exegesis",
+  "fragment": "Jonzun Crew",
+  "id": 10110368,
+  "is_description": true,
+  "path": "/10110368/Jonzun-crew/Jonzun-crew",
+  "range": {
+   "content": "Jonzun Crew"
+  },
+  "song_id": null,
+  "url": "https://genius.com/10110368/Jonzun-crew/Jonzun-crew",
+  "verified_annotator_ids": [],
+  "annotatable": {
+   "api_path": "/artists/979575",
+   "context": null,
+   "id": 979575,
+   "image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+   "link_title": "Jonzun Crew",
+   "title": "Jonzun Crew",
+   "type": "Artist",
+   "url": "https://genius.com/artists/Jonzun-crew"
+  },
+  "annotations": [
+   {
+    "api_path": "/annotations/10110368",
+    "body": {
+     "plain": ""
+    },
+    "comment_count": 0,
+    "community": true,
+    "custom_preview": null,
+    "has_voters": false,
+    "id": 10110368,
+    "pinned": false,
+    "share_url": "https://genius.com/10110368",
+    "source": null,
+    "state": "needs_exegesis",
+    "url": "https://genius.com/10110368/Jonzun-crew/Jonzun-crew",
+    "verified": false,
+    "votes_total": 0,
+    "current_user_metadata": {
+     "permissions": [],
+     "excluded_permissions": [
+      "vote",
+      "edit",
+      "cosign",
+      "uncosign",
+      "destroy",
+      "accept",
+      "reject",
+      "see_unreviewed",
+      "clear_votes",
+      "propose_edit_to",
+      "pin_to_profile",
+      "unpin_from_profile",
+      "update_source",
+      "edit_custom_preview",
+      "create_comment"
+     ],
+     "interactions": {
+      "cosign": false,
+      "pyong": false,
+      "vote": null
+     },
+     "iq_by_action": {}
+    },
+    "authors": [
+     {
+      "attribution": 1.0,
+      "pinned_role": null,
+      "user": {
+       "api_path": "/users/2589885",
+       "avatar": {
+        "tiny": {
+         "url": "https://images.genius.com/avatars/tiny/a169eceaa26bea0bfb31ca9a208e787d",
+         "bounding_box": {
+          "width": 16,
+          "height": 16
+         }
+        },
+        "thumb": {
+         "url": "https://images.genius.com/avatars/thumb/a169eceaa26bea0bfb31ca9a208e787d",
+         "bounding_box": {
+          "width": 32,
+          "height": 32
+         }
+        },
+        "small": {
+         "url": "https://images.genius.com/avatars/small/a169eceaa26bea0bfb31ca9a208e787d",
+         "bounding_box": {
+          "width": 100,
+          "height": 100
+         }
+        },
+        "medium": {
+         "url": "https://images.genius.com/avatars/medium/a169eceaa26bea0bfb31ca9a208e787d",
+         "bounding_box": {
+          "width": 300,
+          "height": 400
+         }
+        }
+       },
+       "header_image_url": "https://images.genius.com/avatars/medium/a169eceaa26bea0bfb31ca9a208e787d",
+       "human_readable_role_for_display": "Contributor",
+       "id": 2589885,
+       "iq": 2553,
+       "login": "Double_G15",
+       "name": "Double_G15",
+       "role_for_display": "contributor",
+       "url": "https://genius.com/Double_G15",
+       "current_user_metadata": {
+        "permissions": [],
+        "excluded_permissions": [
+         "follow"
+        ],
+        "interactions": {
+         "following": false
+        }
+       }
+      }
+     }
+    ],
+    "cosigned_by": [],
+    "rejection_comment": null,
+    "verified_by": null
+   }
+  ]
+ },
+ "user": null,
+ "songs": [
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/2932055",
+   "artist_names": "Jonzun Crew",
+   "full_title": "Space Cowboy by\u00a0Jonzun\u00a0Crew",
+   "header_image_thumbnail_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+   "id": 2932055,
+   "language": "en",
+   "lyrics_owner_id": 3211825,
+   "lyrics_state": "complete",
+   "path": "/Jonzun-crew-space-cowboy-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Jonzun-crew-space-cowboy-sample",
+   "release_date_components": {
+    "year": 1983,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1983",
+   "release_date_with_abbreviated_month_for_display": "1983",
+   "song_art_image_thumbnail_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 4,
+    "iq_earners": 4,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Space Cowboy",
+   "title_with_featured": "Space Cowboy",
+   "url": "https://genius.com/Jonzun-crew-space-cowboy-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/979575",
+    "header_image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+    "id": 979575,
+    "image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jonzun Crew",
+    "url": "https://genius.com/artists/Jonzun-crew"
+   },
+   "apple_music_id": "1415149942",
+   "apple_music_player_url": "https://genius.com/songs/2932055/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_2932055' class='rg_embed_link' data-song-id='2932055'>Read <a href='https://genius.com/Jonzun-crew-space-cowboy-lyrics'>\u201cSpace Cowboy\u201d by Jonzun\u00a0Crew</a> on Genius</div> <script crossorigin src='//genius.com/songs/2932055/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "view_relationships_page",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/160069",
+    "cover_art_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+    "full_title": "Lost In Space by Jonzun Crew",
+    "id": 160069,
+    "name": "Lost In Space",
+    "url": "https://genius.com/albums/Jonzun-crew/Lost-in-space",
+    "artist": {
+     "api_path": "/artists/979575",
+     "header_image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+     "id": 979575,
+     "image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jonzun Crew",
+     "url": "https://genius.com/artists/Jonzun-crew"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 3211825,
+    "annotator_login": "Pem85",
+    "api_path": "/referents/11011403",
+    "classification": "needs_exegesis",
+    "fragment": "Space Cowboy",
+    "id": 11011403,
+    "is_description": true,
+    "path": "/11011403/Jonzun-crew-space-cowboy/Space-cowboy",
+    "range": {
+     "content": "Space Cowboy"
+    },
+    "song_id": 2932055,
+    "url": "https://genius.com/11011403/Jonzun-crew-space-cowboy/Space-cowboy",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2932055",
+     "client_timestamps": {
+      "updated_by_human_at": 1659085995,
+      "lyrics_updated_at": 1579368615
+     },
+     "context": "Jonzun Crew",
+     "id": 2932055,
+     "image_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+     "link_title": "Space Cowboy by\u00a0Jonzun\u00a0Crew",
+     "title": "Space Cowboy",
+     "type": "Song",
+     "url": "https://genius.com/Jonzun-crew-space-cowboy-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/11011403",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 11011403,
+      "pinned": false,
+      "share_url": "https://genius.com/11011403",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/11011403/Jonzun-crew-space-cowboy/Space-cowboy",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/3211825",
+         "avatar": {
+          "tiny": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/lJpjLsF9Sxy0B5BuyOC3_sizzling-reel.jpg",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/lJpjLsF9Sxy0B5BuyOC3_sizzling-reel.jpg",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/lJpjLsF9Sxy0B5BuyOC3_sizzling-reel.jpg",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://s3.amazonaws.com/filepicker-images-rapgenius/lJpjLsF9Sxy0B5BuyOC3_sizzling-reel.jpg",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://s3.amazonaws.com/filepicker-images-rapgenius/9frt3d62dqc",
+         "human_readable_role_for_display": "Contributor",
+         "id": 3211825,
+         "iq": 6745,
+         "login": "Pem85",
+         "name": "Pem85",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Pem85",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Axrlhj5zbds"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/665014",
+     "header_image_url": "https://images.genius.com/a1f47f2d4551ec7a0bf918e44d21b692.300x300x1.png",
+     "id": 665014,
+     "image_url": "https://images.genius.com/817fc78f4a614a653fb449223f09532b.400x400x1.jpg",
+     "is_meme_verified": true,
+     "is_verified": true,
+     "name": "Tom Silverman",
+     "url": "https://genius.com/artists/Tom-silverman",
+     "iq": 471
+    },
+    {
+     "api_path": "/artists/651519",
+     "header_image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "id": 651519,
+     "image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michael Jonzun",
+     "url": "https://genius.com/artists/Michael-jonzun"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "url": null,
+     "songs": [
+      {
+       "annotation_count": 0,
+       "api_path": "/songs/2111815",
+       "artist_names": "Ennio Morricone",
+       "full_title": "Il buono, il brutto, il cattivo (titoli) [The Good, the Bad and the Ugly - Main Theme] by\u00a0Ennio\u00a0Morricone",
+       "header_image_thumbnail_url": "https://images.genius.com/d4d429487b2921524c5b9c2fc749201b.300x300x1.png",
+       "header_image_url": "https://images.genius.com/d4d429487b2921524c5b9c2fc749201b.995x995x1.png",
+       "id": 2111815,
+       "language": "en",
+       "lyrics_owner_id": 1549345,
+       "lyrics_state": "complete",
+       "path": "/Ennio-morricone-il-buono-il-brutto-il-cattivo-titoli-the-good-the-bad-and-the-ugly-main-theme-lyrics",
+       "pyongs_count": 1,
+       "relationships_index_url": "https://genius.com/Ennio-morricone-il-buono-il-brutto-il-cattivo-titoli-the-good-the-bad-and-the-ugly-main-theme-sample",
+       "release_date_components": {
+        "year": 1966,
+        "month": null,
+        "day": null
+       },
+       "release_date_for_display": "1966",
+       "release_date_with_abbreviated_month_for_display": "1966",
+       "song_art_image_thumbnail_url": "https://images.genius.com/d4d429487b2921524c5b9c2fc749201b.300x300x1.png",
+       "song_art_image_url": "https://images.genius.com/d4d429487b2921524c5b9c2fc749201b.995x995x1.png",
+       "stats": {
+        "unreviewed_annotations": 0,
+        "hot": false,
+        "pageviews": 47505
+       },
+       "title": "Il buono, il brutto, il cattivo (titoli) [The Good, the Bad and the Ugly - Main Theme]",
+       "title_with_featured": "Il buono, il brutto, il cattivo (titoli) [The Good, the Bad and the Ugly - Main Theme]",
+       "url": "https://genius.com/Ennio-morricone-il-buono-il-brutto-il-cattivo-titoli-the-good-the-bad-and-the-ugly-main-theme-lyrics",
+       "featured_artists": [],
+       "primary_artist": {
+        "api_path": "/artists/47679",
+        "header_image_url": "https://images.genius.com/4a1736348e132b1f58172ef8aa00f8ae.1000x667x1.jpg",
+        "id": 47679,
+        "image_url": "https://images.genius.com/4f6db1f3fa52fe800d47f5d7826c2c33.768x768x1.jpg",
+        "is_meme_verified": false,
+        "is_verified": false,
+        "name": "Ennio Morricone",
+        "url": "https://genius.com/artists/Ennio-morricone"
+       }
+      }
+     ]
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "url": "https://genius.com/Cardi-b-bad-bunny-and-j-balvin-i-like-it-sample/covers",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "url": "https://genius.com/Cardi-b-bad-bunny-and-j-balvin-i-like-it-sample/remixes",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "url": null,
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "url": "https://genius.com/Cardi-b-bad-bunny-and-j-balvin-i-like-it-sample/translations",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "url": null,
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/651519",
+     "header_image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "id": 651519,
+     "image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michael Jonzun",
+     "url": "https://genius.com/artists/Michael-jonzun"
+    },
+    {
+     "api_path": "/artists/288036",
+     "header_image_url": "https://images.genius.com/48abceb52035ebcdf83a650f16ec8f06.600x600x1.jpg",
+     "id": 288036,
+     "image_url": "https://images.genius.com/48abceb52035ebcdf83a650f16ec8f06.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Maurice Starr",
+     "url": "https://genius.com/artists/Maurice-starr"
+    }
+   ],
+   "artist": "Jonzun Crew",
+   "lyrics": "Space Cowboy LyricsHowdyyyyy!\nSpace cowboy\n\nSpace Cowboy\nHe's bad\nSpace Cowboy\nHe's mean\n\n[Verse 1]\nOnce upon a time\nThere used to be\nA Space Cowboy\nFrom this galaxy\nHe had two laser guns\nWith beams like the sun\nZapping bad guys\nAway just for fun (Space Cowboy)\n[Chorus]\nHe's bad! He's mean!\nHe's a Space Cowboy in the spacey jeans\nHe's bad, he's number one\nHe's a Space Cowboy with the laser gun!\nHe's bad! (Space Cowboy) He's mean!\nHe's a Space Cowboy in the spacey jeans\nHe's bad, (he's mean) he's number one\nHe's a Space Cowboy with the laser gun!\n\n[Verse 2]\nThe Space Cowboy\nIs one hell of a man\nKnown through the planets\nOf the fastest hand\nWhenever he was around\nThere wasn't a sound\nThe outer space outlaws\nStayed underground (Space Cowboy)\n\n[Chorus]\nHe's bad! He's mean!\nHe's a Space Cowboy in the spacey jeans\nHe's bad, he's number one\nHe's a Space Cowboy with the laser gun!\nHe's bad! (Space Cowboy) He's mean!\nHe's a Space Cowboy in the spacey jeans\nHe's bad, (he's mean) he's number one\nHe's a Space Cowboy with the laser gun!\nYou might also likeI say Yippey-Yi, Yippey-Yi, Yippey-Yi, Yay\n(Yippey-Yi, Yippey-Yi, Yippey-Yi, Yay)\nSay Howdy, Hey Hey\n(Howdy, Hey Hey)\nWell say Yippey-Yi, Yippey-Yi, Yippey-Yi, Yay\n(Yippey-Yi, Yippey-Yi, Yippey-Yi, Yay)\nSay Howdy, Hey Hey\n(Howdy, Hey Hey)\nSpace Cowboy!\n\n[Verse 3]\nI'm a packin' jammin' son-of-a-gun\nThe Space Cowboy from the Crew Jonzun\nI'll pack it in, I'll jammin' out\nTell all the hip-hoppers\nWhat it's all about\nBut that's not all\nI like to do\nI like to rock it with my fans\nAnd the Jonzun Crew\n\nSay Jonzun Crew\n(Jonzun Crew)\nWhat? (What?)\nWhatcha gonna do?\n(Whatcha gonna do?)\nHuh? (Huh?)\nEverybody say Jonzun Crew\n(Jonzun Crew)\nHuh! (Huh!)\nWhatcha gonna do?\n(Whatcha gonna do?)\nC'mon (C'mon)\n\nI say Yippey-Yi, Yippey-Yi, Yippey-Yi, Yay\n(Yippey-Yi, Yippey-Yi, Yippey-Yi, Yay)\nHowdy, Hey Hey\n(Howdy, Hey Hey)\nI said Jonzun Crew\n(Jonzun Crew)\nWhat? (what?)\nWhatcha gonna do?\n(Whatcha gonna do?)\nEverybody say Jonzun Crew\n(Jonzun Crew)\nUh! (Uh!)\nRockin' the house for you\n(Rockin' the house for you)\n\n\n[Chorus]\nHe's bad! He's mean!\nHe's a Space Cowboy in the spacey jeans\nHe's bad, he's number one\nHe's a Space Cowboy with the laser gun!\nHe's bad! (Space Cowboy) He's mean!\nHe's a Space Cowboy in the spacey jeans\nHe's bad, (he's mean) he's number one\nHe's a Space Cowboy with the laser gun!\n\n[Verse 4]\nHe was last seen\nBetween Venus and Mars\nRiding a comet\nAnd lasso-ing stars\nHe always brought us\nExcitement and Joy\nOur outer space hero\nThe Space Cowboy (Space Cowboy)\n\n[Chorus]\nHe's bad! He's mean!\nHe's a Space Cowboy in the spacey jeans\nHe's bad, he's number one\nHe's a Space cowboy with the laser gun!\n\n[Outro]\nI said boy\nI'm bad\nI can do it better than you\nWhatcha gonna do\nHere we go\n\nYode-le-ee Yode-le-ee Yode-le-ee Yode-le-ee\nYode-le-ee Yode-le-ee Yode-le-ee Yode-le-ee\nYodel-le-ee-Hoo\n\nYode-Yode Yode-Yode Yode-Yode Yode-Yode\nYode-Yode Yode-Yode Yode-Yode Yode-Yode\nYodel-le-ee-HooEmbed"
+  },
+  {
+   "annotation_count": 1,
+   "api_path": "/songs/2822228",
+   "artist_names": "Jonzun Crew",
+   "full_title": "Pack Jam (Look Out for the OVC) by\u00a0Jonzun\u00a0Crew",
+   "header_image_thumbnail_url": "https://images.genius.com/a712e3697554848eb334f558bb98cb44.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/a712e3697554848eb334f558bb98cb44.320x320x1.jpg",
+   "id": 2822228,
+   "language": "en",
+   "lyrics_owner_id": 2589885,
+   "lyrics_state": "complete",
+   "path": "/Jonzun-crew-pack-jam-look-out-for-the-ovc-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Jonzun-crew-pack-jam-look-out-for-the-ovc-sample",
+   "release_date_components": {
+    "year": 1982,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1982",
+   "release_date_with_abbreviated_month_for_display": "1982",
+   "song_art_image_thumbnail_url": "https://images.genius.com/a712e3697554848eb334f558bb98cb44.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/a712e3697554848eb334f558bb98cb44.320x320x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 7,
+    "iq_earners": 7,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Pack Jam (Look Out for the OVC)",
+   "title_with_featured": "Pack Jam (Look Out for the OVC)",
+   "url": "https://genius.com/Jonzun-crew-pack-jam-look-out-for-the-ovc-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/979575",
+    "header_image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+    "id": 979575,
+    "image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jonzun Crew",
+    "url": "https://genius.com/artists/Jonzun-crew"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/2822228/apple_music_player",
+   "description": {
+    "plain": "This was Jonzun Crew\u2019s biggest single, released in 1982. It is a testament to their mastery of electro funk. The song takes a spin on Parliament-Funkadelic\u2019s loopy sci-fi themes of Afro-futurism.\n\nIt also featured in the video game Grand Theft Auto: Vice City Stories"
+   },
+   "embed_content": "<div id='rg_embed_link_2822228' class='rg_embed_link' data-song-id='2822228'>Read <a href='https://genius.com/Jonzun-crew-pack-jam-look-out-for-the-ovc-lyrics'>\u201cPack Jam (Look Out for the OVC)\u201d by Jonzun\u00a0Crew</a> on Genius</div> <script crossorigin src='//genius.com/songs/2822228/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/160069",
+    "cover_art_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+    "full_title": "Lost In Space by Jonzun Crew",
+    "id": 160069,
+    "name": "Lost In Space",
+    "url": "https://genius.com/albums/Jonzun-crew/Lost-in-space",
+    "artist": {
+     "api_path": "/artists/979575",
+     "header_image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+     "id": 979575,
+     "image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jonzun Crew",
+     "url": "https://genius.com/artists/Jonzun-crew"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 2589885,
+    "annotator_login": "Double_G15",
+    "api_path": "/referents/10110369",
+    "classification": "accepted",
+    "fragment": "Pack Jam (Look Out for the OVC)",
+    "id": 10110369,
+    "is_description": true,
+    "path": "/10110369/Jonzun-crew-pack-jam-look-out-for-the-ovc/Pack-jam-look-out-for-the-ovc",
+    "range": {
+     "content": "Pack Jam (Look Out for the OVC)"
+    },
+    "song_id": 2822228,
+    "url": "https://genius.com/10110369/Jonzun-crew-pack-jam-look-out-for-the-ovc/Pack-jam-look-out-for-the-ovc",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/2822228",
+     "client_timestamps": {
+      "updated_by_human_at": 1583675553,
+      "lyrics_updated_at": 1583675553
+     },
+     "context": "Jonzun Crew",
+     "id": 2822228,
+     "image_url": "https://images.genius.com/a712e3697554848eb334f558bb98cb44.320x320x1.jpg",
+     "link_title": "Pack Jam (Look Out for the OVC) by\u00a0Jonzun\u00a0Crew",
+     "title": "Pack Jam (Look Out for the OVC)",
+     "type": "Song",
+     "url": "https://genius.com/Jonzun-crew-pack-jam-look-out-for-the-ovc-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/10110369",
+      "body": {
+       "plain": "This was Jonzun Crew\u2019s biggest single, released in 1982. It is a testament to their mastery of electro funk. The song takes a spin on Parliament-Funkadelic\u2019s loopy sci-fi themes of Afro-futurism.\n\nIt also featured in the video game Grand Theft Auto: Vice City Stories"
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 10110369,
+      "pinned": false,
+      "share_url": "https://genius.com/10110369",
+      "source": null,
+      "state": "accepted",
+      "url": "https://genius.com/10110369/Jonzun-crew-pack-jam-look-out-for-the-ovc/Pack-jam-look-out-for-the-ovc",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [
+        "create_comment"
+       ],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/2589885",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/a169eceaa26bea0bfb31ca9a208e787d",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/a169eceaa26bea0bfb31ca9a208e787d",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/a169eceaa26bea0bfb31ca9a208e787d",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/a169eceaa26bea0bfb31ca9a208e787d",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/avatars/medium/a169eceaa26bea0bfb31ca9a208e787d",
+         "human_readable_role_for_display": "Contributor",
+         "id": 2589885,
+         "iq": 2553,
+         "login": "Double_G15",
+         "name": "Double_G15",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/Double_G15",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=oXPpng1dQag"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/651519",
+     "header_image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "id": 651519,
+     "image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michael Jonzun",
+     "url": "https://genius.com/artists/Michael-jonzun"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Jonzun Crew",
+   "lyrics": "Pack Jam (Look Out for the OVC) LyricsPack jam, look out\nPack jam, look out\nPack jam, look out\nPack jam, look out\nLook out, pack jam\n\nP-A-C-K, J-A-M, pack jam\nP-A-C-K, J-A-M\nPack jam, look out\nPack jam, look out\nPack jam, look out\nPack jam, look out\nLook out, pack jam\nP-A-C-K, J-A-M, pack jam\nLook out\nP-A-C-K, J-A-M\nPack it, pack it in and jam it\nPack it, pack it in and jam it\nPack it, pack it in and jam it\nPack it, pack it in and jam it\n\nPack it, pack it in and jam it\nPack it, pack it in and jam it\nPack it, pack it in and jam it\nPack it, pack it in and jam it\n\nYou better look out for the OVC\nThe outer space visual communicator\nLook out\nPack jam, look out\nPack jam, look out\nPack jam\n\nLook out\nPack jam, look out\nPack jam\nP-A-C-K, J-A-M, pack jam\nPack jam, P-A-C-K, J-A-M\nPack jam\nLook out\nPack jam\nLook out, pack jam\nLook out, pack jam\nLook outYou might also likeEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5230698",
+   "artist_names": "Jonzun Crew",
+   "full_title": "Space Is The Place by\u00a0Jonzun\u00a0Crew",
+   "header_image_thumbnail_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+   "id": 5230698,
+   "language": "en",
+   "lyrics_owner_id": 4020270,
+   "lyrics_state": "complete",
+   "path": "/Jonzun-crew-space-is-the-place-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Jonzun-crew-space-is-the-place-sample",
+   "release_date_components": {
+    "year": 1983,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1983",
+   "release_date_with_abbreviated_month_for_display": "1983",
+   "song_art_image_thumbnail_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Space Is The Place",
+   "title_with_featured": "Space Is The Place",
+   "url": "https://genius.com/Jonzun-crew-space-is-the-place-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/979575",
+    "header_image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+    "id": 979575,
+    "image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jonzun Crew",
+    "url": "https://genius.com/artists/Jonzun-crew"
+   },
+   "apple_music_id": "1415149935",
+   "apple_music_player_url": "https://genius.com/songs/5230698/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5230698' class='rg_embed_link' data-song-id='5230698'>Read <a href='https://genius.com/Jonzun-crew-space-is-the-place-lyrics'>\u201cSpace Is The Place\u201d by Jonzun\u00a0Crew</a> on Genius</div> <script crossorigin src='//genius.com/songs/5230698/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/160069",
+    "cover_art_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+    "full_title": "Lost In Space by Jonzun Crew",
+    "id": 160069,
+    "name": "Lost In Space",
+    "url": "https://genius.com/albums/Jonzun-crew/Lost-in-space",
+    "artist": {
+     "api_path": "/artists/979575",
+     "header_image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+     "id": 979575,
+     "image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jonzun Crew",
+     "url": "https://genius.com/artists/Jonzun-crew"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4733728,
+    "annotator_login": "JJEvans",
+    "api_path": "/referents/18978919",
+    "classification": "needs_exegesis",
+    "fragment": "Space Is The Place",
+    "id": 18978919,
+    "is_description": true,
+    "path": "/18978919/Jonzun-crew-space-is-the-place/Space-is-the-place",
+    "range": {
+     "content": "Space Is The Place"
+    },
+    "song_id": 5230698,
+    "url": "https://genius.com/18978919/Jonzun-crew-space-is-the-place/Space-is-the-place",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5230698",
+     "client_timestamps": {
+      "updated_by_human_at": 1582402151,
+      "lyrics_updated_at": 1582321108
+     },
+     "context": "Jonzun Crew",
+     "id": 5230698,
+     "image_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+     "link_title": "Space Is The Place by\u00a0Jonzun\u00a0Crew",
+     "title": "Space Is The Place",
+     "type": "Song",
+     "url": "https://genius.com/Jonzun-crew-space-is-the-place-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18978919",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18978919,
+      "pinned": false,
+      "share_url": "https://genius.com/18978919",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18978919/Jonzun-crew-space-is-the-place/Space-is-the-place",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4733728",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/83ab0c40ed762f79a3026d866084a6c9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/83ab0c40ed762f79a3026d866084a6c9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/83ab0c40ed762f79a3026d866084a6c9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/83ab0c40ed762f79a3026d866084a6c9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/025b0d78a6b91c4e42a24fae05d6a6b7.1000x667x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 4733728,
+         "iq": 624396,
+         "login": "JJEvans",
+         "name": "Jay Evans",
+         "role_for_display": "editor",
+         "url": "https://genius.com/JJEvans",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=0TByLLJbIQ4"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/651519",
+     "header_image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "id": 651519,
+     "image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michael Jonzun",
+     "url": "https://genius.com/artists/Michael-jonzun"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/651519",
+     "header_image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "id": 651519,
+     "image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michael Jonzun",
+     "url": "https://genius.com/artists/Michael-jonzun"
+    }
+   ],
+   "artist": "Jonzun Crew",
+   "lyrics": "Space Is The Place Lyrics[Intro]\nYou must follow me\n(We will follow you)\nYou must follow me, to space\n\n[Verse 1]\nSpace is the place\nSpace\u2005is\u2005the place\nSpace is\u2005the place\nSpace is the place\nYou must\u2005follow me\n(We will follow you)\nYou must follow me, to space\nSpace, space, ha ha ha ha ha ha\n[Verse 2]\nSpace is the place\nSpace is the place\nSpace is the place\nSpace is the place\n(Enter the a-time pit)\nSpace does not attract to you\n(Moving faster from our face)\nTime is just distracting, ha ha ha ha ha ha\nSpace is the place\nSpace is the place\nSpace is the place\n\n[Verse 3]\nEarthlings, you have entered the infinite void\nThere is no beginning, there is no end\nWelcome to space, muh ha ha ha ha ha ha\nTen, nine, eight, seven, six, five, four, three, two, one\n\n[Verse 4]\n(Enter the a-time pit)\nSpace does not attract to you\n(Moving faster from our face)\nTime is just distracting, ha ha ha ha ha ha\nSpace is the place\nSpace is the place\nSpace is the place\nYou might also like[Verse 5]\n(Space, ha ha ha ha, ha ha ha ha)\nYou must follow me\n(We will follow you)\nYou must follow me\n(We will follow you)\nYou must follow me\n(We will follow you)\nYou must follow me, to spaceEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5230697",
+   "artist_names": "Jonzun Crew",
+   "full_title": "We Are The Jonzun Crew by\u00a0Jonzun\u00a0Crew",
+   "header_image_thumbnail_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+   "id": 5230697,
+   "language": "en",
+   "lyrics_owner_id": 4020270,
+   "lyrics_state": "complete",
+   "path": "/Jonzun-crew-we-are-the-jonzun-crew-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Jonzun-crew-we-are-the-jonzun-crew-sample",
+   "release_date_components": {
+    "year": 1983,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1983",
+   "release_date_with_abbreviated_month_for_display": "1983",
+   "song_art_image_thumbnail_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "We Are The Jonzun Crew",
+   "title_with_featured": "We Are The Jonzun Crew",
+   "url": "https://genius.com/Jonzun-crew-we-are-the-jonzun-crew-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/979575",
+    "header_image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+    "id": 979575,
+    "image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jonzun Crew",
+    "url": "https://genius.com/artists/Jonzun-crew"
+   },
+   "apple_music_id": "1415149359",
+   "apple_music_player_url": "https://genius.com/songs/5230697/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5230697' class='rg_embed_link' data-song-id='5230697'>Read <a href='https://genius.com/Jonzun-crew-we-are-the-jonzun-crew-lyrics'>\u201cWe Are The Jonzun Crew\u201d by Jonzun\u00a0Crew</a> on Genius</div> <script crossorigin src='//genius.com/songs/5230697/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/160069",
+    "cover_art_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+    "full_title": "Lost In Space by Jonzun Crew",
+    "id": 160069,
+    "name": "Lost In Space",
+    "url": "https://genius.com/albums/Jonzun-crew/Lost-in-space",
+    "artist": {
+     "api_path": "/artists/979575",
+     "header_image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+     "id": 979575,
+     "image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jonzun Crew",
+     "url": "https://genius.com/artists/Jonzun-crew"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4733728,
+    "annotator_login": "JJEvans",
+    "api_path": "/referents/18978918",
+    "classification": "needs_exegesis",
+    "fragment": "We Are The Jonzun Crew",
+    "id": 18978918,
+    "is_description": true,
+    "path": "/18978918/Jonzun-crew-we-are-the-jonzun-crew/We-are-the-jonzun-crew",
+    "range": {
+     "content": "We Are The Jonzun Crew"
+    },
+    "song_id": 5230697,
+    "url": "https://genius.com/18978918/Jonzun-crew-we-are-the-jonzun-crew/We-are-the-jonzun-crew",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5230697",
+     "client_timestamps": {
+      "updated_by_human_at": 1582321153,
+      "lyrics_updated_at": 1582318304
+     },
+     "context": "Jonzun Crew",
+     "id": 5230697,
+     "image_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+     "link_title": "We Are The Jonzun Crew by\u00a0Jonzun\u00a0Crew",
+     "title": "We Are The Jonzun Crew",
+     "type": "Song",
+     "url": "https://genius.com/Jonzun-crew-we-are-the-jonzun-crew-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18978918",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18978918,
+      "pinned": false,
+      "share_url": "https://genius.com/18978918",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18978918/Jonzun-crew-we-are-the-jonzun-crew/We-are-the-jonzun-crew",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4733728",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/83ab0c40ed762f79a3026d866084a6c9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/83ab0c40ed762f79a3026d866084a6c9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/83ab0c40ed762f79a3026d866084a6c9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/83ab0c40ed762f79a3026d866084a6c9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/025b0d78a6b91c4e42a24fae05d6a6b7.1000x667x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 4733728,
+         "iq": 624396,
+         "login": "JJEvans",
+         "name": "Jay Evans",
+         "role_for_display": "editor",
+         "url": "https://genius.com/JJEvans",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=4GqM6OuyU_U"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/651519",
+     "header_image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "id": 651519,
+     "image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michael Jonzun",
+     "url": "https://genius.com/artists/Michael-jonzun"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/651519",
+     "header_image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "id": 651519,
+     "image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michael Jonzun",
+     "url": "https://genius.com/artists/Michael-jonzun"
+    },
+    {
+     "api_path": "/artists/288036",
+     "header_image_url": "https://images.genius.com/48abceb52035ebcdf83a650f16ec8f06.600x600x1.jpg",
+     "id": 288036,
+     "image_url": "https://images.genius.com/48abceb52035ebcdf83a650f16ec8f06.600x600x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Maurice Starr",
+     "url": "https://genius.com/artists/Maurice-starr"
+    }
+   ],
+   "artist": "Jonzun Crew",
+   "lyrics": "We Are The Jonzun Crew Lyrics[Intro]\nWho are we?\nWho are we?\nWho are we? (The Jonzun Crew)\nWho are we? (The Jonzun Crew)\nWho\u2005are\u2005we? (The Jonzun\u2005Crew)\nWho are we? (The Jonzun Crew)\n\n[Verse 1]\nWe\u2005are the Jonzun crew\nWe are from your planet too\nWe are the Jonzun crew\nWe want to rock you\n[Verse 2]\nJ-O-N-Z-U-N\nRock it, rock it, rock it, rockin'\nJ-O-N-Z-U-N\nWe want to rock you, again\nWe are the Jonzun crew\nWe are from your planet too\nWe are the Jonzun crew\nWe want to rock you\n\n[Verse 3]\nRock it, sock it, in the pocket\nRock your sock out in the pocket\nRock it, sock it, in the pocket\nRock your sock out, ooh, rock it baby\nOoh, let them rock it, mama\nOoh baby\n\n[Verse 4]\nWho are we?\nWho are we?\nWe are the Jonzun crew\nWe are from your planet too\nWe are the Jonzun crew\nWe want to rock you\nHoo-ha, hoo-ha, hoo-hoo-ha-ha\nHoo-ha, ha it out\nHa\nYou might also like[Refrain]\nJ-O-N-Z-U-N\nRock it, rock it, rock it, rockin'\nJ-O-N-Z-U-N\nWe want to rock you, again\nWe are the Jonzun crew\nWe are from your planet too\nWe are the Jonzun crew\nWe want to rock you\n\n[Verse 5]\nHa ha ha ha ha, ha ha ha ha\nHaaa ha ha ha ha ha ha\nHa, ha ha ha ha\nJ-O-N-Z-U-N\nRock it, rock it, rock it, rockin'\nJ-O-N-Z-U-N\nWe want to rock you, again\nWe are the Jonzun crew\nWe are from your planet too\nWe are the Jonzun crew\nWe want to rock you\n\n[Verse 6]\nWho are we? (The Jonzun Crew)\nWho are we? (The Jonzun Crew)\nWho are we? (The Jonzun Crew)\nWho are we? (The Jonzun Crew)\nWe are the Jonzun crew\nWe are from your planet too\nWe are the Jonzun crew\nWe want to rock youEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5230700",
+   "artist_names": "Jonzun Crew",
+   "full_title": "Ground Control by\u00a0Jonzun\u00a0Crew",
+   "header_image_thumbnail_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+   "id": 5230700,
+   "language": "en",
+   "lyrics_owner_id": 381464,
+   "lyrics_state": "complete",
+   "path": "/Jonzun-crew-ground-control-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Jonzun-crew-ground-control-sample",
+   "release_date_components": {
+    "year": 1985,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1985",
+   "release_date_with_abbreviated_month_for_display": "1985",
+   "song_art_image_thumbnail_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 3,
+    "iq_earners": 3,
+    "transcribers": 2,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Ground Control",
+   "title_with_featured": "Ground Control",
+   "url": "https://genius.com/Jonzun-crew-ground-control-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/979575",
+    "header_image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+    "id": 979575,
+    "image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jonzun Crew",
+    "url": "https://genius.com/artists/Jonzun-crew"
+   },
+   "apple_music_id": "1415149937",
+   "apple_music_player_url": "https://genius.com/songs/5230700/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5230700' class='rg_embed_link' data-song-id='5230700'>Read <a href='https://genius.com/Jonzun-crew-ground-control-lyrics'>\u201cGround Control\u201d by Jonzun\u00a0Crew</a> on Genius</div> <script crossorigin src='//genius.com/songs/5230700/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/160069",
+    "cover_art_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+    "full_title": "Lost In Space by Jonzun Crew",
+    "id": 160069,
+    "name": "Lost In Space",
+    "url": "https://genius.com/albums/Jonzun-crew/Lost-in-space",
+    "artist": {
+     "api_path": "/artists/979575",
+     "header_image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+     "id": 979575,
+     "image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jonzun Crew",
+     "url": "https://genius.com/artists/Jonzun-crew"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4733728,
+    "annotator_login": "JJEvans",
+    "api_path": "/referents/18978921",
+    "classification": "needs_exegesis",
+    "fragment": "Ground Control",
+    "id": 18978921,
+    "is_description": true,
+    "path": "/18978921/Jonzun-crew-ground-control/Ground-control",
+    "range": {
+     "content": "Ground Control"
+    },
+    "song_id": 5230700,
+    "url": "https://genius.com/18978921/Jonzun-crew-ground-control/Ground-control",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5230700",
+     "client_timestamps": {
+      "updated_by_human_at": 1637083437,
+      "lyrics_updated_at": 1584010677
+     },
+     "context": "Jonzun Crew",
+     "id": 5230700,
+     "image_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+     "link_title": "Ground Control by\u00a0Jonzun\u00a0Crew",
+     "title": "Ground Control",
+     "type": "Song",
+     "url": "https://genius.com/Jonzun-crew-ground-control-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18978921",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18978921,
+      "pinned": false,
+      "share_url": "https://genius.com/18978921",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18978921/Jonzun-crew-ground-control/Ground-control",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4733728",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/83ab0c40ed762f79a3026d866084a6c9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/83ab0c40ed762f79a3026d866084a6c9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/83ab0c40ed762f79a3026d866084a6c9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/83ab0c40ed762f79a3026d866084a6c9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/025b0d78a6b91c4e42a24fae05d6a6b7.1000x667x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 4733728,
+         "iq": 624396,
+         "login": "JJEvans",
+         "name": "Jay Evans",
+         "role_for_display": "editor",
+         "url": "https://genius.com/JJEvans",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=Zy2Vv30cNhA"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Jonzun Crew",
+   "lyrics": "Ground Control Lyrics[Refrain]\nGround control\nGround control\n\n[Verse 1]\nGround control, are you ready to launch this jam?\nGround control, we are going\u2005on\u2005far trail\nWe will\u2005be traveling faster than the speed\u2005of sound\nTo unknown sectors that is where we are bound\n\n[Verse 2]\nGround control, we must leave planet Earth\nGround control, we are going to a place called Earth\nWe will be traveling faster than the speed of light\nWe must go, whether it is wrong or right\n[Refrain]\nGround control (Where we'll be)\nGround control (We'll be, do you feel me?)\nGround control (You must speak)\nGround control (Speak)\n\n[Interlude 1]\nThis is ground control, do you read me?\nWe need you, you must stay\nPlease, repeat, please, don't go\nPlease, stay\nPlease\n\n[Bridge]\nI must go\nAh, ah-ah, ah-ah-ah, ah-ah!\nWe must go\n\n[Verse 3]\nGround control, we are on the way\nGround control, what more can I say?\n\n[Refrain]\nGround control\nGround control (Get down)\nGround control (I will return)You might also likeEmbed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/5230699",
+   "artist_names": "Jonzun Crew",
+   "full_title": "Electro Boogie Encounter by\u00a0Jonzun\u00a0Crew",
+   "header_image_thumbnail_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+   "id": 5230699,
+   "language": "en",
+   "lyrics_owner_id": 381464,
+   "lyrics_state": "complete",
+   "path": "/Jonzun-crew-electro-boogie-encounter-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Jonzun-crew-electro-boogie-encounter-sample",
+   "release_date_components": {
+    "year": 1983,
+    "month": null,
+    "day": null
+   },
+   "release_date_for_display": "1983",
+   "release_date_with_abbreviated_month_for_display": "1983",
+   "song_art_image_thumbnail_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 2,
+    "iq_earners": 2,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Electro Boogie Encounter",
+   "title_with_featured": "Electro Boogie Encounter",
+   "url": "https://genius.com/Jonzun-crew-electro-boogie-encounter-lyrics",
+   "featured_artists": [],
+   "primary_artist": {
+    "api_path": "/artists/979575",
+    "header_image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+    "id": 979575,
+    "image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jonzun Crew",
+    "url": "https://genius.com/artists/Jonzun-crew"
+   },
+   "apple_music_id": "1415149936",
+   "apple_music_player_url": "https://genius.com/songs/5230699/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_5230699' class='rg_embed_link' data-song-id='5230699'>Read <a href='https://genius.com/Jonzun-crew-electro-boogie-encounter-lyrics'>\u201cElectro Boogie Encounter\u201d by Jonzun\u00a0Crew</a> on Genius</div> <script crossorigin src='//genius.com/songs/5230699/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": null,
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/160069",
+    "cover_art_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+    "full_title": "Lost In Space by Jonzun Crew",
+    "id": 160069,
+    "name": "Lost In Space",
+    "url": "https://genius.com/albums/Jonzun-crew/Lost-in-space",
+    "artist": {
+     "api_path": "/artists/979575",
+     "header_image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+     "id": 979575,
+     "image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jonzun Crew",
+     "url": "https://genius.com/artists/Jonzun-crew"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 4733728,
+    "annotator_login": "JJEvans",
+    "api_path": "/referents/18978920",
+    "classification": "needs_exegesis",
+    "fragment": "Electro Boogie Encounter",
+    "id": 18978920,
+    "is_description": true,
+    "path": "/18978920/Jonzun-crew-electro-boogie-encounter/Electro-boogie-encounter",
+    "range": {
+     "content": "Electro Boogie Encounter"
+    },
+    "song_id": 5230699,
+    "url": "https://genius.com/18978920/Jonzun-crew-electro-boogie-encounter/Electro-boogie-encounter",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/5230699",
+     "client_timestamps": {
+      "updated_by_human_at": 1583673638,
+      "lyrics_updated_at": 1583673638
+     },
+     "context": "Jonzun Crew",
+     "id": 5230699,
+     "image_url": "https://images.genius.com/cd8d083c5dc0912c853b8ca1c978bf1e.600x600x1.jpg",
+     "link_title": "Electro Boogie Encounter by\u00a0Jonzun\u00a0Crew",
+     "title": "Electro Boogie Encounter",
+     "type": "Song",
+     "url": "https://genius.com/Jonzun-crew-electro-boogie-encounter-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/18978920",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 18978920,
+      "pinned": false,
+      "share_url": "https://genius.com/18978920",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/18978920/Jonzun-crew-electro-boogie-encounter/Electro-boogie-encounter",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/4733728",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.genius.com/avatars/tiny/83ab0c40ed762f79a3026d866084a6c9",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.genius.com/avatars/thumb/83ab0c40ed762f79a3026d866084a6c9",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.genius.com/avatars/small/83ab0c40ed762f79a3026d866084a6c9",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.genius.com/avatars/medium/83ab0c40ed762f79a3026d866084a6c9",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.genius.com/025b0d78a6b91c4e42a24fae05d6a6b7.1000x667x1.jpg",
+         "human_readable_role_for_display": "Editor",
+         "id": 4733728,
+         "iq": 624396,
+         "login": "JJEvans",
+         "name": "Jay Evans",
+         "role_for_display": "editor",
+         "url": "https://genius.com/JJEvans",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=0JJZaOXsZmI"
+    }
+   ],
+   "producer_artists": [],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [],
+   "artist": "Jonzun Crew",
+   "lyrics": "Electro Boogie Encounter LyricsGet on up and dance and let your body free\nGet on up and dance, electro\u2005boogie\n\nElectro\u2005boogie encounter\nElectro boogie\u2005encounter\n\nGet on up and dance and\u2005let your body free\nGet on up and dance, electro boogie\n\nElectro boogie encounter\nElectro boogie encounter\nGet on up and dance and let your body free\nGet on up and dance, electro boogie\n\nElectro boogie encounter\nElectro boogie encounter\nElectro boogie encounter\nElectro boogie encounter\nElectro boogie encounter\n\nJust let your body free, c'mon!\nElectro boogie (Free!)\nJust let your body free, c'mon!\nElectro boogie (Free!)\nJust let your body free, c'mon!\nElectro boogie (Free!)\nJust let your body free, c'mon!\nElectro boogie (Hey!)\n\nElectro boogie encounter\nElectro boogie encounter\nElectro boogie encounter\nElectro boogie encounter\n\nGet on up and dance and let your body free\nGet on up and dance, electro boogie\nYou might also likeGet on up and dance and let your body free\nGet on up and dance, electro boogie\n\nElectro boogie encounter\nElectro boogie encounter\n\nJust let your body free, c'mon!\nElectro boogie (Free!)\nJust let your body free, c'mon!\nElectro boogie (Free!)\nJust let your body free, c'mon!\nElectro boogie (Free!)\nJust let your body free, c'mon!\nElectro boogie (Free!)\nJust let your body free, c'mon!\nElectro boogie (Free!)\nJust let your body free, c'mon!\nElectro boogie (Free!)\nJust let your body free, c'mon!\nElectro boogie (Free!)\nJust let your body free, c'mon!\nElectro boogie (Free!)Embed"
+  },
+  {
+   "annotation_count": 0,
+   "api_path": "/songs/7341772",
+   "artist_names": "Jonzun Crew (Ft. Michael Jonzun)",
+   "full_title": "Lovin' by\u00a0Jonzun\u00a0Crew (Ft.\u00a0Michael\u00a0Jonzun)",
+   "header_image_thumbnail_url": "https://images.genius.com/dc7abc9188fcfa303936c30311584cf9.300x300x1.jpg",
+   "header_image_url": "https://images.genius.com/dc7abc9188fcfa303936c30311584cf9.581x581x1.jpg",
+   "id": 7341772,
+   "language": "en",
+   "lyrics_owner_id": 22594,
+   "lyrics_state": "complete",
+   "path": "/Jonzun-crew-lovin-lyrics",
+   "pyongs_count": null,
+   "relationships_index_url": "https://genius.com/Jonzun-crew-lovin-sample",
+   "release_date_components": {
+    "year": 1984,
+    "month": 1,
+    "day": 1
+   },
+   "release_date_for_display": "January 1, 1984",
+   "release_date_with_abbreviated_month_for_display": "Jan. 1, 1984",
+   "song_art_image_thumbnail_url": "https://images.genius.com/dc7abc9188fcfa303936c30311584cf9.300x300x1.jpg",
+   "song_art_image_url": "https://images.genius.com/dc7abc9188fcfa303936c30311584cf9.581x581x1.jpg",
+   "stats": {
+    "accepted_annotations": 0,
+    "contributors": 1,
+    "iq_earners": 1,
+    "transcribers": 1,
+    "unreviewed_annotations": 0,
+    "verified_annotations": 0,
+    "hot": false
+   },
+   "title": "Lovin\u2019",
+   "title_with_featured": "Lovin' (Ft.\u00a0Michael\u00a0Jonzun)",
+   "url": "https://genius.com/Jonzun-crew-lovin-lyrics",
+   "featured_artists": [
+    {
+     "api_path": "/artists/651519",
+     "header_image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "id": 651519,
+     "image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michael Jonzun",
+     "url": "https://genius.com/artists/Michael-jonzun"
+    }
+   ],
+   "primary_artist": {
+    "api_path": "/artists/979575",
+    "header_image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+    "id": 979575,
+    "image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+    "is_meme_verified": false,
+    "is_verified": false,
+    "name": "Jonzun Crew",
+    "url": "https://genius.com/artists/Jonzun-crew"
+   },
+   "apple_music_id": null,
+   "apple_music_player_url": "https://genius.com/songs/7341772/apple_music_player",
+   "description": {
+    "plain": "?"
+   },
+   "embed_content": "<div id='rg_embed_link_7341772' class='rg_embed_link' data-song-id='7341772'>Read <a href='https://genius.com/Jonzun-crew-lovin-lyrics'>\u201cLovin'\u201d by Jonzun\u00a0Crew</a> on Genius</div> <script crossorigin src='//genius.com/songs/7341772/embed.js'></script>",
+   "featured_video": false,
+   "lyrics_placeholder_reason": null,
+   "recording_location": null,
+   "release_date": "1984-01-01",
+   "current_user_metadata": {
+    "permissions": [
+     "view_apple_music_player",
+     "view_recommendations",
+     "create_comment",
+     "view_song_story_gallery"
+    ],
+    "excluded_permissions": [
+     "follow",
+     "award_transcription_iq",
+     "remove_transcription_iq",
+     "see_pageviews",
+     "pyong",
+     "edit_lyrics",
+     "view_annotation_engagement_data",
+     "publish",
+     "unpublish",
+     "edit_spotify_details",
+     "hide",
+     "unhide",
+     "toggle_featured_video",
+     "add_pinned_annotation_to",
+     "add_community_annotation_to",
+     "destroy",
+     "mark_as_not_spam",
+     "edit_spotify_annotations_for",
+     "verify_lyrics",
+     "unverify_lyrics",
+     "edit_anything",
+     "edit_any_media",
+     "edit",
+     "rename",
+     "edit_tags",
+     "reindex",
+     "view_lyrics_synchronization",
+     "enable_media",
+     "disable_media",
+     "edit_lyrics_or_annotation_brackets",
+     "see_editorial_indicators",
+     "view_attribution_visualization",
+     "edit_annotation_brackets",
+     "preview_lyrics_for_export",
+     "hide_apple_player",
+     "unhide_apple_player",
+     "trigger_apple_match",
+     "mark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_staff_approved",
+     "unmark_lyrics_evaluation_as_complete",
+     "mark_lyrics_evaluation_as_un_staff_approved",
+     "view_transcriber_media_player",
+     "override_apple_match",
+     "set_song_color_gradient",
+     "mark_as_hot",
+     "unmark_as_hot",
+     "view_relationships_page",
+     "edit_youtube_url",
+     "edit_soundcloud_url",
+     "edit_spotify_uuid",
+     "edit_vevo_url",
+     "moderate_annotations",
+     "create_annotation",
+     "see_short_id",
+     "manage_chart_item",
+     "create_tag",
+     "propose_lyrics_edit",
+     "view_lyrics_edit_proposals_on_song",
+     "create_question"
+    ],
+    "interactions": {
+     "pyong": false,
+     "following": false
+    },
+    "relationships": {},
+    "iq_by_action": {}
+   },
+   "album": {
+    "api_path": "/albums/831972",
+    "cover_art_url": "https://images.genius.com/dc7abc9188fcfa303936c30311584cf9.581x581x1.jpg",
+    "full_title": "Down To Earth by Jonzun Crew",
+    "id": 831972,
+    "name": "Down To Earth",
+    "url": "https://genius.com/albums/Jonzun-crew/Down-to-earth",
+    "artist": {
+     "api_path": "/artists/979575",
+     "header_image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+     "id": 979575,
+     "image_url": "https://images.genius.com/e1e8748a7cc3695564281378ed941f2b.269x269x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Jonzun Crew",
+     "url": "https://genius.com/artists/Jonzun-crew"
+    }
+   },
+   "custom_performances": [],
+   "description_annotation": {
+    "_type": "referent",
+    "annotator_id": 22594,
+    "annotator_login": "MarchHare",
+    "api_path": "/referents/24293353",
+    "classification": "needs_exegesis",
+    "fragment": "Lovin\u2019",
+    "id": 24293353,
+    "is_description": true,
+    "path": "/24293353/Jonzun-crew-lovin/Lovin",
+    "range": {
+     "content": "Lovin'"
+    },
+    "song_id": 7341772,
+    "url": "https://genius.com/24293353/Jonzun-crew-lovin/Lovin",
+    "verified_annotator_ids": [],
+    "annotatable": {
+     "api_path": "/songs/7341772",
+     "client_timestamps": {
+      "updated_by_human_at": 1635626865,
+      "lyrics_updated_at": 1635626865
+     },
+     "context": "Jonzun Crew",
+     "id": 7341772,
+     "image_url": "https://images.genius.com/dc7abc9188fcfa303936c30311584cf9.581x581x1.jpg",
+     "link_title": "Lovin\u2019 by\u00a0Jonzun\u00a0Crew (Ft.\u00a0Michael\u00a0Jonzun)",
+     "title": "Lovin'",
+     "type": "Song",
+     "url": "https://genius.com/Jonzun-crew-lovin-lyrics"
+    },
+    "annotations": [
+     {
+      "api_path": "/annotations/24293353",
+      "body": {
+       "plain": ""
+      },
+      "comment_count": 0,
+      "community": true,
+      "custom_preview": null,
+      "has_voters": false,
+      "id": 24293353,
+      "pinned": false,
+      "share_url": "https://genius.com/24293353",
+      "source": null,
+      "state": "needs_exegesis",
+      "url": "https://genius.com/24293353/Jonzun-crew-lovin/Lovin",
+      "verified": false,
+      "votes_total": 0,
+      "current_user_metadata": {
+       "permissions": [],
+       "excluded_permissions": [
+        "vote",
+        "edit",
+        "cosign",
+        "uncosign",
+        "destroy",
+        "accept",
+        "reject",
+        "see_unreviewed",
+        "clear_votes",
+        "propose_edit_to",
+        "pin_to_profile",
+        "unpin_from_profile",
+        "update_source",
+        "edit_custom_preview",
+        "create_comment"
+       ],
+       "interactions": {
+        "cosign": false,
+        "pyong": false,
+        "vote": null
+       },
+       "iq_by_action": {}
+      },
+      "authors": [
+       {
+        "attribution": 1.0,
+        "pinned_role": null,
+        "user": {
+         "api_path": "/users/22594",
+         "avatar": {
+          "tiny": {
+           "url": "https://images.rapgenius.com/avatars/tiny/904c67a2546d924512aa709b7ff894d7",
+           "bounding_box": {
+            "width": 16,
+            "height": 16
+           }
+          },
+          "thumb": {
+           "url": "https://images.rapgenius.com/avatars/thumb/904c67a2546d924512aa709b7ff894d7",
+           "bounding_box": {
+            "width": 32,
+            "height": 32
+           }
+          },
+          "small": {
+           "url": "https://images.rapgenius.com/avatars/small/904c67a2546d924512aa709b7ff894d7",
+           "bounding_box": {
+            "width": 100,
+            "height": 100
+           }
+          },
+          "medium": {
+           "url": "https://images.rapgenius.com/avatars/medium/904c67a2546d924512aa709b7ff894d7",
+           "bounding_box": {
+            "width": 300,
+            "height": 400
+           }
+          }
+         },
+         "header_image_url": "https://images.rapgenius.com/avatars/medium/904c67a2546d924512aa709b7ff894d7",
+         "human_readable_role_for_display": "Contributor",
+         "id": 22594,
+         "iq": 32010,
+         "login": "MarchHare",
+         "name": "MarchHare",
+         "role_for_display": "contributor",
+         "url": "https://genius.com/MarchHare",
+         "current_user_metadata": {
+          "permissions": [],
+          "excluded_permissions": [
+           "follow"
+          ],
+          "interactions": {
+           "following": false
+          }
+         }
+        }
+       }
+      ],
+      "cosigned_by": [],
+      "rejection_comment": null,
+      "verified_by": null
+     }
+    ]
+   },
+   "lyrics_marked_complete_by": null,
+   "lyrics_marked_staff_approved_by": null,
+   "media": [
+    {
+     "provider": "youtube",
+     "start": 0,
+     "type": "video",
+     "url": "http://www.youtube.com/watch?v=hW5ApHahbTI"
+    }
+   ],
+   "producer_artists": [
+    {
+     "api_path": "/artists/651519",
+     "header_image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "id": 651519,
+     "image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michael Jonzun",
+     "url": "https://genius.com/artists/Michael-jonzun"
+    }
+   ],
+   "song_relationships": [
+    {
+     "relationship_type": "samples",
+     "type": "samples",
+     "songs": []
+    },
+    {
+     "relationship_type": "sampled_in",
+     "type": "sampled_in",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolates",
+     "type": "interpolates",
+     "songs": []
+    },
+    {
+     "relationship_type": "interpolated_by",
+     "type": "interpolated_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "cover_of",
+     "type": "cover_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "covered_by",
+     "type": "covered_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "remix_of",
+     "type": "remix_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "remixed_by",
+     "type": "remixed_by",
+     "songs": []
+    },
+    {
+     "relationship_type": "live_version_of",
+     "type": "live_version_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "performed_live_as",
+     "type": "performed_live_as",
+     "songs": []
+    },
+    {
+     "relationship_type": "translation_of",
+     "type": "translation_of",
+     "songs": []
+    },
+    {
+     "relationship_type": "translations",
+     "type": "translations",
+     "songs": []
+    }
+   ],
+   "translation_songs": [],
+   "verified_annotations_by": [],
+   "verified_contributors": [],
+   "verified_lyrics_by": [],
+   "writer_artists": [
+    {
+     "api_path": "/artists/651519",
+     "header_image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "id": 651519,
+     "image_url": "https://images.genius.com/1a7e8f144a9f82fa2b2d54f94a64cc9c.200x200x1.jpg",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Michael Jonzun",
+     "url": "https://genius.com/artists/Michael-jonzun"
+    }
+   ],
+   "artist": "Jonzun Crew",
+   "lyrics": "Lovin\u2019 Lyrics[Verse 1]\nGirl, so many times\nI should have told you I love you\nAnd showed you I care\nBut I was too afraid\nTo reveal my true feelings\nAnd now it seems too late\n\n[Pre-Chorus]\nYou gave me your lovin', baby\n(Gave me your love)\nFor such a long long time\n(Such a long long time)\nIf I had one more try\nLove [?]\nI'd give you all my body and soul\nUntil the day I die\n[Chorus]\nGonna give you lovin'\nGive you lovin'\nIn every way I know\nI'd let my feelings show\nAll my lovin'\nGonna give you lovin'\nNo one else will do\nMy love is all for you\n\n[Verse 2]\nThinking back in my life\nI made a lot of mistakes\nLosing all our loving\nBut your, your love's for keeps\nMy eyes can shed a tear\nFor these lonely nights I weep\n\n[Pre-Chorus]\nYou gave me your lovin', baby\n(Gave me your love)\nNow let me give to you\n(Let me give to you)\nFlowers everyday\nLovin' in the night\n(Every night)\nWalks in the park\nDinner by candlelight\nYou might also like[Chorus]\nGonna give you lovin'\nGonna give you lovin'\nIn every way I know\nI'm gonna let my feelings show\nAll my lovin'\nGonna give you lovin'\nI swear that no one else will do\nMy love is all for you\n\n[Repeat on background until end]\n(Lovin')\n(Lovin')\n(Lovin')\n(Lovin')\n(Lovin')\n(Lovin')\n\n[Outro]\nI'm lost without your lovin', baby\n(Lost without your love)\nI'm down on my knees\n(I'm down on my knees)\nI'm begging you to stay\nNow don't you walk away\n(Don't walk away)\nI'm going to give you lovin' every way\nI'm gonna give you lovin', baby\nGive you lovin, honey\nI'm gonna make it last [?]\nWe're gonna have so much fun\nGive you lovin', baby\nGive you lovin, honey\nHey, girl\nOh, baby\nGonna give all my lovin'\nI'm gonna give you all my lovin', baby\nBaby, baby, baby, baby\nGirl\nGive love to you\nYou, baby\nTo youEmbed"
+  }
+ ]
+}

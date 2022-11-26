@@ -1,0 +1,890 @@
+{
+ "_type": "album",
+ "api_path": "/albums/5602",
+ "cover_art_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+ "full_title": "534 by Memphis Bleek",
+ "id": 5602,
+ "name": "534",
+ "name_with_artist": "534 (artist: Memphis Bleek)",
+ "release_date_components": {
+  "year": 2005,
+  "month": 5,
+  "day": 17
+ },
+ "url": "https://genius.com/albums/Memphis-bleek/534",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/195",
+  "header_image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+  "id": 195,
+  "image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+  "index_character": "m",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "Memphis Bleek",
+  "slug": "Memphis-bleek",
+  "url": "https://genius.com/artists/Memphis-bleek"
+ },
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/31152",
+    "artist_names": "Memphis Bleek",
+    "full_title": "534 by\u00a0Memphis\u00a0Bleek",
+    "header_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "id": 31152,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1639564989,
+    "path": "/Memphis-bleek-534-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Memphis-bleek-534-sample",
+    "release_date_components": {
+     "year": 2005,
+     "month": null,
+     "day": null
+    },
+    "release_date_for_display": "2005",
+    "release_date_with_abbreviated_month_for_display": "2005",
+    "song_art_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false
+    },
+    "title": "534",
+    "title_with_featured": "534",
+    "updated_by_human_at": 1639564989,
+    "url": "https://genius.com/Memphis-bleek-534-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/195",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "id": 195,
+     "image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Memphis Bleek",
+     "slug": "Memphis-bleek",
+     "url": "https://genius.com/artists/Memphis-bleek"
+    },
+    "artist": "Memphis Bleek",
+    "lyrics": "534 Lyrics[Verse 1: Memphis Bleek]\nYeah, I come from bottom to the top\nI seen a lotta niggas fall\nTop to bottom, cause they flow wasn't hot\nThem niggas swore they was chillin, reality they not\nThat's why I'm in the spot, treat the stu like the pot\nI'm cheffin' up that product, get my strip back in order\nHit records, its like a brick, 16s is like a quarter\nThat's why I'm tryna flip it, this time i'ma do it different\nMixtapes is like a fiend, niggas givin' free hits and\nYou niggas let 'em sample it, neva give 'em the work\nNow his tape better than your album, sales lookin' hurt\nI'm tryna take it back in the day, when it was twenty time\nIndustry is fucked up, they back to sellin' niggas dimes\nSingles is nickles, lotta albums done flopped\nLotta labels done dropped, you was signed, now you not\nThats why I neva play wit the position I'm held wit\nWho lie about sellin' drugs? Album ain't sell shit, nigga\n(Scratched)\nYo you heard the title nigga, 5-3-4\nI'm that same cat, with the fofo long\nYou niggas run shots but you throw yours wrong\nWho flow like Bleek? There is no other\nYou heard the title nigga, 5-3-4\nNiggas didn't want that, I'm still where you pump at\nCatch me on anybody block, how you love that?\n\n[Verse 2-Memphis Bleek]\nI'm bout to have this thing on lock, you can't tell me different\nI got the soft and hard top, you could tell I'm livin'\nI got that thraaat on my lap, just don't tell the snitches\nThey got they tail between they legs, you could tell they bitches\nIt ain't no heaven for a G, go to hell with it\nMy life is deep, motherfucker please delve in it\nStarted with promo, no homo, movin' 12 inches\nPimp the game, Comin' Of Age at 12, bitches\n(Thats when I had well-wishes)\nNiggas call me prince of the city\nNext in line, for the king of new-yitty, pity\nHow the same niggas that bailed wit me, bailed on me\nTook too many pulls of the L on me\nDrank up all the Kool-Aid, left glasses in my kitchen\nFood for thought, my nigga you do the dishes\nYou might also like(Scratched)\nYou know the game and the name\nI ain't change for shit\nYo you heard the title nigga, 5-3-4\nI'm that same cat with the fofo long\nYou niggas run shots but you throw yours wrong\nWho flow like Bleek? There is no other\nYou heard the title nigga, 5-3-4\nNiggas didn't want that, I'm still where you pump at\nCatch me on anybody block how you love that?Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/848035",
+    "artist_names": "Memphis Bleek",
+    "full_title": "Interlude by\u00a0Memphis\u00a0Bleek",
+    "header_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "id": 848035,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1429282396,
+    "path": "/Memphis-bleek-interlude-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Memphis-bleek-interlude-sample",
+    "release_date_components": {
+     "year": 2005,
+     "month": null,
+     "day": null
+    },
+    "release_date_for_display": "2005",
+    "release_date_with_abbreviated_month_for_display": "2005",
+    "song_art_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Interlude",
+    "title_with_featured": "Interlude",
+    "updated_by_human_at": 1543169864,
+    "url": "https://genius.com/Memphis-bleek-interlude-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/195",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "id": 195,
+     "image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Memphis Bleek",
+     "slug": "Memphis-bleek",
+     "url": "https://genius.com/artists/Memphis-bleek"
+    },
+    "artist": "Memphis Bleek",
+    "lyrics": "Interlude Lyrics[Voice Singing:]\n\nAnd if the summer only knew\nThat she was losing a friend\nAnd a lover too\nMaybe she'd turn him awayYou might also likeEmbed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 21,
+    "api_path": "/songs/142",
+    "artist_names": "Memphis Bleek (Ft. JAY-Z)",
+    "full_title": "Dear Summer by\u00a0Memphis\u00a0Bleek (Ft.\u00a0JAY-Z)",
+    "header_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "id": 142,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 2,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1642113219,
+    "path": "/Memphis-bleek-dear-summer-lyrics",
+    "pyongs_count": 11,
+    "relationships_index_url": "https://genius.com/Memphis-bleek-dear-summer-sample",
+    "release_date_components": {
+     "year": 2005,
+     "month": 5,
+     "day": 17
+    },
+    "release_date_for_display": "May 17, 2005",
+    "release_date_with_abbreviated_month_for_display": "May. 17, 2005",
+    "song_art_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 3,
+     "hot": false,
+     "pageviews": 138158
+    },
+    "title": "Dear Summer",
+    "title_with_featured": "Dear Summer (Ft.\u00a0JAY-Z)",
+    "updated_by_human_at": 1659500091,
+    "url": "https://genius.com/Memphis-bleek-dear-summer-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/2",
+      "header_image_url": "https://images.genius.com/57f67753a0fe8ce5ff4a2ab903fbe850.500x301x1.png",
+      "id": 2,
+      "image_url": "https://images.genius.com/dab4680bbb0569024ef3df3d1e87c277.570x570x1.jpg",
+      "index_character": "j",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "JAY-Z",
+      "slug": "Jay-z",
+      "url": "https://genius.com/artists/Jay-z",
+      "iq": 225
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/195",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "id": 195,
+     "image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Memphis Bleek",
+     "slug": "Memphis-bleek",
+     "url": "https://genius.com/artists/Memphis-bleek"
+    },
+    "artist": "Memphis Bleek",
+    "lyrics": "Dear Summer Lyrics[Produced by Just Blaze]\n\n[Verse: Jay-Z]\nDear Summer, I know you gon' miss me\nFor we been together like Nike Airs and crisp tees\nS dots with Polo fleeces\nPurple label shit with the logo secret\nGimme couple years, shit I might just sneak in\nA couple words and like Peaches & Herb\nWe'll be reunited and it feels so hood\nHave the whole world saying \"How you still so good?\"\nWell I do this in my slumber, Summer\nI ain't none of these half-assed newcomers\nYou know how I do, Summer\nI drop heat, when you bring the sun up\nThe combo make niggas act up, I pick the gun up\nNiggas back up; they know I'm not no fronter\nI don't talk SHIT, I just flip it Un ya\nSorry Lance, I'm just trying to advance my quotes\nI ain't making you the butt of my jokes\nBut let's not stray from what I came to say\nTo my beloved, think we need some time away\nThey say if you love it, you should let it out its cage\nAnd fuck it, if it comes back, you know it's there to stay\nIt's tugging, at my heart, but this time apart is needed\nFrom the public, who should've gave me the Pulitz'\nInstead gave me they ass to kiss\nBut you know me, thugging 'til the casket dips\nBut still shine light down on all my peers\nI know they weird... some queer, I still want them to share\nIn all the success I received, I know you can't believe\nI still love 'em but they don't love me\nThey like the drunk uncle in your family\nYou know they lame, you feel ashamed\nBut you love em the same\nIt's like when niggas make subliminal records\nIf it ain't directed directly at me, I don't respect it\nYou don't really want it with Hov, for the record\nI put a couple careers on hold, you could be next, kid\nKeep entering the danger zone\nYou gon' make that boy Hov put your name in a song\nIf you that hungry for fame, motherfucker, c'mon\nSay when, take ten paces and spin\nBut on another note, 'bout to take another vacay\nOn another boat, goddamn, a motherfucker wrote\nHis way out the hood, and I pray that I stay out for good\nBut any day you know a nigga could\nTry and play like he Suge, then I gotta play like Dutch Schultz\nYou pass the dutchie, I blast you, trust me\nNiggas can't fuck with me\nI'm in a good mood, you lucky, I got a good groove\nAnd I ain't trying to fuck my thing up\nBut I will lay down a couple green bucks, get you cleaned up\nNon-Pulp Fiction, Colt four-fifth and\nYoung niggas that blast for me, no religion\n[Interlude: Jay-Z]\nListen here, Summer, baby\nI just believe it's the right thing to do\nI got a brand new bitch, Corporate America\nShe showing me a lot of action right now\nAnd I know you put me on my feet and all, but\nI mean, it's time for me to grow\nYou gotta let me go baby, you gotta let me go\n\n[Outro: Jay-Z]\nI'm done for now, so one for now\nPossibly forever, we had fun together\nBut like all good things, we must come to an end\nPlease show the same love to my friends\nDear SummerYou might also like11Embed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/31154",
+    "artist_names": "Memphis Bleek",
+    "full_title": "Like That by\u00a0Memphis\u00a0Bleek",
+    "header_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "id": 31154,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1615245963,
+    "path": "/Memphis-bleek-like-that-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Memphis-bleek-like-that-sample",
+    "release_date_components": {
+     "year": 2005,
+     "month": 5,
+     "day": 17
+    },
+    "release_date_for_display": "May 17, 2005",
+    "release_date_with_abbreviated_month_for_display": "May. 17, 2005",
+    "song_art_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Like That",
+    "title_with_featured": "Like That",
+    "updated_by_human_at": 1615245963,
+    "url": "https://genius.com/Memphis-bleek-like-that-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/195",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "id": 195,
+     "image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Memphis Bleek",
+     "slug": "Memphis-bleek",
+     "url": "https://genius.com/artists/Memphis-bleek"
+    },
+    "artist": "Memphis Bleek",
+    "lyrics": "Like That Lyrics[Intro]\nGet 'em\nDo you know what time it is? Tell me do you know?\nDo you know what time it is? Tell me do you know?\nDo you know what time it is? Tell me do you know?\nDo you know what time it is? Swizzy!\nHey, hey, I said come on\nHey, hey, I said come on\nHey, hey, I said come on\nHey, hey, hey talk to 'em\n[Verse 1]\nYou gettin' money homie? Show me if it's like that\nYou on the grind? Then you know it's really like that\nDudes who snitch, nah, I don't really like that\nI don't condone, the chrome handle all that\nWhen Swizz slow down the beat, it's all love\nSlow motion for me, like your ass is screwed up\nMake you move like the Matrix when dude was duckin' slugs\nBleek to Black Sheep, mami, now pick it up\nBack to gettin' money, keep it gully, where my niggas at?\nStuntin', it's nothin, I'm pushin' somethin' new every day\nBack on the grind, keep easy on your mind\nI'm one of a kind, the top's the bottom line\n\n[Chorus]\nThrow one hand in the air if it's like that (Like that)\nThrow a little paper out if it's like that (Like that)\nTell the chick to come here if it's like that (Like that)\nBuy the whole fuckin' bar if it's like that\n\n[Post-Chorus]\nHey, hey, tell me if it's like that (If it's like that, come on)\nHey, hey, tell me if it's like that (If it's like that, come on)\nHey, hey, tell me if it's like that (If it's like that, come on)\nHey, hey, tell me if it's like that\nYou might also like[Verse 2]\nAyo, the watch is like that, dough is like that\nBracelet, the bronzes, I ball just like that\nCoupe on lows, know you all gon' like that\nSit so right, at least 4 gon' fall back\nDude, stop frontin', problems, you don't want that\n9mm hollows, I does that\nWhen it come to gettin' paper, my life stack\nHoes I slut, niggas go and wife that\nThen I go expose 'em and show 'em that's how we live, hey\nMami know we holdin' 'cause all of us got a six, eh\nRoc-A-Fella the crew, you know we do it like that\nNiggas get immitators, but you ain't quite like that\n\n[Chorus]\nThrow one hand in the air if it's like that (Like that)\nThrow a little paper out if it's like that (Like that)\nTell the chick to come here if it's like that (Like that)\nBuy the whole fuckin' bar if it's like that\n\n[Post-Chorus]\nHey, hey, tell me if it's like that (If it's like that, come on)\nHey, hey, tell me if it's like that (If it's like that, come on)\nHey, hey, tell me if it's like that (If it's like that, come on)\nHey, hey, tell me if it's like that\n[Verse 3]\nYou know I move with the snub 'cause I'm like that\nAnd you don't really want beef, you ain't like that\nMa, come here, yeah, tell me if it's like that\nAnd move the body real slow just like that\nWhen Swizz slow down the beat, it's all love\nSlow motion for me, like your ass is screwed up\nMake you move like the Matrix when dude was duckin' slugs\nBleek to Black Sheep, mami, now pick it up, hey\nBack on the grizzy with Swizzy back on the beat, hey\nRoc-A-Fella the label, the talk is to deceased, uh\nHere to kill 'em again, you fill 'em again\nIf the enemy ain't dead, we hit 'em again, blaow\n\n[Chorus]\nThrow one hand in the air if it's like that (Like that)\nThrow a little paper out if it's like that (Like that)\nTell the chick to come here if it's like that (Like that)\nBuy the whole fuckin' bar if it's like that\n\n[Post-Chorus]\nHey, hey, tell me if it's like that (If it's like that, come on)\nHey, hey, tell me if it's like that (If it's like that, come on)\nHey, hey, tell me if it's like that (If it's like that, come on)\nHey, hey, tell me if it's like thatEmbed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/31156",
+    "artist_names": "Memphis Bleek (Ft. Boxie)",
+    "full_title": "Infatuated by\u00a0Memphis\u00a0Bleek (Ft.\u00a0Boxie)",
+    "header_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "id": 31156,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1465435385,
+    "path": "/Memphis-bleek-infatuated-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Memphis-bleek-infatuated-sample",
+    "release_date_components": {
+     "year": 2005,
+     "month": 5,
+     "day": 17
+    },
+    "release_date_for_display": "May 17, 2005",
+    "release_date_with_abbreviated_month_for_display": "May. 17, 2005",
+    "song_art_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 6995
+    },
+    "title": "Infatuated",
+    "title_with_featured": "Infatuated (Ft.\u00a0Boxie)",
+    "updated_by_human_at": 1523416220,
+    "url": "https://genius.com/Memphis-bleek-infatuated-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7996",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669149872",
+      "id": 7996,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669149872",
+      "index_character": "b",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Boxie",
+      "slug": "Boxie",
+      "url": "https://genius.com/artists/Boxie"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/195",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "id": 195,
+     "image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Memphis Bleek",
+     "slug": "Memphis-bleek",
+     "url": "https://genius.com/artists/Memphis-bleek"
+    },
+    "artist": "Memphis Bleek",
+    "lyrics": "Infatuated Lyrics[Hook: Boxie]\nI love, love that thing you do\nAnd I, I can't get my eyes, my mind off you\nI'm infatuated\nAnd you're my baby, and you complete me\nYour number, I'll call, and maybe we can hook up later\nAnd keep it gangsta\n\n[Verse 1: Memphis Bleek]\nMy design one of a kind, yeah I'm on my grind\nGot a shorty that still trip, but I ain't lost my mind\nI just party and bullshit, my attitude, I'm good ma\nThey say I'm hood rich because I drive big cars\nGetting Guap, middle finger to cops\nThey say when you meet the one, all the thugs should stop\nI met this shorty the other morning, on my way in y'all\nShe was bad, I ain't call, I'm a day in y'all\nBut that's the rules, we don't make em, we don't break 'em\nI don't sweat em, I forget 'em and find a way to shake 'em\nBut I put a holla to her, I spit some lava at her\nShe from the burbs, I'm from the 'jects, trust that don't matter\nShe into books too, I'm off the books for the things I do\nBut that's between me and you\nAnd I don't really phone tag it a lot, I'm in the wagon a lot\nWith different dimes on the passenger side, I'm like\n[Hook: Boxie]\nI love, love that thing you do\nAnd I, I can't get my eyes, my mind off you\nI'm infatuated\nAnd you're my baby, and you complete me\nYour number, I'll call, and maybe we can hook up later\nAnd keep it gangsta\n\n[Verse 2: Memphis Bleek]\nEveryday I'm on my grind, but my mind's on you (on you)\nAll the time (all the time)\nAnd I scoop you like a soldier would\nI'm in the woods, top down, like I don't got a hood\nThey say opposites attract, and it's true\nCause girl I'm from the gutter, where the bundles could move\nAnd you, is from where its cool and quiet at night\nAnd ain't no young'ns supplying the white, right\nBut thats a different story, lets get back to the night\nAnd you've got a body, I can handle it right?, right\nAnd I know you heard about me, beyond the rumors about me\nI'm the flyest a little youngin could be, be\nAnd you'll see with us together, its money, diamonds, whatever\nLittle momma is you riding with me?, me\nAnd I love the thing you do, so baby girl never change\nAnd forever we can do that thing\nCause...\nYou might also like[Hook: Boxie]\nI love, love that thing you do\nAnd I, I can't get my eyes, my mind off you\nI'm infatuated\nAnd you're my baby, and you complete me\nYour number, I'll call, and maybe we can hook up later\nAnd keep it gangsta\n\n[Verse 3: Memphis Bleek]\nNow you know my stees'\nCause I ain't gotta smooth that to do that thing\nAnd it only took a night to get it right, grip it right, hit it right\nFigure out that you a rider for life, down for whatever\nWe go through it together\nYou know the boys style, way beyond all the regular\nI need a switch, like a fiend need a fix\nEvery G, need a down ass chick, to click\nThat's sick...\n\n[Hook x2: Boxie]\nI love, love that thing you do\nAnd I, I can't get my eyes, my mind off you\nI'm infatuated\nAnd you're my baby, and you complete me\nYour number, I'll call, and maybe we can hook up later\nAnd keep it gangstaEmbed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/31158",
+    "artist_names": "Memphis Bleek (Ft. Rihanna)",
+    "full_title": "The One by\u00a0Memphis\u00a0Bleek (Ft.\u00a0Rihanna)",
+    "header_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "id": 31158,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1656645480,
+    "path": "/Memphis-bleek-the-one-lyrics",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Memphis-bleek-the-one-sample",
+    "release_date_components": {
+     "year": 2005,
+     "month": 5,
+     "day": 17
+    },
+    "release_date_for_display": "May 17, 2005",
+    "release_date_with_abbreviated_month_for_display": "May. 17, 2005",
+    "song_art_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false
+    },
+    "title": "The One",
+    "title_with_featured": "The One (Ft.\u00a0Rihanna)",
+    "updated_by_human_at": 1656645480,
+    "url": "https://genius.com/Memphis-bleek-the-one-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/89",
+      "header_image_url": "https://images.genius.com/771d44d56eabf0b8aee6579d55f81808.1000x164x1.png",
+      "id": 89,
+      "image_url": "https://images.genius.com/f83548d76e427d0a4fdcafdf2f62b647.1000x1000x1.png",
+      "index_character": "r",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Rihanna",
+      "slug": "Rihanna",
+      "url": "https://genius.com/artists/Rihanna",
+      "iq": 2240
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/195",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "id": 195,
+     "image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Memphis Bleek",
+     "slug": "Memphis-bleek",
+     "url": "https://genius.com/artists/Memphis-bleek"
+    },
+    "artist": "Memphis Bleek",
+    "lyrics": "The One Lyrics[Intro: Memphis Bleek]\nUh, yeah. . .the boy Extra\nWe right back at it like we left somethin' knaw'mean?\nIt's the ROC, since 9-6, you know we get busy\nGot the young lady by the name of Rihanna with me\nStraight from Barbados, give 'em that flavor baby girl\nLet's go\n\n[Hook: Rihanna]\nYou were there for me when I needed you when my back was to the wall\nAnd it's good to know that you're still the one to catch me when I fall\nWe've been crazy tight and I realize when all is said and done\nThrough the best of times, through the worst of times\nBaby you're the one, baby you're the one!\n[Verse 1: Memphis Bleek]\nAyo quattro, trece, doce, uno\nYou know I throw my weight around like sumo\nYou know I hold my lady down, that you do know\nYou know disrepecting mine'll be a funeral\nBruno Magli's on the patio in blood\nO.J. style but I won't leave the glove\nLike my bredren Shyne, but I won't leave the club\nBROOKLYN ZOO! All we feed you is slugs\nLike, yeah love you know I leave you over mine\nAnd yeah love they have to grieve you over mine\nIt's thug love at it's finest, dude rewind this\nUh, the boy H-O behind this\n\n[Hook: Rihanna]\nYou were there for me when I needed you when my back was to the wall\nAnd it's good to know that you're still the one to catch me when I fall\nWe've been crazy tight and I realize when all is said and done\nThrough the best of times, through the worst of times\nBaby you're the one, baby you're the one!\n\n[Verse 2: Memphis Bleek]\nAyo quattro, trece, doce, uno\nYou know the boy give 'em more kicks than judo\nYou know I protect what's mine, that you do know\nYou know violating me you gon catch a fued-o\nDo more partying with my shorty like the god\nRobert Blake style but they won't find the car\nLike the big homie Snoop but it won't be the gods\nBROOKLYN ZOO! We known to throw shots like\nYeah love I'm on a shopping spree with mine\nHere love you know it's rings and things with mine\nIt's thug love at it's finest, dude rewind this\nUh, the boy H-O behind this\nYou might also like[Hook: Rihanna]\nYou were there for me when I needed you when my back was to the wall\nAnd it's good to know that you're still the one to catch me when I fall\nWe've been crazy tight and I realize when all is said and done\nThrough the best of times, through the worst of times\nBaby you're the one, baby you're the one!\n\n[Verse 3: Memphis Bleek]\nAyo four, three, two, one\nIf this ain't concrete then call it what you want\nFor my lady I make where you from hotter than the sun\nI'm still street say the word and it's done\nIf ever in the world that we gotta let a slug fly\nEven if they subpoena me I would never testify\nYou feel the same and this way we never change\nDudes play they disappear and I ain't David Blaine\nLike, yeah love you know I'm breezin' through with mine\nYeah love give me a reason to squeeze for mine\nIt's thug love at it's finest, dude rewind this\nUh, the boy H-O behind this\n\n[Hook: Rihanna]\nYou were there for me when I needed you when my back was to the wall\nAnd it's good to know that you're still the one to catch me when I fall\nWe've been crazy tight and I realize when all is said and done\nThrough the best of times, through the worst of times\nBaby you're the one, baby you're the one!\n[Outro: (Rihanna) & Memphis Bleek]\n(Baby baby you're the one)\nUh, Rihanna y'all, you know, ROC, ROC\n(Baby baby yooou're the ooone)\nROC, ROC, rock on\nUh huh, Big on the production\nY'know, it's another one of those joints\nIt's the ROC, and we, get, busy!1Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/1827794",
+    "artist_names": "Memphis Bleek (Ft. M.O.P.)",
+    "full_title": "First, Last And Only by\u00a0Memphis\u00a0Bleek (Ft.\u00a0M.O.P.)",
+    "header_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "id": 1827794,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 1549345,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1431623050,
+    "path": "/Memphis-bleek-first-last-and-only-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Memphis-bleek-first-last-and-only-sample",
+    "release_date_components": {
+     "year": 2005,
+     "month": null,
+     "day": null
+    },
+    "release_date_for_display": "2005",
+    "release_date_with_abbreviated_month_for_display": "2005",
+    "song_art_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "First, Last And Only",
+    "title_with_featured": "First, Last And Only (Ft.\u00a0M.O.P.)",
+    "updated_by_human_at": 1543169911,
+    "url": "https://genius.com/Memphis-bleek-first-last-and-only-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/192",
+      "header_image_url": "https://s3.amazonaws.com/rapgenius/1364366249_MOP-bw.jpg",
+      "id": 192,
+      "image_url": "https://s3.amazonaws.com/rapgenius/1364366249_MOP-bw.jpg",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "M.O.P.",
+      "slug": "Mop",
+      "url": "https://genius.com/artists/Mop"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/195",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "id": 195,
+     "image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Memphis Bleek",
+     "slug": "Memphis-bleek",
+     "url": "https://genius.com/artists/Memphis-bleek"
+    },
+    "artist": "Memphis Bleek",
+    "lyrics": "First, Last And Only Lyrics[Hype-D on Chrous]\nTha first last and only that who we be\n1 mo time you ain't gotta open ya eyes\n'cause we tha first last and only nigga \nTha first last and only nigga , nigga , nigga\n\nHype-d - verse 1\nHey yo we tell them bitches\nWho tha first last and only we ain't\nNo mutha f**kin phoneys nigga we real and real is real\nAs it gets ain't got time to play nigga this isnt a game\nIve done stole ya fame and put it up in a frame i ain't framin\nNo niggas 'cause when i bust a gat i bet ya millon dollas u dont\nSurvive 'cause u ain't a real gangsta ya boy get out of tha group\nWith all tha wankstas and so we tha best here so we here forever\nSo understand me mutha f**ka its real\n[Memphis Bleek on Chrous]\n\nMemphis bleek - verse 2\nYo lemme show ya how i like that\nLemme merk that till u have a hurt back\nAnd lemme show ya where tha crib atYou might also likeEmbed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/4782188",
+    "artist_names": "Memphis Bleek (Ft. Livin' Proof)",
+    "full_title": "Get Low by\u00a0Memphis\u00a0Bleek (Ft.\u00a0Livin'\u00a0Proof)",
+    "header_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "id": 4782188,
+    "instrumental": false,
+    "language": null,
+    "lyrics_owner_id": 5865419,
+    "lyrics_state": "incomplete",
+    "lyrics_updated_at": null,
+    "path": "/Memphis-bleek-get-low-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Memphis-bleek-get-low-sample",
+    "release_date_components": {
+     "year": 2005,
+     "month": 5,
+     "day": 17
+    },
+    "release_date_for_display": "May 17, 2005",
+    "release_date_with_abbreviated_month_for_display": "May. 17, 2005",
+    "song_art_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Get Low",
+    "title_with_featured": "Get Low (Ft.\u00a0Livin'\u00a0Proof)",
+    "updated_by_human_at": 1565806597,
+    "url": "https://genius.com/Memphis-bleek-get-low-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/17201",
+      "header_image_url": "https://images.genius.com/b09164589e8d41588d1be747d97e5211.670x400x1.png",
+      "id": 17201,
+      "image_url": "https://images.genius.com/b09164589e8d41588d1be747d97e5211.670x400x1.png",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Livin\u2019 Proof",
+      "slug": "Livin-proof",
+      "url": "https://genius.com/artists/Livin-proof"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/195",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "id": 195,
+     "image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Memphis Bleek",
+     "slug": "Memphis-bleek",
+     "url": "https://genius.com/artists/Memphis-bleek"
+    },
+    "artist": "Memphis Bleek",
+    "lyrics": ""
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/4782103",
+    "artist_names": "Memphis Bleek (Ft. Young Gunz)",
+    "full_title": "Oh Baby by\u00a0Memphis\u00a0Bleek (Ft.\u00a0Young\u00a0Gunz)",
+    "header_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "id": 4782103,
+    "instrumental": false,
+    "language": null,
+    "lyrics_owner_id": 5865419,
+    "lyrics_state": "incomplete",
+    "lyrics_updated_at": null,
+    "path": "/Memphis-bleek-oh-baby-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Memphis-bleek-oh-baby-sample",
+    "release_date_components": {
+     "year": 2005,
+     "month": 5,
+     "day": 17
+    },
+    "release_date_for_display": "May 17, 2005",
+    "release_date_with_abbreviated_month_for_display": "May. 17, 2005",
+    "song_art_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Oh Baby",
+    "title_with_featured": "Oh Baby (Ft.\u00a0Young\u00a0Gunz)",
+    "updated_by_human_at": 1565804936,
+    "url": "https://genius.com/Memphis-bleek-oh-baby-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/4232",
+      "header_image_url": "https://images.genius.com/582bc621279c2cec119e417369a8c453.1000x1000x1.jpg",
+      "id": 4232,
+      "image_url": "https://images.genius.com/582bc621279c2cec119e417369a8c453.1000x1000x1.jpg",
+      "index_character": "y",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Young Gunz",
+      "slug": "Young-gunz",
+      "url": "https://genius.com/artists/Young-gunz"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/195",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "id": 195,
+     "image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Memphis Bleek",
+     "slug": "Memphis-bleek",
+     "url": "https://genius.com/artists/Memphis-bleek"
+    },
+    "artist": "Memphis Bleek",
+    "lyrics": ""
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/31165",
+    "artist_names": "Memphis Bleek (Ft. Denim (rapper))",
+    "full_title": "Smoke the Pain Away by\u00a0Memphis\u00a0Bleek (Ft.\u00a0Denim\u00a0(rapper))",
+    "header_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "id": 31165,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": null,
+    "path": "/Memphis-bleek-smoke-the-pain-away-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Memphis-bleek-smoke-the-pain-away-sample",
+    "release_date_components": {
+     "year": 2005,
+     "month": null,
+     "day": null
+    },
+    "release_date_for_display": "2005",
+    "release_date_with_abbreviated_month_for_display": "2005",
+    "song_art_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Smoke the Pain Away",
+    "title_with_featured": "Smoke the Pain Away (Ft.\u00a0Denim\u00a0(rapper))",
+    "updated_by_human_at": 1632421612,
+    "url": "https://genius.com/Memphis-bleek-smoke-the-pain-away-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/2891222",
+      "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1669149872",
+      "id": 2891222,
+      "image_url": "https://assets.genius.com/images/default_avatar_300.png?1669149872",
+      "index_character": "d",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Denim (rapper)",
+      "slug": "Denim-rapper",
+      "url": "https://genius.com/artists/Denim-rapper"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/195",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "id": 195,
+     "image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Memphis Bleek",
+     "slug": "Memphis-bleek",
+     "url": "https://genius.com/artists/Memphis-bleek"
+    },
+    "artist": "Memphis Bleek",
+    "lyrics": "Smoke the Pain Away LyricsYo, I ain't the type that'll move from stress\nNo seeds, no sticks, that's all I twist\nI twist backwoods up, that's what's up\nWhen I come to your town better have some bud\n\nI graduated grads, got my diploma\nI could tell by your aroma you smokin' on Arizona\nBut you ain't got no Cali Kush\nYou're smoking on that backyard bush\n\nQuiet it's kept like hush, plus\nYou ain't never had no Florida Crip\nBeat that'd have you tripping\nRoom start spinning, you beginning to get paranoid, start hearing noises\nCan't forget about the Chitown 'dro\nThat's why they say it's the windy city\nLadies could blow\nGot a connect everywhere I go, never catch me with less than an O, you know\n\n[Hook]\nYou got stress in your life then we smoking tonight\nMy ladies (Denim sings) Gimme a light {*3X*}\nNiggas twist something up if you don't give a fuck if the Cali Kush\nGot you stuck\nMy niggas (Denim sings) Gimme a light {*2X*}\n\nYou got your baby's momma beefing with you, better have that reefer with you\nWhen she finish let the leaf remove you\nI inhale it deep like the chief of voodoo\nHandcuffing these beats like police will do you, that's how it works for me\n\nPuffing on the purple, hit the booth with my eyes burgundy\nI spit the truth on how the earth be\nAnd all the bullshit I go through like dirt weed\nAnd how I always come through like birth, B\n\nTen pounds, eight ounces of herb, B\nI take two to the chest for all my niggas that left\nI blow it out, let them live through my breath\nYou might also likeAnd everybody got a way to relax like everybody gotta pay their tax\nIf you live where I live everybody gotta blaze their gat\nSo everbody blaze up a sack, let's go\n\n[Hook]\nYou got stress in your life then we smoking tonight\nMy ladies (Denim sings) Gimme a light {*3X*}\nNiggas twist something up if you don't give a fuck if the Cali Kush\nGot you stuck\nMy niggas (Denim sings) Gimme a light {*2X*}\n\n[Denim sings]\nIt's been heavy on my mind, now I gotta leave it all behind\nSmoke the pain away, chase the rain away\nSee the sun is gonna shine 'till the night\nSmoke the pain away, chase the rain away\n\n[Memph]\nThe president, he gotta legalize it\nThe governor, he gotta legalize it\nMayor, mayor gotta legalize it\nLet all my niggas lead their lives as they see fit, that's how I see it\nGod damn, I'm a genius when I'm lit\n\n[Memph speaks to Guru]\nMan fuck this shit man, Gu, twist something up\nI'm gonna come out there, let the bridge ride on 'em\n[Denim sings]\nIt's been heavy on my mind, now I gotta leave it all behind\nSmoke the pain away, chase the rain away\nSee the sun is gonna shine 'till the night\nSmoke the pain away, chase the rain away\n\n[Memph]\nGet low always smoking that la la la\nYou know Bleek always smoking that la la la\nYoung Proof always smoking that la la la\nMy nigga Cali always smoking that la la la\nSheik Breezy always smoking that la la la\nMurder One's always smoking that la la la\nGet low always smoking that la la la, smoking that la la la, smoking\nThat la la la\nYeahEmbed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 0,
+    "api_path": "/songs/4782104",
+    "artist_names": "Memphis Bleek",
+    "full_title": "Hater Free by\u00a0Memphis\u00a0Bleek",
+    "header_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "id": 4782104,
+    "instrumental": false,
+    "language": null,
+    "lyrics_owner_id": 5865419,
+    "lyrics_state": "incomplete",
+    "lyrics_updated_at": null,
+    "path": "/Memphis-bleek-hater-free-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Memphis-bleek-hater-free-sample",
+    "release_date_components": {
+     "year": 2005,
+     "month": 5,
+     "day": 17
+    },
+    "release_date_for_display": "May 17, 2005",
+    "release_date_with_abbreviated_month_for_display": "May. 17, 2005",
+    "song_art_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Hater Free",
+    "title_with_featured": "Hater Free",
+    "updated_by_human_at": 1565804880,
+    "url": "https://genius.com/Memphis-bleek-hater-free-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/195",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "id": 195,
+     "image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Memphis Bleek",
+     "slug": "Memphis-bleek",
+     "url": "https://genius.com/artists/Memphis-bleek"
+    },
+    "artist": "Memphis Bleek",
+    "lyrics": ""
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/67232",
+    "artist_names": "Memphis Bleek",
+    "full_title": "Alright by\u00a0Memphis\u00a0Bleek",
+    "header_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "id": 67232,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 56977,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1577132086,
+    "path": "/Memphis-bleek-alright-lyrics",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Memphis-bleek-alright-sample",
+    "release_date_components": {
+     "year": 1998,
+     "month": 9,
+     "day": 29
+    },
+    "release_date_for_display": "September 29, 1998",
+    "release_date_with_abbreviated_month_for_display": "Sep. 29, 1998",
+    "song_art_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false,
+     "pageviews": 5520
+    },
+    "title": "Alright",
+    "title_with_featured": "Alright",
+    "updated_by_human_at": 1577132086,
+    "url": "https://genius.com/Memphis-bleek-alright-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/195",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "id": 195,
+     "image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Memphis Bleek",
+     "slug": "Memphis-bleek",
+     "url": "https://genius.com/artists/Memphis-bleek"
+    },
+    "artist": "Memphis Bleek",
+    "lyrics": "Alright Lyrics[Produced by 9th Wonder]\n\n[Intro]\nChyeah\nEazy, Guru\n9th Wonder\n\n[Verse 1]\nAy, yo, we can't stop won't stop never intend to\nThey feel the style in Taiwan, they call it \"newjitsu\"\nBack to New York all the shit that I been through\nSome niggas say they dawgs but to me they just Shitzus\nI pencils, down the thoughts and the issues\nAll the principles, how to keep it official\nCause you don't want no nigga have to grip that nistol\nMouth off the pistol, turn dudes to fish food, these dudes\nWant me looking all miserable\nDon't want me getting paper, go to Jacob to spend a few\nBut I be in them interviews, talking how I sit in coupes\nAnd how the Tech'll spin a nigga like an interlude\nFuck around, give you flats like an inner tube\nPoke you up, just some of the shit I'm into\nSo fall back, maybe you can get a clear view\nOn my life and how I steer through my rear view\n[Hook x2]\nThey got me back on the block again, back with the Roc again\nWatching for cops again, all about the profit and\nThey got me back in this game again, but I swear\nWe all gon' be all right\n\n[Verse 2]\nAy, ay yo they said it can't be done, no one can do it\nI'm straight off promo, right back to it\nBack to the booth where I gotta spit fluent\nIt's money in them streets, I gotta go pursue it\nI'm the truest, you knew it, you know that 9th produced this\nSoon as Guru looped it, the flow gets stupid\nI'm sort of a live band, cause my sound is acoustic\nThey ain't biting the style, they wearing girders to boost it\nBut, they say I'm slipping, that ain't no new shit\nThem numbers never lie, so you can't refute it\nAnd don't confuse M with none of them bullshits\nTo the streets I'm tied, like my momma's tubes is\nI couldn't fathom the sight of me losing\nAny Malcolm X Boulevard, I'm 'bout movement\nI'm getting money, I don't need your two cents\nThe structure been built way before The Blueprint\n\n[Hook x2]\nYou might also like[Verse 3]\nYo, it's M to the E-M, headed to the top with this\nSay it's niggas on the Roc that don't rock with this\nDamn, that's the thanks I get, when you know I'm the one\nThat started all this gangsta shit\nWilding out for no reason, smoking that reefer with your heater\nJust me and Geda, tag teaming, heating the beat up\nRocking the Caeser, pushing a two seater with divas\nNiggas didn't believe us, now they hate when they see us\nAnd the grip got multiple features\nEverybody got a car, dog, none of 'em leased\nThis a gift from a God, I don't go to the preacher\nI floss for years, you watch me, I'll teach you\nI just dropped M.A.D.E., I admit it was a sleeper\nEverybody went out, copped it, now beating the streets up\nPut it in my hood, in two weeks, it heats up\nBleek done stepped up, but Jay would never leave us\n\n[Hook x2]1Embed"
+   }
+  },
+  {
+   "number": 13,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/31153",
+    "artist_names": "Memphis Bleek",
+    "full_title": "All About Me by\u00a0Memphis\u00a0Bleek",
+    "header_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "id": 31153,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1648462024,
+    "path": "/Memphis-bleek-all-about-me-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Memphis-bleek-all-about-me-sample",
+    "release_date_components": {
+     "year": 2005,
+     "month": null,
+     "day": null
+    },
+    "release_date_for_display": "2005",
+    "release_date_with_abbreviated_month_for_display": "2005",
+    "song_art_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false
+    },
+    "title": "All About Me",
+    "title_with_featured": "All About Me",
+    "updated_by_human_at": 1648462025,
+    "url": "https://genius.com/Memphis-bleek-all-about-me-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/195",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "id": 195,
+     "image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Memphis Bleek",
+     "slug": "Memphis-bleek",
+     "url": "https://genius.com/artists/Memphis-bleek"
+    },
+    "artist": "Memphis Bleek",
+    "lyrics": "All About Me LyricsYeah, yeah, yeah, yeah...................\nI give a fuck what you say\nExtra, I give a fuck what you say\nYoung Guru, lets get these niggas\nI give a fuck what you say\nYou know how we do it man, it's 534\nYeah, I give a fuck what you say\nI give a fuck what you say\n\nYou know I'm coming through the ville, gripping wheel, what the deal\nSoak the spot up the hill, bout to get myself a mill\nIn my system this is still how I'm living, just as trill nigga\nIt don't make a difference nigga feel how you feel\nJust another day on my way to getting paid\nNiggas spraying haterade I'm trying to stay out they way\nWaiving at the babes on the corner like hey\nStunting like it's nothing, the performer in me\nGrab myself a grub, get a hug, give a pound, give a peace, get low\nI ain't trying to stick around, get a beat, get a girl,get my gamble on\nGet 'em girls, give 'em hell, keep it moving on out\nBack at the house, satellite BET, PS2, HD-TV\nFight Night night, night Knock the homey out\nGot the shorty getting aggie looking lonely on the couch\n[Hook]\nAnd I'm a still hug blocks, Give a fuck what you say\nPants sagging, do-ragging, Give a fuck what you say\nBig chain, Getting change, Give a fuck what you say\nCause at the end of the day, yeah it's all about me\n\nBig trucks with them rims, Give a fuck what you say\nLeave at the club with like 10, I Give a fuck what you say\nHundred Grand on the pigs, Give a fuck what you say\nCause at the end of the day, yeah it's all about me\n\nAin't nothing change but the change, not a lame never been\nYou say fuck me, its fuck you, been the same ever since\nIf you love me, I love you the game I was lent\nFrom the OG, H-O he ain't never been\nA liar, I concur with every word that was sent\nFor the family I give 'em 110 percent\nFor the phony I give 'em 110 of them\nNigga 9 M&M I can send it through the wind\nBack to the grind, pay the hatas never mind\nBeing broke is in the past I pray to never rewind\nFine wine dreams, rocking gators lime green\nOut in Vegas wit my team breaking tables, Yao Ming?\nMoney on the wood make the game go good\nHave money on the Ave, but the shit never last\nPuff puff pass nigga that's how we live\nEveryday, so keep the misery where you is nigga\nYou might also like[Hook]\n\n534, Nigga 4-3-2-1 blast off NASA we got a problem\nThis represents the struggle, the hustle, the bums\nThe rats, the roaches, nigga that's where we from\nSummer time cookout, open up the Johnny pumps\nBaby I don't care if you just got your hair done\nYou still getting wet, young hustlers on the steps\nTrying to follow in the steps, of a vet from the jets\nYoung niggas act hard, ballers in the back park\nMe I play the monkey bars, when girls tried to mack hard\nBack when Kane was blasting from the car\nI got a, package of Cane brought action to the yard nigga\n\n[Hook]Embed"
+   }
+  },
+  {
+   "number": 14,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/360640",
+    "artist_names": "Memphis Bleek",
+    "full_title": "Straight Path by\u00a0Memphis\u00a0Bleek",
+    "header_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "id": 360640,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 528734,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": null,
+    "path": "/Memphis-bleek-straight-path-lyrics",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Memphis-bleek-straight-path-sample",
+    "release_date_components": {
+     "year": 2005,
+     "month": 1,
+     "day": 1
+    },
+    "release_date_for_display": "January 1, 2005",
+    "release_date_with_abbreviated_month_for_display": "Jan. 1, 2005",
+    "song_art_image_thumbnail_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/60fa2ce39a813cf2d595146c1467a4a3.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false
+    },
+    "title": "Straight Path",
+    "title_with_featured": "Straight Path",
+    "updated_by_human_at": 1528283880,
+    "url": "https://genius.com/Memphis-bleek-straight-path-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/195",
+     "header_image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "id": 195,
+     "image_url": "https://s3.amazonaws.com/rapgenius/4-memphis_bleek2_304x304.jpg",
+     "index_character": "m",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "Memphis Bleek",
+     "slug": "Memphis-bleek",
+     "url": "https://genius.com/artists/Memphis-bleek"
+    },
+    "artist": "Memphis Bleek",
+    "lyrics": "Straight Path LyricsI said there's no such thing as the straight path\nMy brother got hit the other day by straight blasts\nIn the brain, on the train, on his way to work\nA guy that spent most of his life dealin' with dirt\n\nBut as soon as he decides to get a 9 to 5\nWhy would God decide to take his life?\nThere's no such thing as the straight path\n\nSo it's whatever with me, I walk through the mind\nFeel whatever could hit me\nMy mind filled with anger hope the angels is with me\nChange could be dangerous\nGoin' legit could be signing your death certificate\nCalling it quits could be the worst thing you do\nI mean consider your enemy\nHe ain't gonna quit 'coz you quit now, is he?\nThink about it\n\nSo what's on infinitely with me\nI'm gonna turn to finity for the tough times I pour Hennessey\nIn memory of that one thing that meant one thing to me\nI'm on, somethin' in me wishin' I wan't born\n\nCome on, a gangsta say quttin' the game\nMan, you lookin' at a dead man talkin'\nHe's always a brother or cousin to somebody you fought\nWho might forgive but that don't happen too often\n\nI said there's no such thing as the straight path\nMy brother got hit the other day by straight blasts\nIn the brain, on the train, on his way to work\nA guy that spent most of his life dealin' with dirt\n\nBut as soon as he decides to get a 9 to 5\nWhy would God decide to take his life?\nThere's no such thing as the straight path\n\nI said there's no such thing as the straight path\nI said there's no such thing as the straight path\nYou might also likeWhen the gun burn everythin'\nYou been taught you must unlearn\nWith one turn of the world, one fatal stroke I'd have lost all hope now I'm goin' for broke\n\nSo my new motto is smoke clear, kiss smoke\nWhen you lose everything you love it's time to grip the snob\nThe time for talking is done, listen for one\nIf you got that weight on you I'll be liftin' you up\nHope you got that aid on you, I ain't givin' a fuck\n\nIf God love me, why I'm missin' my bro?\nIs God ugly? If ya'll love me, nigga, wish me love\nAppetite for destruction, I'm back popping [?] again\nDrinkin' 'nac heavy until I'm happy again\n\nAlthough I get comfort from friends\nI won't be truly happy till I see him again\nSo until that day I'm goin' out in the blaze\nHope the world forgive me 'coz I lost my way\n\nI said there's no such thing as the straight path\nMy brother got hit the other day by straight blasts\nIn the brain, on the train, on his way to work\nA guy that spent most of his life dealin' with dirt\n\nBut as soon as he decides to get a 9 to 5\nWhy would God decide to take his life?\nThere's no such thing as the straight path\nDisappointedly, the craziest things happen\nI mean, never knew I'd lose so many people, you know\nSuch a short time, you know what I'm sayin'?\nI'm only twenty five, know what I mean?\n\nLord, it was not even like I was fifteen know what I'm sayin'?\nLost all hopes by fourteen, know what I mean?\n[?]\nLot of stress, man, right now\n\nSo much [?], yo, it's time, hold your head up [?]\nAnd to my man Lou who just passed, know what I mean?\nAll this nonsense goin' on in the street\nIt's just that life we lead know what I'm sayin'\n\nWe caught up in it man, but just when you do dirt\nJust know you can never clean it up man\nThere's no such thing as a straight path\n\nI said there's no such thing as a straight path\nUnless you come out the womb on a straight path\nAnd if you live, way I live, dog, how long can that last?\nWhen everyday of our life we live more like a task\n\nI said there's no such thing as a straight path\nI said there's no such thing as a straight path1Embed"
+   }
+  }
+ ]
+}

@@ -1,0 +1,961 @@
+{
+ "_type": "album",
+ "api_path": "/albums/5102",
+ "cover_art_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+ "cover_art_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+ "full_title": "Todd Smith by LL Cool J",
+ "id": 5102,
+ "name": "Todd Smith",
+ "name_with_artist": "Todd Smith (artist: LL Cool J)",
+ "release_date_components": {
+  "year": 2006,
+  "month": 4,
+  "day": 11
+ },
+ "url": "https://genius.com/albums/Ll-cool-j/Todd-smith",
+ "artist": {
+  "_type": "artist",
+  "api_path": "/artists/848",
+  "header_image_url": "https://images.genius.com/1f8c5f483b7ddc0ddb56c0dee3eae987.700x393x1.jpg",
+  "id": 848,
+  "image_url": "https://images.genius.com/15d300d053a0f87de225d10e4a5a3590.400x400x1.jpg",
+  "index_character": "l",
+  "is_meme_verified": false,
+  "is_verified": false,
+  "name": "LL Cool J",
+  "slug": "Ll-cool-j",
+  "url": "https://genius.com/artists/Ll-cool-j"
+ },
+ "tracks": [
+  {
+   "number": 1,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/29125",
+    "artist_names": "LL Cool J (Ft. Juelz Santana)",
+    "full_title": "It's LL and Santana by\u00a0LL\u00a0Cool J (Ft.\u00a0Juelz\u00a0Santana)",
+    "header_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "id": 29125,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1534301923,
+    "path": "/Ll-cool-j-its-ll-and-santana-lyrics",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Ll-cool-j-its-ll-and-santana-sample",
+    "release_date_components": {
+     "year": 2006,
+     "month": 4,
+     "day": 11
+    },
+    "release_date_for_display": "April 11, 2006",
+    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2006",
+    "song_art_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "It\u2019s LL and Santana",
+    "title_with_featured": "It's LL and Santana (Ft.\u00a0Juelz\u00a0Santana)",
+    "updated_by_human_at": 1534301923,
+    "url": "https://genius.com/Ll-cool-j-its-ll-and-santana-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/78",
+      "header_image_url": "https://s3.amazonaws.com/rapgenius/1339252206_juelz-santana.jpg",
+      "id": 78,
+      "image_url": "https://s3.amazonaws.com/rapgenius/1339252206_juelz-santana.jpg",
+      "index_character": "j",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Juelz Santana",
+      "slug": "Juelz-santana",
+      "url": "https://genius.com/artists/Juelz-santana",
+      "iq": 3620
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/848",
+     "header_image_url": "https://images.genius.com/1f8c5f483b7ddc0ddb56c0dee3eae987.700x393x1.jpg",
+     "id": 848,
+     "image_url": "https://images.genius.com/15d300d053a0f87de225d10e4a5a3590.400x400x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LL Cool J",
+     "slug": "Ll-cool-j",
+     "url": "https://genius.com/artists/Ll-cool-j"
+    },
+    "artist": "LL Cool J",
+    "lyrics": "It\u2019s LL and Santana Lyrics[Intro: LL Cool J]\nMy 12th album launched\nNow everything is carte blanche\nThere's only one God\nVictory is all I want, let's go\n\n[Chorus: LL Cool J + (Juelz Santana)]\nAh one-two and uh, ah one-two and uh\nJuelz, it's LL and (Santana)\nAh one-two and uh, ah one-two and uh\nJuelz, it's LL and (Santana)\nYou witnessing history!\n(To my homies who get it and get it the fast way\nTo my ladies who get it and get it so nasty)\nTo my baby mommas that like it real flashy\nCan't wait to smash me (all they do is harass me)\n[Verse 1: Juelz Santana]\nCheck it, I stay in smoke filled Benzes\nDon't see nothing, you know the whole world's tinted\nOZM so po'-po' don't sing sing\nMy license and registration is good, go check it\nIt cost to be the boss, it cost for me to floss\nOf course you see the frost - got diamonds on my neck, AY!\nI'm the, big skipper, big dipper, big pot\nBig whipper, just watch, big rocks, big flipper - ya dig?\nBig money, big spender, big getter\nBig hustler, big grinder, do you get the big picture - ya dig?\nThis is a, club banger, trunk hopper\nBlock rocker, rude bwoy, top shotter\nAy! This is for my down South trappers\nMy midwest slabbers - ya dig?\nAy! Yup yup, this is for my East coast slangers\nMy West coast bangers - ya dig?\n\n[Chorus: LL Cool J + (Juelz Santana)]\nAh one-two and uh, ah one-two and uh\nJuelz, it's LL and (Santana)\nAh one-two and uh, ah one-two and uh\nJuelz, it's LL and (Santana)\nYou witnessing history!\n(To my homies who get it and get it the fast way)\n(To my ladies who get it and get it so nasty)\nTo my baby mommas that like it real flashy\nCan't wait to smash me (all they do is harass me)\nYou might also like[Verse 2: LL Cool J]\nVV9 Vanquishes\nNever lunching, I hit your honey with these languages (I'm about that)\nWarto, Bertaliano, Cancerilli\nNeck shining, my diamonds purple as grape jelly (I'm about that)\nThorough get yo' bread perspective\nDon't forget to set your Tivo, my my game's perfected (I'm about that)\nRainbow ice, you confidant talk politely\nLeave the party with your wifey, so don't invite me (haha)\nBang one of them joints from New Orleans\nJuvey hustle harder, Birdman you still boring\nNorthside {*Ch-ch-ch-chopping the ? of my gold rims*}\nSouthside {*Ch-ch-ch-chopping the ? of my gold rims*} - you about that?\nHow I'm beaming in the Beamer\nBounce wit'cha honey have you singing \"Have you seen her?\"\nUhh, have you seen her?\nL put in work, gospel - church!\n\n[Chorus: LL Cool J + (Juelz Santana)]\nAh one-two and uh, ah one-two and uh\nJuelz, it's LL and (Santana)\nAh one-two and uh, ah one-two and uh\nJuelz, it's LL and (Santana)\nYou witnessing history!\n(To my homies who get it and get it the fast way)\n(To my ladies who get it and get it so nasty)\nTo my baby mommas that like it real flashy\nCan't wait to smash me (all they do is harass me)1Embed"
+   }
+  },
+  {
+   "number": 2,
+   "song": {
+    "_type": "song",
+    "annotation_count": 3,
+    "api_path": "/songs/657031",
+    "artist_names": "LL Cool J (Ft. Jennifer Lopez)",
+    "full_title": "Control Myself by\u00a0LL\u00a0Cool J (Ft.\u00a0Jennifer\u00a0Lopez)",
+    "header_image_thumbnail_url": "https://images.genius.com/2677c1748c297f131a8cb0eafcd55719.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/2677c1748c297f131a8cb0eafcd55719.467x467x1.jpg",
+    "id": 657031,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 335122,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1547043326,
+    "path": "/Ll-cool-j-control-myself-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ll-cool-j-control-myself-sample",
+    "release_date_components": {
+     "year": 2006,
+     "month": 2,
+     "day": 5
+    },
+    "release_date_for_display": "February 5, 2006",
+    "release_date_with_abbreviated_month_for_display": "Feb. 5, 2006",
+    "song_art_image_thumbnail_url": "https://images.genius.com/2677c1748c297f131a8cb0eafcd55719.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/2677c1748c297f131a8cb0eafcd55719.467x467x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false,
+     "pageviews": 10163
+    },
+    "title": "Control Myself",
+    "title_with_featured": "Control Myself (Ft.\u00a0Jennifer\u00a0Lopez)",
+    "updated_by_human_at": 1649251297,
+    "url": "https://genius.com/Ll-cool-j-control-myself-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/2487",
+      "header_image_url": "https://images.genius.com/b8eb53d0284d17bd1c233f4bfa743cc6.1000x563x1.jpg",
+      "id": 2487,
+      "image_url": "https://images.genius.com/9ac610206a4f973860079918b0ffe937.640x640x1.jpg",
+      "index_character": "j",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jennifer Lopez",
+      "slug": "Jennifer-lopez",
+      "url": "https://genius.com/artists/Jennifer-lopez"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/848",
+     "header_image_url": "https://images.genius.com/1f8c5f483b7ddc0ddb56c0dee3eae987.700x393x1.jpg",
+     "id": 848,
+     "image_url": "https://images.genius.com/15d300d053a0f87de225d10e4a5a3590.400x400x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LL Cool J",
+     "slug": "Ll-cool-j",
+     "url": "https://genius.com/artists/Ll-cool-j"
+    },
+    "artist": "LL Cool J",
+    "lyrics": "Control Myself Lyrics[Jennifer Lopez]\nNo me puedo controlar\nAqui con el Se\u00f1or LL Cool J\nY aqui estoy... ya tu sabes\nUno, dos, tres, muevete!\n\n[Jermaine Dupri]\nYa'll know what this is...So...So...Def!\n\n[Verse 1: LL Cool J]\nThe club was far from empty\nIt was crowded at the entry (Woo!)\nI slide right through like how I do\nThis girl began to tempt me (Uh-huh!)\nShe said her name Shayeeda\nI could tell her mama feed her (Yeah!)\nWhen they tight and thick them jeans don't fit\nI'm L, nice to meet ya (Uh-oh!)\nI could feel my body yearning\nThe room just started turning\nDidn't want to go out on the floor\nBut this girl was so determined\nMy brain began to sizzle\nI'm sweatin' just a little\nOn the dance floor in the middle\nShe turned around and giggled\nShe said\n[Chorus: Jennifer Lopez & LL Cool J]\nYou got, you got, you got\nWhat it takes to make me leave my man\nIt's hard to control myself (Aww!)\nIt's hard to control myself\nYou got, you got, you got\nWhat it takes to make this boy be bad\nIt's hard to control myself\nIt's hard to control myself\nIt's hard for me to control myself (Me too)\nAnd to hold myself back from jumpin' on ya\nLike I wanna, like I wanna, wanna\n\n[Verse 2: LL Cool J with Jennifer Lopez]\nTemptation is a mother\nHow we lust for one another (Yeah)\nWe barely know each other\nYet we're wilding like we're lovers\nThe air is full of passion\nThe strobe lights are flashin'\nThe hustlers throw cashin'\nThe bartender keeps splashin'\nHer moves were so erotic\nHer gaze was so hypnotic\nI begged this girl to stop it\nBut she continued to pop it\nYou know I know you like it\nLet me hit you on your Sidekick\nBecause the after party is at my body\nMeet me you're invited\nShe said\nYou might also like[Chorus: Jennifer Lopez & LL Cool J]\nYou got, you got, you got\nWhat it takes to make me leave my man\nIt's hard to control myself (Aww!)\nIt's hard to control myself\nYou got, you got, you got\nWhat it takes to make this boy be bad\nIt's hard to control myself\nIt's hard to control myself\nIt's hard for me to control myself (Me too)\nAnd to hold myself back from jumpin' on ya\nLike I wanna, like I wanna, wanna\n\n[Verse 3: LL Cool J]\nShe licked, off, her lip, gloss\nHer hips, tossed, back, and forth\nSide, to side, and up, and down\nShe touched, the ground, it turned, me out\nI'm battling desire\nLord help me douse this fire\nThis internal inferno\nHotter than a shot of Cuervo\nHer top was short and purple\nBelly dancing in a circle\nWhen I feel like this I can't resist\nStop it don't make me hurt you\n[Jermaine Dupri]\nShe said\n\n[Chorus: Jennifer Lopez & LL Cool J]\nYou got, you got, you got\nWhat it takes to make me leave my man\nIt's hard to control myself (Aww!)\nIt's hard to control myself\nYou got, you got, you got\nWhat it takes to make this boy be bad\nIt's hard to control myself\nIt's hard to control myself\nIt's hard for me to control myself (Me too)\nAnd to hold myself back from jumpin' on ya\nLike I wanna, like I wanna, wanna\n\n[LL Cool J]\nZihZih ZihZihZih\nZihZihZih ZihZih ZihZihZihZihZih\nZihZihZih ZihZih ZihZih ZihZih ZihZih ZihZih ZihZih\n\n[Jennifer Lopez & LL Cool J]\nZihZih ZihZihZih\nZihZihZih ZihZih ZihZihZihZihZih\nZihZihZih ZihZih ZihZih ZihZih ZihZih ZihZih ZihZih\n\n[Jermaine Dupri]\nUh, yeah, I need everybody to report to the dance floor\nRight...now!\n\n[LL Cool J]\nShake it, shake it, shake it\n\n[Jermaine Dupri]\nHaha, you know what this isEmbed"
+   }
+  },
+  {
+   "number": 3,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/29129",
+    "artist_names": "LL Cool J (Ft. Mary J. Blige)",
+    "full_title": "Favorite Flavor by\u00a0LL\u00a0Cool J (Ft.\u00a0Mary\u00a0J. Blige)",
+    "header_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "id": 29129,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1534301718,
+    "path": "/Ll-cool-j-favorite-flavor-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ll-cool-j-favorite-flavor-sample",
+    "release_date_components": {
+     "year": 2006,
+     "month": 4,
+     "day": 11
+    },
+    "release_date_for_display": "April 11, 2006",
+    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2006",
+    "song_art_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Favorite Flavor",
+    "title_with_featured": "Favorite Flavor (Ft.\u00a0Mary\u00a0J. Blige)",
+    "updated_by_human_at": 1598533204,
+    "url": "https://genius.com/Ll-cool-j-favorite-flavor-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/358",
+      "header_image_url": "https://images.genius.com/ae6d59da982fed1e3e6a8d9af173aeff.1000x333x1.jpg",
+      "id": 358,
+      "image_url": "https://images.genius.com/026b942773bc69f51da67dfbb1a01d56.375x375x1.png",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Mary J. Blige",
+      "slug": "Mary-j-blige",
+      "url": "https://genius.com/artists/Mary-j-blige",
+      "iq": 115
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/848",
+     "header_image_url": "https://images.genius.com/1f8c5f483b7ddc0ddb56c0dee3eae987.700x393x1.jpg",
+     "id": 848,
+     "image_url": "https://images.genius.com/15d300d053a0f87de225d10e4a5a3590.400x400x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LL Cool J",
+     "slug": "Ll-cool-j",
+     "url": "https://genius.com/artists/Ll-cool-j"
+    },
+    "artist": "LL Cool J",
+    "lyrics": "Favorite Flavor Lyrics[Intro: LL Cool J]\nUh-huh, eh-heh\nLay back on this one (yeah, you know how I do baby)\n\n[Verse 1: LL Cool J]\nYou only a customer\nWhen you walkin' in the presence of hust-lers\nUhh, I'm laid back in the cinnamon Range\nTwo decades and ain't a damn thing changed\nKeep my girl, in strawberry swirls\nYou can taste it, my instict's basic\nLord have mercy, sweet like Hershey\nKisses, diamonds for the misses, ices on the wrist-es\nAll different colors of the spectrum\nThe smallest flaw and I reject 'em\nBelieve me I'm a conniseur when I inspect 'em\nI baguettes them, invisibly sets them\nThey call me big L-ly Wonka from Compton to Yonkers\nThem Chi-Town steppers and them A-Town stompers\nThese young rookies, fail to understand\nEvery summer I return like the ice cream man\nDrop what you doin, get-it get-it while you can\nBy the eighth, by the ounce, when it's gone I'ma bounce\nIt's the F-L-A-V, no if's or maybe's\nYou know what I do, drive your tastebuds crazy\n[Chorus: Mary J. Blige + (LL Cool J)]\nLike lemondrops with chocolate kisses\nEvery bite is more delicious\nMy favorite flavor\n(Mix me and you and we can't go wrong)\nLike caramel on vanilla sundae\nHave a scoop you'll want some day\n'Cause you're my favorite flavor\n(C'mon, baby baby c'mon) c'mon\n\n[Verse 2: LL Cool J]\nMy flavor's unreal\nSmooth but hard like woodgrain on the wheel\nRecline your seat baby, enjoy how it feel\nWhy you crossin' your legs, them high heels of eel?\nKick off your shoes, run your toes on the dash\nNow peel off your stockings, c'mon let's get it poppin'\nI'm in the mood for cotton, candy and I'm plottin'\nTo see you in somethin' silky and see-through\nMe too! Man you know how we do\nCamcorder main feature, damn a preview\nI love how the bottom on your body's EQ\nLow but thick though like the base in a six-fo'\nSo here we go (here we go) we bunny hoppin'\nI hit the switches baby, you keep it droppin'\nIt feels marvelous, you in charge of this\nI hope you ain't heartless but my guard's down regardless\nYou might also like[Chorus: Mary J. Blige + (LL Cool J)]\nLike lemondrops with chocolate kisses\nEvery bite is more delicious\nMy favorite flavor\n(Mix me and you and we can't go wrong)\nLike caramel on vanilla sundae\nHave a scoop you'll want some day\n'Cause you're my favorite flavor\n(C'mon, baby baby c'mon) c'mon\n\n[Bridge: Mary J. Blige + (LL Cool J)]\n(Uhh) All I wanna do\nIs eat you up 'cause you look so good\n(Think I look alright huh?)\n(I look better on you, what'chu really wanna do?)\nAll I wanna do\nIs show you boy that I taste good too\n(I know you taste good ma)\n(What'chu sayin', want a sprinkle of the hood ha? Ha?)\n\n[Verse 3: LL Cool J]\nWe had it out\nNow tell your girls the truth when they ask what I'm about\nThe cookies and the cream and the peaches 'n praline\nButter pecan themes in your daydreams\nAll real sugar, no sacca-rhine\nLow calorie, leave no cavities\nGuaranteed no place you'd rather be\nThan here with me, mix chocolate in the factory\n[Chorus: Mary J. Blige + (LL Cool J)]\nLike lemondrops with chocolate kisses\nEvery bite is more delicious\nMy favorite flavor\n(Mix me and you and we can't go wrong)\nLike caramel on vanilla sundae\nHave a scoop you'll want some day\n'Cause you're my favorite flavor\n(C'mon, baby baby c'mon) c'mon\n\n[Outro: Mary J. Blige]\nOh, babyEmbed"
+   }
+  },
+  {
+   "number": 4,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/29121",
+    "artist_names": "LL Cool J (Ft. Lyfe Jennings)",
+    "full_title": "Freeze by\u00a0LL\u00a0Cool J (Ft.\u00a0Lyfe\u00a0Jennings)",
+    "header_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "id": 29121,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": null,
+    "path": "/Ll-cool-j-freeze-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ll-cool-j-freeze-sample",
+    "release_date_components": {
+     "year": 2006,
+     "month": 4,
+     "day": 11
+    },
+    "release_date_for_display": "April 11, 2006",
+    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2006",
+    "song_art_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Freeze",
+    "title_with_featured": "Freeze (Ft.\u00a0Lyfe\u00a0Jennings)",
+    "updated_by_human_at": 1555708149,
+    "url": "https://genius.com/Ll-cool-j-freeze-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/2701",
+      "header_image_url": "https://images.genius.com/4b4bced03d8f9191df307244d3665343.617x409x1.jpg",
+      "id": 2701,
+      "image_url": "https://images.genius.com/7a1f844f4cc4e2d3265cb6bce9b64e5d.409x409x1.jpg",
+      "index_character": "l",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Lyfe Jennings",
+      "slug": "Lyfe-jennings",
+      "url": "https://genius.com/artists/Lyfe-jennings"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/848",
+     "header_image_url": "https://images.genius.com/1f8c5f483b7ddc0ddb56c0dee3eae987.700x393x1.jpg",
+     "id": 848,
+     "image_url": "https://images.genius.com/15d300d053a0f87de225d10e4a5a3590.400x400x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LL Cool J",
+     "slug": "Ll-cool-j",
+     "url": "https://genius.com/artists/Ll-cool-j"
+    },
+    "artist": "LL Cool J",
+    "lyrics": "Freeze Lyrics[LL Cool J] + (Lyfe)\nKnew I said I would roll wit'chu\nPut my lifestyle on hold for you\nAll them sweet things that I told to you\nThis conversation is overdue (freeze)\nKid too wild to respect the vow\nI just ain't ready to settle down\nMy name too big in the ghetto now (freeze)\nFeels like I'm ready when I'm holdin you\nBut it's so many honies, what I'm 'posed to do?\nKeep sendin them apology notes to you (freeze)\nAll I need is for you to freeze\nThis is hard on me, I don't want to leave\nBut in the meantime, take back your keys and\n[Chorus: Lyfe Jennings]\nFreeze - don't change, don't go\nDon't leave (just, freeze)\nI know girl it's a lot to ask\nTell me what other choice I have\nWhen you love someone this bad\nFreeze - don't change, don't go\nDon't leave (just, freeze)\nAnd girl I hope you understand\nPromise I'll be back for you\nWhen I become a better man\n\n[LL Cool J] + (Lyfe)\nWhy I gotta do this I ain't sho'\nWhy I gotta wild out, I don't know\nI know how it feels I've been hurt befo'\nI know you're dissapointed you expected mo' (freeze)\nI'm losin a good one, that's fo' sho'\nI be tryin to fight but it calls me yo\nPlease don't change the locks on the do' (freeze)\nQuit cryin cause it ain't your fault\nBlame it on the streets of New York\nYoung L gotta walk this walk girl (freeze)\nI know it's rough but I need your support\nYou said it all last time that we fought\nSo don't talk baby hold that thought and\nYou might also like[Chorus]\n\n[LL Cool J] + (Lyfe)\n(What would you think if I told you that I)\nKnew that I was breakin your heart\nWanna explain, but where should I start\n(What would you think if I told you that I)\nWake up every mornin with a different girl\nCause I don't wanna settle down before I see the world\n(what would you think if I told you that I)\nKnow exactly what you need indeed\nHate to follow but I'm scared to leave\nToo scared love'll get the best of me\nI know deep down God is testin me\nHopefully someday I'll give you that ring\nBut until then just do this one thing\n\n[Chorus] - repeat 2X w/ ad libs\n\n{*Lyfe ad libs as LL talks*}\n\n[LL Cool J]\nIt's not like I forgot about you or somethin\nI just gotta get this out of my system, knahmean?\nIf I could just freeze you, y'knahmsayin? It's just\nI don't know if I'm ready for all that shit, y'knahmean?\nI mean I know we gon' be together one day\nMatter of fact I promise you\nFor now I need you to just (freeze)Embed"
+   }
+  },
+  {
+   "number": 5,
+   "song": {
+    "_type": "song",
+    "annotation_count": 2,
+    "api_path": "/songs/29120",
+    "artist_names": "LL Cool J (Ft. Jamie Foxx)",
+    "full_title": "Best Dress by\u00a0LL\u00a0Cool J (Ft.\u00a0Jamie\u00a0Foxx)",
+    "header_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "id": 29120,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1534303815,
+    "path": "/Ll-cool-j-best-dress-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ll-cool-j-best-dress-sample",
+    "release_date_components": {
+     "year": 2006,
+     "month": 4,
+     "day": 11
+    },
+    "release_date_for_display": "April 11, 2006",
+    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2006",
+    "song_art_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 2,
+     "hot": false
+    },
+    "title": "Best Dress",
+    "title_with_featured": "Best Dress (Ft.\u00a0Jamie\u00a0Foxx)",
+    "updated_by_human_at": 1534303815,
+    "url": "https://genius.com/Ll-cool-j-best-dress-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/73",
+      "header_image_url": "https://images.genius.com/92829e014bfc4789c685bf44a1214e63.640x640x1.jpg",
+      "id": 73,
+      "image_url": "https://images.genius.com/15788548e73d065e1fe01596fbadbf1b.400x400x1.jpg",
+      "index_character": "j",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Jamie Foxx",
+      "slug": "Jamie-foxx",
+      "url": "https://genius.com/artists/Jamie-foxx"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/848",
+     "header_image_url": "https://images.genius.com/1f8c5f483b7ddc0ddb56c0dee3eae987.700x393x1.jpg",
+     "id": 848,
+     "image_url": "https://images.genius.com/15d300d053a0f87de225d10e4a5a3590.400x400x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LL Cool J",
+     "slug": "Ll-cool-j",
+     "url": "https://genius.com/artists/Ll-cool-j"
+    },
+    "artist": "LL Cool J",
+    "lyrics": "Best Dress Lyrics[Intro: LL Cool J (Jamie Foxx)]\nHey, hey, (ooohh), hey, hey\n\n[Chorus: Jamie Foxx, (LL Cool J) & Both]\nWe gon' get it poppin' now, girl\nGet your best dress on tonight (hey, hey, hey!! Uh)\nOnce we start it ain't no stoppin', girl\nGet your best dress on tonight (hey, hey, hey!! Uh)\nThis is for the girls\nWith all those ghetto curves (hey, hey, hey!!)\nBut we gon' keep it poppin' now, girl\nGet your best dress on tonight (hey, hey, hey!!)\n[Verse 1: LL Cool J, (Jamie Foxx) + Both]\n54-11's poppin' wheelies front of Willyburgers\nCandy apple M3's, slidin' out gently\nRollin' up in Bentleys, Tyson was the champ then\nRight after the Rooftop, years before the Hamptons\nYou was a ghetto queen and a diamond in the rough\nYou was so beautiful and the world was so rough\nYour man was locked up 'cause the cops popped up\nYou dropped out of school on top of that you knocked up\nHe was yo' crush, you was his crutch\nHe'll be gone a dime and it's hard to stay in touch\nYour moms say you stupid but you love him so much (ooh)\nNow it's, broken dreams and broken Beemers in the dust\nStandin' up on a crowded bus, for college courses\nStay on course when it gets rough, you never lost it\nStay strong baby trust, you'll be back flossin'\nDiamond studs and linen crush, keep your head up\n\n[Chorus: Jamie Foxx (LL Cool J)]\nWe gon' get it poppin' now, girl\nGet your best dress on tonight (hey, hey, hey!! Uh)\nOnce we start it ain't no stoppin', girl\nGet your best dress on tonight (hey, hey, hey!! Uh)\nThis is for the girls\nWith all those ghetto curves (hey, hey, hey!!)\nBut we gon' keep it poppin' now, girl\nGet your best dress on tonight (hey, hey, hey!!)\nYou might also like[Verse 2: LL Cool J + Both]\nHer boyfriend's comin' through with them hickeys on his neck\nHe claims he's lovin' her but never shows her no respect\nAll she knows is neglect, a lifetime of stress\nBig momma, her momma, now lil' momma is next\nYou can see the effects of gettin' treated incorrect\n'Cause she let the cycle continue, make excuses for his steps\nHer girlfriends tried to warn her, all he wanted was the sex\nOnce he get it, then he gone, then it's on to somethin' fresh\nSomethin' new, nuttin' borrowed, nuttin' blue, no wedding dress\nBut that's aight, you still young, you got your lifetime left\nYou gotta leave all that alone, find yourself\nThere's no love until you love you, remind yourself\n\n[Chorus: Jamie Foxx, (LL Cool J) & Both]\nWe gon' get it poppin' now, girl\nGet your best dress on tonight (hey, hey, hey!! Uh)\nOnce we start it ain't no stoppin', girl\nGet your best dress on tonight (hey, hey, hey!! Uh)\nThis is for the girls\nWith all those ghetto curves (hey, hey, hey!!)\nBut we gon' keep it poppin' now, girl\nGet your best dress on tonight (hey, hey, hey!!)\n\n[Bridge: LL Cool J, (Jamie Foxx) + Both]\nTo all my ghetto girls all around the world\nYou know the ones with the weaves and the Shirley Temple curls\nKeep fightin', uhh\nBaby girl keep fightin', yeah\nTo all my ghetto queens survivin' by all means\nThere's a rock and a hard place you somewhere in between\nBaby girl keep fightin', uhh\nBaby girl keep fightin', yeah\nTo all my single mommas you been strugglin' with drama (ooh)\nDoin what'chu gotta but still keepin' your honor\nBaby girl keep fightin', uhh\nBaby girl keep fightin', yeah yeah, sing it\n[Chorus: Jamie Foxx, (LL Cool J) & Both]\nWe gon' get it poppin' now, girl\nGet your best dress on tonight (hey, hey, hey!! Uh)\nOnce we start it ain't no stoppin', girl\nGet your best dress on tonight (hey, hey, hey!! Uh)\nThis is for the girls\nWith all those ghetto curves (hey, hey, hey!!)\nBut we gon' keep it poppin' now, girl\nGet your best dress on tonight (hey, hey, hey!!)\n\n[Outro: Jamie Foxx (LL Cool J)]\nGet your best dress on tonight (hey, hey, hey!!)\nGet your best dress on tonight (hey, hey, hey!!)\nGet your best dress on tonightEmbed"
+   }
+  },
+  {
+   "number": 6,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/29135",
+    "artist_names": "LL Cool J (Ft. Teairra Mar\u00ed)",
+    "full_title": "Preserve the Sexy by\u00a0LL\u00a0Cool J (Ft.\u00a0Teairra\u00a0Mar\u00ed)",
+    "header_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "id": 29135,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": null,
+    "path": "/Ll-cool-j-preserve-the-sexy-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ll-cool-j-preserve-the-sexy-sample",
+    "release_date_components": {
+     "year": 2006,
+     "month": 4,
+     "day": 11
+    },
+    "release_date_for_display": "April 11, 2006",
+    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2006",
+    "song_art_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Preserve the Sexy",
+    "title_with_featured": "Preserve the Sexy (Ft.\u00a0Teairra\u00a0Mar\u00ed)",
+    "updated_by_human_at": 1476162812,
+    "url": "https://genius.com/Ll-cool-j-preserve-the-sexy-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7599",
+      "header_image_url": "https://images.genius.com/3dec1abf0d1ccade7888cc9fcbc1a6ce.1000x165x1.png",
+      "id": 7599,
+      "image_url": "https://images.genius.com/f9c952f095bca16a28057db2b31dbd6d.704x704x1.jpg",
+      "index_character": "t",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Teairra Mar\u00ed",
+      "slug": "Teairra-mari",
+      "url": "https://genius.com/artists/Teairra-mari"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/848",
+     "header_image_url": "https://images.genius.com/1f8c5f483b7ddc0ddb56c0dee3eae987.700x393x1.jpg",
+     "id": 848,
+     "image_url": "https://images.genius.com/15d300d053a0f87de225d10e4a5a3590.400x400x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LL Cool J",
+     "slug": "Ll-cool-j",
+     "url": "https://genius.com/artists/Ll-cool-j"
+    },
+    "artist": "LL Cool J",
+    "lyrics": "Preserve the Sexy Lyrics[Teairra Mari]\nLL, uhh, Teairra Mari\n\n[LL Cool J]\nYou seem like the type that wanna do a couple things\nWhen I look in your eyes I can tell you ready to swing\n\n[Teairra Mari]\nSlow down baby, I'm way more than a fling\nAnd I'm up on the game that you O.G.'s brings\n[LL] + (T.M.)\nDamn it's like that, chronological attacks?\nYou talkin real greasy, easy, that's a trap\n(You need to fall back) What'chu sayin, I'ma rap?\n(Yeah right I ain't no trick, I ain't with all that)\nNow see, you talkin real bold, your vibes is real cold\nYou better smarten up, slide on in the Rolls\n\n[Teairra Mari]\nI'm not the next chick, you can hit the exit\nEverything you sayin is just what I expected\n\n[LL]\nHearts I've rejected many more than you've collected\nLife is a movie I'm just tryin to direct it\nYou know like I know, you would wanna stay connected\nHip you to the rules of the game, shorty check it\n\n[Chorus: LL] + (Teairra Mari)\nThe chain on my neck (preserve the sexy)\nThe O's in the check (preserve the sexy)\nThe crib and the whips (preserve the sexy)\nCash, the chips (preserve the sexy)\nThe honey on my arm (preserve the sexy)\nThe ice in my charm (preserve the sexy)\nTeairra Mari (preserve the sexy)\nIt's your man L on this beat (preserve the sexy)\nYou might also like[LL] + (Teairra Mari)\nYou really should let me, keep you in Giuseppi's\nFrankie V's, H. Findel, Chanel, this is L\n(You doin a lot of frontin) But that ain't hard to tell\n(You tryin to flip me) Nah B (this I see)\nUh-huh, we'll see, spend a little time with me\nBy the time I make my move you be sayin finally\n(Ain't no moves to be made) Too many games get played\n(Too many chickens gettin laid and watch they reputations fade)\nWhere you from? (Detroit) What that mean? (I'm on point)\nRelax, we talkin, don't get your drawers out of joint\nI wanna see you smile, elevate your lifestyle\nCop a yacht, hit the South of France (not a chance)\nKeep your little advance, this one's on me\nAnd the chef's on board, you can eat for free\n\n[Teairra Mari]\nSlow down sweetie, my waist is 24\nI'm far from greedy (you're gonna love it, believe me)\n\n[Chorus]\n\n[LL]\nCats sippin venom and spillin it on my linen\nMy baby smooth leather is softer than most women\nEverything is crisp from my cuff to my trimming\nWords can't describe all the garments that I been in\n[Teairra Mari]\nI been had Cartier, switch whips every play\nMy little Jack Rusell know how to hustle\nI stay with canaries on, platinum on every song\nHate it or love it, then respect how I does it\n\n[LL] + (Teairra Mari)\nUhh, well I'm not dem, that's how I got gems\nCost a quarter million dollars for them like shiny rims\nUnderstand me slim, this how the game begin\nIf he was me then he'd do the same to him\nBut L's the real deal, so tell me what you feel\nTell me one of your secrets, I'll keep my lips sealed\n(That's for me to know and you to find out)\nLong as we both know what we talkin 'bout, cool\n\n[Chorus]\n\n[LL] + (T.M.)\nWhat'chu wanna do? (Preserve the sexy) {*repeat to fade*}Embed"
+   }
+  },
+  {
+   "number": 7,
+   "song": {
+    "_type": "song",
+    "annotation_count": 7,
+    "api_path": "/songs/29128",
+    "artist_names": "LL Cool J (Ft. Freeway)",
+    "full_title": "What You Want by\u00a0LL\u00a0Cool J (Ft.\u00a0Freeway)",
+    "header_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "id": 29128,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1607478522,
+    "path": "/Ll-cool-j-what-you-want-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ll-cool-j-what-you-want-sample",
+    "release_date_components": {
+     "year": 2006,
+     "month": 4,
+     "day": 11
+    },
+    "release_date_for_display": "April 11, 2006",
+    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2006",
+    "song_art_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "What You Want",
+    "title_with_featured": "What You Want (Ft.\u00a0Freeway)",
+    "updated_by_human_at": 1654358951,
+    "url": "https://genius.com/Ll-cool-j-what-you-want-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/250",
+      "header_image_url": "https://s3.amazonaws.com/rapgenius/1294476200_large_freeway2.jpg",
+      "id": 250,
+      "image_url": "https://s3.amazonaws.com/rapgenius/1294476200_large_freeway2.jpg",
+      "index_character": "f",
+      "is_meme_verified": false,
+      "is_verified": true,
+      "name": "Freeway",
+      "slug": "Freeway",
+      "url": "https://genius.com/artists/Freeway",
+      "iq": 100
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/848",
+     "header_image_url": "https://images.genius.com/1f8c5f483b7ddc0ddb56c0dee3eae987.700x393x1.jpg",
+     "id": 848,
+     "image_url": "https://images.genius.com/15d300d053a0f87de225d10e4a5a3590.400x400x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LL Cool J",
+     "slug": "Ll-cool-j",
+     "url": "https://genius.com/artists/Ll-cool-j"
+    },
+    "artist": "LL Cool J",
+    "lyrics": "What You Want Lyrics[Hook: LL Cool J and Freeway]\nYou ice grilling, your blood spilling\nTell me little homey, what's the reason?\n(That can lead to Freeway squeezing) What you faking for?\n24's peeling, ain't no sailing\nMove little homey, see the O.G. leaning\n{LL, I keep birdies fiending} What you hating for?\n\n(What you want?) {big faces, the coupes and the Lincs}\n(What you get?) {top models that gargle in the mink}\n(Who you hit?) {whoever want it, I take it to the brink}\n{It's funny, but I need the Philly money, we had a link}\n{What you want?} (cash money, the jewels, and the car)\n{Who you hit?} (everything from the chickens to the stars)\n{Who you with?} (you rocking with the president of future)\n(The whole world feeling, that's killing 'em with them bars, here we go)\n[LL Cool J]\nIntoxicating, got grown women vibrating\nSo nervous that her cervix is dilating\nOn purpose, so her man know I'm violating\nL shirtless now scrams on the wire hating\nYeah, I'm captivating, boy, leaving 'em baking\nWhen the microphone is vacant, vagina waking\nBig shoes to fill don't get it confused\nI will get gutter on 'em, my beats is crispy\nMy bars is like butter on 'em, with a udder on 'em\nSo if you a pimp, we even and bust a scudder on 'em\nMighty L, the biggest, I make rap religious\nHit every country of the world, made 'em all dig us\nI got a vendetta, I must blend cheddar\nI use a pen with the steel, never been better\nThere never will be one to out skill me\nIt's nothing you can tell me, it's like God built me\n\n[Hook]\n\n[Freeway] (LL Cool J)\n(1) 2 (3) 4 (5) 6 (7)\n(Kick in the door) Yeah I rhyme for the legend\nStay strapped I'm on point with the weapons\n(They fell asleep in the getaway car, they half stepping)\n(7) 6 (5) 4 (3) 2 (1, this my 12th album, but your man's not diz-one)\nThis my second album, but your boy's not slipping\n(Queens in the building) Philly is where I'm friz-om\n(Let me get siz-ome, make sure she kiz-um)\n(Bush is the prez but I voted for Shirley Chisholm)\nMe and L, same track, it gotta be craz'\nIt's like, he's Shaq and I'm Dwayne Wade\nNow let's go!\nYou might also like[Hook]\n\n[Freeway]\nPhilly Freeway is hard as hell\nBattle anybody, pull a trigger, catch a body\nYup, lose your breath, don't mess with the shottie\nPut the burner to your mami, then I rock her bells\nIt's young Freeway on the go\nI'm on the speedboat, jeez, don't sit in the cell\nOnly for a second, then they get they bell\nWhen I put the freeze on, you gon' need your coats\nIt's a cold one, you gonna need your toast\nBut me and L O.G.'s overseas for winning\nYour body moms, Swiss cheeses with us, and they no\nTeasing with us, she break us off, she trynna please us both\nChicks argue then I leave 'em broke\nI'm just a 'boy in the hood' like Jody Breeze\nThe bundle book still owe cheese\nAnd the haters on the block wanna see me broke\nYeah I know they wanna see me smoke\nBut I'm the person who the smoke and can't open your V\nThen I go, crack open the O.E\nThe don heron flow keeping it potent, let's go\n\n[Hook]Embed"
+   }
+  },
+  {
+   "number": 8,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/29119",
+    "artist_names": "LL Cool J (Ft. Ryan Toby)",
+    "full_title": "I've Changed by\u00a0LL\u00a0Cool J (Ft.\u00a0Ryan\u00a0Toby)",
+    "header_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "id": 29119,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": null,
+    "path": "/Ll-cool-j-ive-changed-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ll-cool-j-ive-changed-sample",
+    "release_date_components": {
+     "year": 2006,
+     "month": 4,
+     "day": 11
+    },
+    "release_date_for_display": "April 11, 2006",
+    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2006",
+    "song_art_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "I\u2019ve Changed",
+    "title_with_featured": "I've Changed (Ft.\u00a0Ryan\u00a0Toby)",
+    "updated_by_human_at": 1466136140,
+    "url": "https://genius.com/Ll-cool-j-ive-changed-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7597",
+      "header_image_url": "https://images.genius.com/e8ad4ae305dc2d3ecc9af629a2ee3d09.263x263x1.jpg",
+      "id": 7597,
+      "image_url": "https://images.genius.com/e8ad4ae305dc2d3ecc9af629a2ee3d09.263x263x1.jpg",
+      "index_character": "r",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ryan Toby",
+      "slug": "Ryan-toby",
+      "url": "https://genius.com/artists/Ryan-toby"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/848",
+     "header_image_url": "https://images.genius.com/1f8c5f483b7ddc0ddb56c0dee3eae987.700x393x1.jpg",
+     "id": 848,
+     "image_url": "https://images.genius.com/15d300d053a0f87de225d10e4a5a3590.400x400x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LL Cool J",
+     "slug": "Ll-cool-j",
+     "url": "https://genius.com/artists/Ll-cool-j"
+    },
+    "artist": "LL Cool J",
+    "lyrics": "I\u2019ve Changed Lyrics[LL Cool J]\nJust starin at these four walls closin\nIn on me, feelin like time's frozen\nFadin in and out, noddin and dozin\nGuilt tearin up my brain like erosion\nWhat I did to you was wrong I admit it\nI regret that I did it like a junkie when he's jonzin\nAll alone in what used to be a home\nBut you packed up our joy in that bag you put your clothes in\nThe voicemail that you left me was scoldin\nHot enough to burn a hole in a cauldron\nCause it was all true, that's why we all through\nNow your girl's pickin up the cell when I call you\nTalkin slick like she ain't here\nShe don't want you no more, punk disappear - click\nI need to hit her with a brick\nBut that'll only lead me to a worse predicament\nI hope your girlfriend ain't got you on a liquor binge\nWith her bitter attitude just cause she's sick of men\nBut I'ma keep on callin, fightin 'til the end\nOn my knees 'til they bleed, to prove my love again\n[Chorus: Ryan Toby]\nI sit in front of yo' crib in the pourin rain\nWhylin out screamin yo' name\nAnd keepin ringin yo' bell 'til you mad as hell\nAnd call the po'-po', I ain't afraid (yeah, yeah)\nYou can get yo' folks and yo' cousins and them\nAnd try to run me off yo' blocka (uh-huh)\nBut I ain't scared, I ain't goin nowhere\nAnd I ain't stoppin 'til I gotcha\nTo show you I changed shawty\n\n[LL Cool J]\nI seen you at the movies with some tall cat\nSo I bust his headlights with a ball bat\nWhen I was with you he would give me dap and all that\nNow you in his arms in the mall, what you call that?\nThat's what I get for creepin and crawlin\nEvery other weekend gone until the mornin\nSneakin out to my dirt, dead wrong\nComin back past dawn with the guilty mask on\nAnd I never counted the cost, took heed to warnings\nTry to hurt a rose you get pricked by a thorn\nAnd it don't feel nice, when you wake up nights\nShakin in cold sweats and your whole life's a wreck\nThat was the old me, the one I still regret\nThe one you couldn't respect, the one you should forget\nBut I'ma keep on callin, fightin 'til the end\nOn my knees 'til they bleed, to prove my love again\nYou might also like[Chorus]\n\n[Ryan Toby] + (LL)\nTo show you I changed shawty\nI really did change shawty (I'M TELLIN YOU I'VE CHANGED)\nI wanna show you I changed shawty\n(I STILL LOVE YOU!) {*cars peel*}\n\n[LL Cool J]\nI don't care if the cops got me surrounded\nSWAT teams whatever, tell 'em to send the hounds in\nMy mind's in an altered state\nLike I'm headed for a wall, top speed, foot off the brake\nI make a fool of myself, girl whatever it takes\nI already played the fool when I let you escape\nYou're as, good as it gets, your friendship your sex\nEverything about you and yours connects\nFrom your, beautiful smile to the scent of your skin\nThe sheets smell different, this is not livin\nIt feels like dyin, God knows I'm tryin\nAin't no sight sadder than a grown man cryin\nPlease find it in your heart to forgive me\nRealize only God can convict me\nWe all make mistakes, so have you\nIf God show mercy on me, then you should too\n[Chorus]\n\n[Ryan Toby] + (LL)\nTo show you I changed shawty\nI really did change shawty (I'M TELLIN YOU I'VE CHANGED)\nI wanna show you I changed shawty\n(I STILL LOVE YOU!) OWW!\n(I'M TELLIN YOU I'VE CHANGED)Embed"
+   }
+  },
+  {
+   "number": 9,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/29133",
+    "artist_names": "LL Cool J (Ft. Ginuwine)",
+    "full_title": "Ooh Wee by\u00a0LL\u00a0Cool J (Ft.\u00a0Ginuwine)",
+    "header_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "id": 29133,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": null,
+    "path": "/Ll-cool-j-ooh-wee-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ll-cool-j-ooh-wee-sample",
+    "release_date_components": {
+     "year": 2006,
+     "month": 4,
+     "day": 11
+    },
+    "release_date_for_display": "April 11, 2006",
+    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2006",
+    "song_art_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Ooh Wee",
+    "title_with_featured": "Ooh Wee (Ft.\u00a0Ginuwine)",
+    "updated_by_human_at": 1466136209,
+    "url": "https://genius.com/Ll-cool-j-ooh-wee-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/816",
+      "header_image_url": "https://images.genius.com/6c4465603554bda4ee3e4c30adb1c8cf.1000x185x1.jpg",
+      "id": 816,
+      "image_url": "https://images.genius.com/991fcd408cadd3d4bc10948674840d6e.1000x1000x1.jpg",
+      "index_character": "g",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Ginuwine",
+      "slug": "Ginuwine",
+      "url": "https://genius.com/artists/Ginuwine"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/848",
+     "header_image_url": "https://images.genius.com/1f8c5f483b7ddc0ddb56c0dee3eae987.700x393x1.jpg",
+     "id": 848,
+     "image_url": "https://images.genius.com/15d300d053a0f87de225d10e4a5a3590.400x400x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LL Cool J",
+     "slug": "Ll-cool-j",
+     "url": "https://genius.com/artists/Ll-cool-j"
+    },
+    "artist": "LL Cool J",
+    "lyrics": "Ooh Wee Lyrics[Ginuwine]\nGimme all you got girl.. gimme, gimme {*4X*}\n\n[LL Cool J]\nUhh, yeah, uh-huh\n\nIf I'm hot for you and you hot for me\nWhat you got for me is no shock to me\nStill can't believe you're my property\nThe sound of you ploppin on top of me\nThe feelin of, hittin the lottery\nOr passin \"Go\" twice in Mono-poly\nDoesn't, dare to compare to what you got for me\nThe taste of the puddin is so chocolatey\nHope to seein it, so I'm seein it\nStill got my sneakers and my chain on lean in it\nMoonlight hit it right it start gleamin\nMean faces, for what was the meanin?\nPop it a little bit and, drop it a little bit\nIt's, hard to read you I feel like I'm illiterate\nBut I'm ready for the graduation\nYeah, right there, repeat that rotation\n[Chorus: Ginuwine]\nGive me all you got baby tonight (tonight)\nNow's the perfect time; come blow my mind\nIt's cold out here please let me come inside (let me come inside)\nOooh so warm at night; you blow my mind - hey yeahhh\n\n[LL Cool J]\nYeah baby go ahead and talk greasy\nTell me how you never had it this deeply\nI'mma whisper slick, you respond sweetly\nExtra freaky, I trick and you treat me\nI'll give, you take, but don't hesitate\nWhen you feel it girl, throw it right back\nJust let me hold ya by your shoulders\nDamn, you can take it like that?\nI knew you was a champ girl\nYou got your leg on the dresser kickin the lamp girl\nRun the shower let's head in the bathroom girl\nCause the temperature's hotter than high noon girl\nI crack that do', let the steam blow\nAin't nobody here but me and you, let it go\nYou never had it this good, you already know\nGive me all you got tonight, really though\n\n[Chorus]\nYou might also like[LL] Take it to the bridge\n\n[Interlude: Ginuwine]\nYou're the sexiest woman I've ever known\nBaby my mind is blown\nIt's simply beautiful, how you do it to me (OW!)\nYou're showin me things I'd never do\nA whole 'nother side of you (side of you)\nJust keep doin what you do, it feels like ooh wee!\n\n[LL Cool J]\nYou can go and have the wild climax\nAin't no way I'm 'bout to let you relax\nLet me see if you can hold me on your back\nLet me see you wind your body to the track\nPop it a little bit and, drop it a little bit\nIt's, hard to read you I feel like I'm illiterate\nBut I'm ready for the graduation\nYeah, right there, repeat that rotation\n\n[Chorus]\n\n[Ginuwine]\nGimme all you got girl.. gimme, gimme {*4X*}\n\n[LL over Ginuwine]\nBeautiful, yeah, keep it right there\nI like that\nYeah, uh-huh, yeah\nAwww man, yeah.. {*fades out*}Embed"
+   }
+  },
+  {
+   "number": 10,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/29124",
+    "artist_names": "LL Cool J",
+    "full_title": "#1 Fan by\u00a0LL\u00a0Cool J",
+    "header_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "id": 29124,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1465325284,
+    "path": "/Ll-cool-j-1-fan-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ll-cool-j-1-fan-sample",
+    "release_date_components": {
+     "year": 2006,
+     "month": 4,
+     "day": 11
+    },
+    "release_date_for_display": "April 11, 2006",
+    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2006",
+    "song_art_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 1,
+     "hot": false
+    },
+    "title": "#1 Fan",
+    "title_with_featured": "#1 Fan",
+    "updated_by_human_at": 1494474337,
+    "url": "https://genius.com/Ll-cool-j-1-fan-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/848",
+     "header_image_url": "https://images.genius.com/1f8c5f483b7ddc0ddb56c0dee3eae987.700x393x1.jpg",
+     "id": 848,
+     "image_url": "https://images.genius.com/15d300d053a0f87de225d10e4a5a3590.400x400x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LL Cool J",
+     "slug": "Ll-cool-j",
+     "url": "https://genius.com/artists/Ll-cool-j"
+    },
+    "artist": "LL Cool J",
+    "lyrics": "#1 Fan Lyrics[LL Cool J]\nUhh, yeah (si papi.. uhh, uh-huh)\nUh-huh (I see you papi, si)\n\nI was in Madrid yo\nHad this hot club shootin my video\nThey was burnin up the floor to that reggaeton\nEstaba bailando soon as they put the record on\nI was sweatin like a bullfighting matador\nIt was the sexiest scene that I ever saw\n(La fiesta, tu mi a fuego)\nBut I was still cool in my light blue Kangol\nI met this girl, she was off the chain yo\nCooley head model from San Diego\nFather was from Trinidad, Tobago\nMother was from Rio, de Janeiro\nShe said please don't think I'm crazy\nBut I've been in love with you since the 80's\n{?} cansando baby\nHave you ever been with a latin lady?\n[Chorus]\nUhh, she said there's one thing you should know\n(Just here to find to numero uno)\nUh-huh (and I'll do anything to prove it)\n(If I can get wit'cha)\nUhh, she said there's one thing you should know\n(Just here to find to numero uno)\nUh-huh (and there's so much I would do if)\n(If I can get wit'cha)\n\n[LL Cool J]\nShe said I wanna get wit'cha\nI'm talkin more than an autograph and picture\n(Tu quiere, benita mi casa)\nI mumbled to myself, she's a monster\nShe said (yo no se lo que no habla)\nDon't worry 'bout it lil' mama nada\nThe chemistry and energy was gettin hotter\nThis ain't like me but I feel like I gotta\nShe started movin near me\nWhispered in my ear so I could hear more clearly\nSaid grab my waist and look in the mirror\nThen started windin it like Shakira\nAll that shakin and belly dancin\nI was goin under, I ain't stand a chance man\nIf I do this, will I love it or regret it\nTempted and I don't know where this is headed\nYou might also like[Chorus]\n\n[LL Cool J]\n(Wit'cha, wit'cha) Uhh (uhh)\nYeah (si papi, uhh)\n(If I can get wit'cha)\n(Si papi, si) Uh-huh\n(Papi) If I can't get wit'cha\n\nThen she kept beggin sayin let's go\nPullin on my arm, wouldn't let go\nRubbin my face, kissin my neck slow\nMuy dulce, hanblando con carino\nShe said (ooh papi te quiero mucho)\n(I love you better than any woman you know)\nJust then my lady hit my cell phone\nI'll let y'all figure out the rest yo\n\n[Chorus]Embed"
+   }
+  },
+  {
+   "number": 11,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/29117",
+    "artist_names": "LL Cool J (Ft. 112)",
+    "full_title": "Down the Aisle by\u00a0LL\u00a0Cool J (Ft.\u00a0112)",
+    "header_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "id": 29117,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": null,
+    "path": "/Ll-cool-j-down-the-aisle-lyrics",
+    "pyongs_count": 1,
+    "relationships_index_url": "https://genius.com/Ll-cool-j-down-the-aisle-sample",
+    "release_date_components": {
+     "year": 2006,
+     "month": 4,
+     "day": 11
+    },
+    "release_date_for_display": "April 11, 2006",
+    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2006",
+    "song_art_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Down the Aisle",
+    "title_with_featured": "Down the Aisle (Ft.\u00a0112)",
+    "updated_by_human_at": 1517280377,
+    "url": "https://genius.com/Ll-cool-j-down-the-aisle-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/504",
+      "header_image_url": "https://images.genius.com/667c6d0b788b4ae9c85a62fb2d66300b.1000x562x1.png",
+      "id": 504,
+      "image_url": "https://images.genius.com/dae520601fa5a3af6e115aef5a466072.531x531x1.jpg",
+      "index_character": "0",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "112",
+      "slug": "112",
+      "url": "https://genius.com/artists/112"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/848",
+     "header_image_url": "https://images.genius.com/1f8c5f483b7ddc0ddb56c0dee3eae987.700x393x1.jpg",
+     "id": 848,
+     "image_url": "https://images.genius.com/15d300d053a0f87de225d10e4a5a3590.400x400x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LL Cool J",
+     "slug": "Ll-cool-j",
+     "url": "https://genius.com/artists/Ll-cool-j"
+    },
+    "artist": "LL Cool J",
+    "lyrics": "Down the Aisle Lyrics[LL Cool J w/ 112 harmonizing in the background]\nYeah, uh-huh\nI can't believe it\n\n[Chorus: 112]\nFinally I'm walking down that aisle\nNo need for the coping now\nI found the perfect partner waiting for me at the altar\nMade a vow before God to love me\nAnd finally I'm walking down that aisle\nI will never second guess us how\nWhen we're laughing together, and we're crying together\nHaving kids together, my life begins right now\n[LL Cool J]\nFinally the day has arrived\nI'm standing at the altar, you're walking down the aisle\nMy heart skips a beat, emotions run wild\nHalf of me is crying, the other half smiles\nI can feel my stomach turnin and tossin and goin through it\nI just can't believe it, I'm really 'bout to do it\nTake the vow to be together forever\nPlus promise I'ma be there, whenever, wherever\nThrough the ups and downs, through the darkest clouds\nSide by side in the rain 'til the sun comes out\nI was blind to love, God showed me you\nNow I'm standin here shakin 'bout to say \"I do\"\nAnd I do\n\n[Chorus]\n\n[LL Cool J]\nButterflies, my palms are sweaty\nIt's a lifetime commitment, I pray that I'm ready\nBut your eyes tell me not to worry, you're sincere\nCan't turn back now, destiny's why I'm here\nOur friends laugh as I take you by the hand\nBut they single and this a feeling that they don't understand\nYou're my partner for life, I'ma treat you right\nOur honeymoon's forever, not just tonight\nKnew the time was right, to be husband and wife\nUs both dressed alike in the purest white\nSuch a beautiful gown, friends and family around\nIgnore the cold feet now, time to take these vows\nYou might also like[Chorus]\n\n[LL Cool J]\nIt's a beautiful and heavenly day\nAs the pastor asks, \"Who gives this woman away?\"\nYour father says \"I do\" and gives me a hand\nPlus the tough guy, and I completely understand\nHe losin a diamond and now you're mine and\nHe don't have to worry, I'ma keep you shinin\nI'ma build us a future, I'ma keep on climbin\nWith our family on my back, cause that's my assignment\nI'ma work overtime, make sure y'all live\nBut still find time for you and homework with the kids\nTook a long time to learn, I was so hardheaded\nBut you stuck with me and you won't regret it, \"I do\"\n\n[Chorus]\n\n[112] + (LL)\nAnd I do (I do)\nBaby I do (I do)\nBaby I doooooooooooooooooooo\nWe made a vow baby\nI do (I do)\nBaby I do (I do)\nBaby I doooooooooooooooooooo\nFind that perfect partner, yeah yeah (I do)\nWaiting for me at the altar\nAnd I make a vow before God to love you\nFinally I'm walking down that aisle\nI'll, never second guess you {*fading out*}1Embed"
+   }
+  },
+  {
+   "number": 12,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/29126",
+    "artist_names": "LL Cool J (Ft. Mary Mary)",
+    "full_title": "We're Gonna Make It by\u00a0LL\u00a0Cool J (Ft.\u00a0Mary\u00a0Mary)",
+    "header_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "id": 29126,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": null,
+    "path": "/Ll-cool-j-were-gonna-make-it-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ll-cool-j-were-gonna-make-it-sample",
+    "release_date_components": {
+     "year": 2006,
+     "month": 4,
+     "day": 11
+    },
+    "release_date_for_display": "April 11, 2006",
+    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2006",
+    "song_art_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "We\u2019re Gonna Make It",
+    "title_with_featured": "We're Gonna Make It (Ft.\u00a0Mary\u00a0Mary)",
+    "updated_by_human_at": 1654459827,
+    "url": "https://genius.com/Ll-cool-j-were-gonna-make-it-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/7598",
+      "header_image_url": "https://images.genius.com/cdfe5e897f70d70cdf50c4581164f9f8.1000x1000x1.jpg",
+      "id": 7598,
+      "image_url": "https://images.genius.com/cdfe5e897f70d70cdf50c4581164f9f8.1000x1000x1.jpg",
+      "index_character": "m",
+      "is_meme_verified": false,
+      "is_verified": false,
+      "name": "Mary Mary",
+      "slug": "Mary-mary",
+      "url": "https://genius.com/artists/Mary-mary"
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/848",
+     "header_image_url": "https://images.genius.com/1f8c5f483b7ddc0ddb56c0dee3eae987.700x393x1.jpg",
+     "id": 848,
+     "image_url": "https://images.genius.com/15d300d053a0f87de225d10e4a5a3590.400x400x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LL Cool J",
+     "slug": "Ll-cool-j",
+     "url": "https://genius.com/artists/Ll-cool-j"
+    },
+    "artist": "LL Cool J",
+    "lyrics": "We\u2019re Gonna Make It Lyrics[Mary Mary]\nI know the Lord, will make a way\nHe will make a way, yessssssss he will\nYessssss, he willlllll\n\nOhhh, I do believe that we will make it\nYeahhh, yeahhh, yeahhh, yeahhhh\n\n[LL Cool J]\nUhh uhh\nI was at rock bottom, my whole life was mo' problems\nReincarnation of a slave pickin cotton\nStress beamin down like the sun I felt rotten\nTo the core, was at war, cause the enemy is plottin\nI hear him knockin, sayin that we got him\nHot like solar, he wanna burn my soul up\nWorld on my shoulders but I roll back ya boulders\nWords have a funny way of comin back to scold ya\nWatch what come out of your mouth, you crack a molar\nI tried to told ya, hehehe\nEnemies gunnin, true believers ain't runnin\nOr duckin, we ain't scared of nuttin, ya feel me?\nThey wanna test me and press my buttons, oh really?\nAllow Uncle L to hip y'all to somethin, uhh, uhh\nYeah, uhh, check it out\nThere's a living power, make a man out a coward\nRebuild your strength like the new Trade Towers\nI thought that I was over, my life got devoured\nNow I'm on top and I pray for all the doubters\nTime to shout it, sing it louder\n[Chorus: Mary Mary]\nYeahhhhh, we're gonna make it\nWe're gonna make it (we're gonna make it)\nThank God we made it (yeahhhhhhhhhhh)\nAnd I mean it, yeah yeah, oh yeah\n\n[LL Cool J]\nI was feelin like my whole world was spinnin and spillin\nOn the ground and that God wasn't willin\nIt seemed like the only ones ballin was the villains\nDollar signs in they eyes, lyin to our chill'un\nI wanna kill 'em, I'd rather God hit 'em\nThey sellin venom and we buyin it like denim\nThese world wide webs they weave, we caught in 'em\nOld folks is dyin and CEO's skimmin\nThe bat's in your hand and this is the 9th inning\nKeep your eyes on the ball when you swingin\nDon't be confused, don't be fooled by the wind-up\nStart switchin your position, make your mind up\nPull your bootstraps tight, get your grind up\nGet your life lined up before time's up\nYo, yo, you know what?\nTake ten percent of that, dough you tryin to stack\nSend it up to God, I guarantee he send it back\nMultiply it by a hundred times, y'all remember that\nThat's just a little jewel to get the monkey off your back\nUhh, yeah, sing it out now\nYou might also like[Chorus] w/ ad libs\n\n[LL Cool J]\nIn the darkest valley, through the loneliest alley\nNever give up, press on through the storm\nWeepin man fall, for the night seem long\nBut if you stand strong joy come within the morn'\nAnd it goes, on and on and on and on and on and-ah\nI know it feels like your back's to the wall\nWho's sittin in the crib, and you don't know who to call\n(Jesus!) Hangin on a tight rope, fingers slippin off\nBut you ain't by yourself dawg, we all been lost\nStay on your course, carry your cross\nAin't no stoppin, got to keep it poppin\nYou want it, you can get it, believe me the king did it\nNothin gonna hold you back, there's no limits\nI'm sent to bring truth to rap, not gimmicks\nAnd I'm not finished, man listen\nHere's the moral to the thesis, y'all cats need Jesus\nHe put your life back together, pick up the pieces\nWord to the masses, I heard God asked us\nFor less fake rappers, and more real pastors\nUh-huh, uh-huh, so hereafter\n\n[Chorus] - 2X w/ ad libs\n[Mary Mary] + (LL)\nWe made it, we made it\nThrough the storm and rain, yeahhhhhhh\nYou can make it, yes you can\nYou can make it, you got me\nI know you can, I know you can\nI know you can, yessssss, yeahhhhhhhhhhhhhhhhhhhhhhhhhhh\nI do believe we'll make it (Hallelujah!)\n(Glory! Glory!)Embed"
+   }
+  },
+  {
+   "number": 13,
+   "song": {
+    "_type": "song",
+    "annotation_count": 6,
+    "api_path": "/songs/29127",
+    "artist_names": "LL Cool J (Ft. Ne-Yo)",
+    "full_title": "So Sick (Remix) by\u00a0LL\u00a0Cool J (Ft.\u00a0Ne-Yo)",
+    "header_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "header_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "id": 29127,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 50,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1617507699,
+    "path": "/Ll-cool-j-so-sick-remix-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ll-cool-j-so-sick-remix-sample",
+    "release_date_components": {
+     "year": 2006,
+     "month": 4,
+     "day": 11
+    },
+    "release_date_for_display": "April 11, 2006",
+    "release_date_with_abbreviated_month_for_display": "Apr. 11, 2006",
+    "song_art_image_thumbnail_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.300x300x1.jpg",
+    "song_art_image_url": "https://images.genius.com/50ebefa7db96acfbb7b0d5b7113f0cba.1000x1000x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false,
+     "pageviews": 5167
+    },
+    "title": "So Sick (Remix)",
+    "title_with_featured": "So Sick (Remix) (Ft.\u00a0Ne-Yo)",
+    "updated_by_human_at": 1617507699,
+    "url": "https://genius.com/Ll-cool-j-so-sick-remix-lyrics",
+    "featured_artists": [
+     {
+      "_type": "artist",
+      "api_path": "/artists/375",
+      "header_image_url": "https://images.genius.com/ed9f6acbd575d4aed5a7e892fe55e8bd.780x440x1.jpg",
+      "id": 375,
+      "image_url": "https://images.genius.com/fc40344c8046c66aca1f3e51bbc1c7f2.744x744x1.jpg",
+      "index_character": "n",
+      "is_meme_verified": true,
+      "is_verified": true,
+      "name": "Ne-Yo",
+      "slug": "Ne-yo",
+      "url": "https://genius.com/artists/Ne-yo",
+      "iq": 2799
+     }
+    ],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/848",
+     "header_image_url": "https://images.genius.com/1f8c5f483b7ddc0ddb56c0dee3eae987.700x393x1.jpg",
+     "id": 848,
+     "image_url": "https://images.genius.com/15d300d053a0f87de225d10e4a5a3590.400x400x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LL Cool J",
+     "slug": "Ll-cool-j",
+     "url": "https://genius.com/artists/Ll-cool-j"
+    },
+    "artist": "LL Cool J",
+    "lyrics": "So Sick (Remix) Lyrics{*scratched: \"To the beat y'all\"*}\n\nSo, so sick... (TM)\n\n[Verse 1: LL Cool J]\nOh me? ... My name is L\nFirst of all you a banger, straight up and down\nI'm seein minks on your hangers\nI know your momma told you don't talk to strangers\nThat leads to dangerous situations, but I can't be patient\nYou need communication, appreciation\nRespect for your style instead of talkin all wild\nOne smile, you're daydreamin of walkin the aisle\nIn the waterbed, rollin around in a money pile\nBaby my format is not to be a doormat\nBut I still pull your chair out at the table and all that\nTouch your back softly, whatever it cost me\nTime money or energy, you will remember me\n[Verse 2: Ne-Yo]\nGotta change my answering machine, now that I'm alone\nCause right now it says that we, can't come to the phone\nAnd I know it makes no sense, cause you walked out the door\nBut it's the only way I hear your voice, anymore\n(It's ridiculous) It's been months, and for some reason I just\n(Can't get over us) And I'm stronger than this\n(Enough is enough) No more walkin 'round with my head down\nI'm so over bein blue, cryin over you; and\n\n[Hook: Ne-Yo]\nI'm so sick of love songs, so tired of tears\nSo done with wishin, you were still here\nSaid I'm so sick of love songs, so sad and slow\nSo why can't I turn off the radio?\n\n[Verse 3: Ne-Yo]\nGotta fix that calender I have, that's marked July 15th\nBecause since there's no more you, there's no more anniversary\nI'm so fed up with my thoughts of you, and your memory\nAnd how every song reminds me of what used to be; that's the reason\n\n[Hook: Ne-Yo]\nI'm so sick of love songs, so tired of tears\nSo done with wishin, you were still here\nSaid I'm so sick of love songs, so sad and slow\nSo why can't I turn off the radio?\nYou might also like[Interlude: Ne-Yo]\n(Leave me alone) Leave me alone\n(Stupid love songs) Don't make me think about her smile\nOr having my first child\nI'm lettin go, turnin off the radio\n\n[Verse 4: LL Cool J]\nI'mma keep you equipped in all of the best whips\nPay attention to detail, even your lipstick\nGive compliments when your pedicure switch\nWhen we on the mattress, you won't care if I'm rich\nI'll love you deeply, whisper sweetly\nEven when you critique me, you can still reach me\nBeats me why you sweeter than a peach be\nOne bite's enough sugar for the whole night\nYou'll be aight, you rollin with the Elvis of rap\nC'mon, move your pelvis and throw it back\nI know it's forward and it sounds a little blunt\nBut love money respect, whatever, pick what you want\n\n[Ne-Yo] That's the reason\n\n[Hook: Ne-Yo]\nI'm so sick of love songs, so tired of tears\nSo done with wishin, you were still here\nSaid I'm so sick of love songs, so sad and slow\nSo why can't I turn off the radio?\n[Ne-Yo] Said\n\n[Hook: Ne-Yo]\nI'm so sick of love songs, so tired of tears\nSo done with wishin, you were still here\nSaid I'm so sick of love songs, so sad and slow\nSo why can't I turn off the radio?\n\n[Ne-Yo] And\n\n[Hook: Ne-Yo]\nI'm so sick of love songs, so tired of tears\nSo done with wishin, you were still here\nSaid I'm so sick of love songs, so sad and slow\nSo why can't I turn off the radio?\n\n[Ne-Yo]\nWhy can't I turn off the radio?\n{*scratched: \"To the beat y'all\"*}Embed"
+   }
+  },
+  {
+   "number": 14,
+   "song": {
+    "_type": "song",
+    "annotation_count": 1,
+    "api_path": "/songs/823148",
+    "artist_names": "LL Cool J",
+    "full_title": "Control Myself (Nevins Elektrotek Mix) by\u00a0LL\u00a0Cool J",
+    "header_image_thumbnail_url": "https://images.genius.com/bf281e5cb935f47324d9295395b0567f.300x302x1.jpg",
+    "header_image_url": "https://images.genius.com/bf281e5cb935f47324d9295395b0567f.600x604x1.jpg",
+    "id": 823148,
+    "instrumental": false,
+    "language": "en",
+    "lyrics_owner_id": 126836,
+    "lyrics_state": "complete",
+    "lyrics_updated_at": 1545438850,
+    "path": "/Ll-cool-j-control-myself-nevins-elektrotek-mix-lyrics",
+    "pyongs_count": null,
+    "relationships_index_url": "https://genius.com/Ll-cool-j-control-myself-nevins-elektrotek-mix-sample",
+    "release_date_components": {
+     "year": 2006,
+     "month": null,
+     "day": null
+    },
+    "release_date_for_display": "2006",
+    "release_date_with_abbreviated_month_for_display": "2006",
+    "song_art_image_thumbnail_url": "https://images.genius.com/bf281e5cb935f47324d9295395b0567f.300x302x1.jpg",
+    "song_art_image_url": "https://images.genius.com/bf281e5cb935f47324d9295395b0567f.600x604x1.jpg",
+    "stats": {
+     "unreviewed_annotations": 0,
+     "hot": false
+    },
+    "title": "Control Myself (Nevins Elektrotek Mix)",
+    "title_with_featured": "Control Myself (Nevins Elektrotek Mix)",
+    "updated_by_human_at": 1545438948,
+    "url": "https://genius.com/Ll-cool-j-control-myself-nevins-elektrotek-mix-lyrics",
+    "featured_artists": [],
+    "primary_artist": {
+     "_type": "artist",
+     "api_path": "/artists/848",
+     "header_image_url": "https://images.genius.com/1f8c5f483b7ddc0ddb56c0dee3eae987.700x393x1.jpg",
+     "id": 848,
+     "image_url": "https://images.genius.com/15d300d053a0f87de225d10e4a5a3590.400x400x1.jpg",
+     "index_character": "l",
+     "is_meme_verified": false,
+     "is_verified": false,
+     "name": "LL Cool J",
+     "slug": "Ll-cool-j",
+     "url": "https://genius.com/artists/Ll-cool-j"
+    },
+    "artist": "LL Cool J",
+    "lyrics": "Control Myself (Nevins Elektrotek Mix) Lyrics[Intro: LL Cool J, Jermaine Dupri & Jennifer Lopez]\nThe strobelights are flashing\nYou got, you got, you got\nWhat it takes to make me leave my man\nI could feel my body yearning\nThe room just started turning\nYou got, you got, you got\nWhat it takes to make this boy be bad\nIt's hard to control myself\nIt's hard to control myself\nI need everybody to report to the dance floor right now\nNo me puedo controlar\nAqui con el Se\u00f1or LL Cool J\nY aqui estoy... ya tu sabes\nUno, dos, tres, muevete!\nY'all know what this is...So...So...Def!\nYou got, you got, you got\nWhat it takes to make me leave my man\nIt's hard to control myself\nIt's hard to control myself\nYou got, you got, you got\nWhat it takes to make this boy be bad\nIt's hard to control myself\nIt's hard to control myself\nThe strobelights are flashing\n[Verse 1: LL Cool J]\nThe club was far from empty (Uh)\nIt was crowded at the entry (Woo!)\nI slide right through like how I do\nThis girl began to tempt me (Uh-huh!)\nShe said her name Shayeeda\nI could tell her mama feed her (Yeah!)\nWhen they tight and thick them jeans don't fit\nI'm L, nice to meet ya (Uh-oh!)\nI could feel my body yearning (Uh)\nThe room just started turning\nDidn't want to go out on the floor\nBut this girl was so determined (Uh-huh!)\nMy brain began to sizzle (Come on)\nI'm sweatin' just a little\nOn the dance floor in the middle\nShe turned around and giggled\nShe said\n\n[Chorus: Jennifer Lopez & LL Cool J]\nYou got, you got, you got\nWhat it takes to make me leave my man\nIt's hard to control myself (Aww!)\nIt's hard to control myself\nYou got, you got, you got\nWhat it takes to make this boy be bad\nIt's hard to control myself (Haha)\nIt's hard to control myself (Come on)\nIt's hard for me to control myself (Me too)\nAnd to hold myself back from jumpin' on ya\nLike I wanna, like I wanna, wanna\nYou might also like[Verse 2: LL Cool J with Jennifer Lopez]\nTemptation is a mother (Uh-huh)\nHow we lust for one another (Yeah)\nWe barely know each other\nYet we're wilding like we're lovers (Uh-huh)\nThe air is full of passion (Haha)\nThe strobe lights are flashin' (Yeah)\nThe hustlers throw cashin'\nThe bartender keeps splashin' (Uh)\nHer moves were so erotic (Come on)\nHer gaze was so hypnotic (Come on)\nI begged this girl to stop it (Ha)\nBut she continued to pop it (Woo!)\nYou know I know you like it\nLet me hit you on your Sidekick (Yeah)\nBecause the after party is at my body\nMeet me, you're invited\nShe said\n\n[Chorus: Jennifer Lopez & LL Cool J]\nYou got, you got, you got\nWhat it takes to make me leave my man\nIt's hard to control myself\nIt's hard to control myself (Haha)\nYou got, you got, you got\nWhat it takes to make this boy be bad\nIt's hard to control myself\nIt's hard to control myself\nIt's hard for me to control myself (Say what?)\nAnd to hold myself back from jumpin' on ya\nLike I wanna, like I wanna, wanna\n[Verse 3: LL Cool J & Jermaine Dupri]\nShe licked, off, her lip, gloss (Oh)\nHer hips, tossed, back, and forth (Uh-huh)\nSide, to side, and up, and down (Hey, haha)\nShe touched, the ground, it turned, me out\nI'm battling desire (Uh-huh)\nLord help me douse this fire (Uh-huh)\nThis internal inferno\nHotter than a shot of Cuervo (Come on)\nHer top was short and purple\nBelly dancing in a circle\nWhen I feel like this I can't resist\nStop it, don't make me hurt you\nShe said\n\n[Chorus: Jennifer Lopez & LL Cool J]\nYou got, you got, you got\nWhat it takes to make me leave my man\nIt's hard to control myself\nIt's hard to control myself\nYou got, you got, you got\nWhat it takes to make this boy be bad\nIt's hard to control myself\nIt's hard to control myself\nIt's hard for me to control myself (Say what)\nAnd to hold myself back from jumpin' on ya (Uh-huh)\nLike I wanna, like I wanna, wanna\n\n[Bridge: LL Cool J w/ Jennifer Lopez]\nZihZih ZihZihZih\nZihZihZih ZihZih ZihZihZihZihZih\nZihZihZih ZihZih ZihZih ZihZih ZihZih ZihZih ZihZih\nZihZih ZihZihZih\nZihZihZih ZihZih ZihZihZihZihZih\nZihZihZih ZihZih ZihZih ZihZih ZihZih ZihZih ZihZih\n\n[Interlude: Jermaine Dupri]\nUh, yeah, I need everybody to report to the dance floor\nRight now\nWoo!\nYeah, uh-huh\n\n[Bridge: LL Cool J w/ Jennifer Lopez]\nZihZih ZihZihZih\nZihZihZih ZihZih ZihZihZihZihZih\nZihZihZih ZihZih ZihZih ZihZih ZihZih ZihZih ZihZih\nZihZih ZihZihZih\nZihZihZih ZihZih ZihZihZihZihZih\nZihZihZih ZihZih ZihZih ZihZih ZihZih ZihZih ZihZih\n\n[Interlude: Jermaine Dupri]\nI need everybody to report to the dance floor\nRight now\nWoo!\nYeah, uh-huh\n\n[Break: LL Cool J]\nShake it, shake it, shake it\nThe strobelights are flashing\nWoo!\nYeah, uh-huh\nThe strobelights are flashing\nI could feel my body yearning\nThe room just started turning\nI could feel my body yearning\nThe room just started turningEmbed"
+   }
+  }
+ ]
+}
