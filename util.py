@@ -18,10 +18,16 @@ RELEASE_DATE = "release_date"
 VERSE_ROOT = "verse_root"
 LINE_ELEMENT = "line_element"
 PERFORMER_NAME = "performer_name"
-LINE = "line"
+ANNOTATED_LINE = "annotated_line"
+RAW_LINE = "raw_line"
 
 DATA_FOLDER = "rapdata"
+ALBUM_FOLDER = "rapdata/albums"
 DATE_FORMAT = '%Y-%m-%d'
+
+UNKNOWN_PERFORMER = "<UNKNOWN PERFORMER>"
+
+UNKNOWN_TOKEN = "<UNK>"
 
 
 ANNOTATION_DELIMITER = "_"

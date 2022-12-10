@@ -5,21 +5,26 @@ Created on Nov 20, 2022
 '''
 
 import re
-import spacy
-from illmatic import dataloader
-nlp = spacy.load("en_core_web_sm")
+from illmatic import util
+import en_core_web_md
+#import en_core_web_trf
+
+nlp = en_core_web_md.load()
 
 POSSIBLE_LABELS = ["verse", "hook", "sample", "vocal", "vocals", "chorus", "intro", "outro", \
                    "guitar solo", "post-chorus", "refrain", "skit", "spoken", "outro skit", "interlude", "closing", "break", \
-                   "incomprehensible", ]
+                   "incomprehensible", "both", "instrumental", "all", "scratches", "pre"]
 
+
+def possibleGeniusLabels():
+    return POSSIBLE_LABELS
 
 def isLabelLine(line):
     return '[' in line
 
 def isExceptionLine(line):
     for label in POSSIBLE_LABELS:
-        if '[' + label + ']' in line.lower():
+        if '[' + label + ']' in line.lower() or "[-" + label + "-]" in line.lower():
             return True
     
     #todo: handle skits with UNK? or remove
@@ -36,9 +41,25 @@ def isExceptionLine(line):
 def isPerformerLine(line):
     return isLabelLine(line) and not isExceptionLine(line)
 
-def parseArtistsFromLabel(line):
+def removeSongStructure(line):
+    regex = "[Vv]erse[ ]*([0-9]|[I]*)?"
+    line = re.sub(regex, "", line)
+    regex = "VERSE[ ]*([0-9]|[I]*)?"
+    line = re.sub(regex, "", line)
     
-    #TODO handle things that are just [Hook] so it's the artist's name
+    if "hooker" not in line.lower():
+        
+        
+        regex = "[Hh]ook[ ]*[0-9]?"
+        line = re.sub(regex, "", line)
+    
+    line = re.sub("[Cc]horus","",line)
+    
+    line = re.sub("[Ii]ntro","",line)
+    return line
+
+def parseArtistsFromLabel(line,songArtist):
+    
     line = line.split("[")
     
     if(len(line) > 1):
@@ -46,25 +67,49 @@ def parseArtistsFromLabel(line):
     else:
         line = line[0]
         
+    # if the song
+    if(line.lower()=="hook" or line.lower()=="both" or line.lower()=="all"):
+        return [songArtist]
+        
+    line = line.split("]")[0]
+        
     regex = '\(?x[0-9]*\)?'
     line = re.sub(regex, "", line)
     
+    # clean out things like *sound effect* or *sample*
+    regex = "\*.*\*"
+    line = re.sub(regex, "", line)
+    
+    line = removeSongStructure(line)
+    
+    regex = "\".*\""
+    line = re.sub(regex, "", line)
+    
+    line = line.replace('ft.', '&')
+    line = line.replace('featuring.', '&')
     line = line.replace('[', '')
     line = line.replace(']', '')
     line = line.replace('/', ':')
+    line = line.replace("-", "")
 
     splitted = line.split(':')
     artists = splitted[0]
     if(len(splitted) > 1):
         artists = splitted[1]
     
+    # handle artists who have oddly formatted names
+    artists = artists.replace('Tyler,', 'Tyler')
+
+    
     artists = artists.replace(',', ' &')
     artists = artists.replace('+', ' &')
+    artists = artists.replace(' with ', ' & ')
+    artists = artists.replace(' and ', ' & ')
     artists = artists.split('&')
     cleaned = []
     
     for artist in artists:
-        if not artist.lower().strip() in POSSIBLE_LABELS and len(artist)>0: 
+        if not artist.lower().strip() in POSSIBLE_LABELS and len(artist)>0 and 'sample' not in artist.lower():
             artist = artist.replace('(', '')
             artist = artist.replace(')', '')
             cleaned.append(artist.strip())
@@ -75,7 +120,6 @@ def parseArtistsFromLabel(line):
 def annotateSong(song):
     # TODO: don't do this for every song?
     # TODO: Choose a better mode?
-    nlp = spacy.load("en_core_web_sm")
     doc = nlp(song)
     joined = ' '.join([f"{token.text}_{token.lemma_}_{token.pos_}" for token in doc])
 
@@ -90,14 +134,19 @@ def cleanRawLyrics(lyrics):
     """
     Cleans some errant HTML before processing
     """
-    regex = '[0-9]*Embed'
+    regex = '[0-9]*Embed[Share]?'
     lyrics = re.sub(regex, "", lyrics)
+    lyrics = re.sub("You might also like", "", lyrics)
+    lyrics = re.sub("URLCopy", "", lyrics)
+    lyrics = re.sub("EmbedCopy", "", lyrics)
+    lyrics = lyrics.replace("[?]", util.UNKNOWN_TOKEN)
+    lyrics = lyrics.replace("]","]\n") #split the tags so they are each on their own line
     return lyrics
 
 def getLyricsByArtist(rawLyrics, songArtist):
     rawLyrics = cleanRawLyrics(rawLyrics)
-    annotatedLines = annotateSong(rawLyrics).split("\n")
-    rawLines = [line for line in rawLyrics.split("\n") if line != "\n" and line != ""]
+    rawLines = [line for line in rawLyrics.split("\n") if line != "\n" and line.strip() != ""]
+    annotatedLines = annotateSong("\n".join(rawLines)).split("\n")
     artists = []
     lyrics = []
     lyricsBatch = []
@@ -109,16 +158,19 @@ def getLyricsByArtist(rawLyrics, songArtist):
             continue
         
         if (isPerformerLine(rawLine)):
-            newPerformers = parseArtistsFromLabel(rawLine)
+            newPerformers = parseArtistsFromLabel(rawLine,songArtist)
+
+        
             if (len(newPerformers)>0) and ("_".join(newPerformers) != currentArtist):
                 if(len(lyricsBatch)>0):
                     artists.append(currentArtist)
                     lyrics.append(lyricsBatch)
                 currentArtist = "_".join(newPerformers)
                 lyricsBatch = []
+
         
         else:
-            lyricsBatch.append(annotatedLine)
+            lyricsBatch.append((annotatedLine,rawLine))
     
     if(len(lyricsBatch) > 0):
         artists.append(currentArtist)
@@ -138,64 +190,6 @@ def removeGeniusLabels(rawLyrics):
     return "\n".join(cleanedLyrics)
 
 
+
+
     
-def getLyricsByArtistDEBUG(rawLyrics, songArtist, songTitle):
-    rawLyrics = cleanRawLyrics(rawLyrics)
-    annotatedLines = annotateSong(rawLyrics).split("\n")
-    rawLines = [line for line in rawLyrics.split("\n") if line != "\n" and line != ""]
-    artists = []
-    lyrics = []
-    lyricsBatch = []
-    currentArtist = songArtist
-    if (len(annotatedLines) != len(rawLines)):
-        print(f"Failed: {songTitle}")
-        with open("DEBUG.txt", "a+") as debugFile:
-            debugFile.write(f"{songTitle}-------------------------\n")
-            debugFile.write("\n".join(rawLines))
-            debugFile.write("\n".join(annotatedLines))
-        print()
-        
-    for rawLine, annotatedLine in zip(rawLines, annotatedLines):
-        
-        if (isExceptionLine(rawLine)):
-            continue
-        
-        if (isPerformerLine(rawLine)):
-            newPerformers = parseArtistsFromLabel(rawLine)
-            if (len(newPerformers)>0) and ("_".join(newPerformers) != currentArtist):
-                if(len(lyricsBatch)>0):
-                    artists.append(currentArtist)
-                    lyrics.append(lyricsBatch)
-                currentArtist = "_".join(newPerformers)
-                lyricsBatch = []
-        
-        else:
-            lyricsBatch.append(annotatedLine)
-    
-    if(len(lyricsBatch) > 0):
-        artists.append(currentArtist)
-        lyrics.append(lyricsBatch)
-    
-    return (artists, lyrics)
-
-
-
-"""
-song = lyrics[0]
-doc = nlp(song)
-for token in doc:
-    print(token.text, token.lemma_, token.pos_)
-
-
-for song in songs:
-
-    lines = song.split("\n")
-    for line in lines:
-        if isLabelLine(line):
-            print(line)
-            if(isPerformerLine(line)):
-                artists = parseArtistsFromLabel(line)
-                if(len(artists) > 0):
-                    print("_".join(artists))   
-"""
-

@@ -17,23 +17,22 @@ import xml.etree.ElementTree as ET
 
 
 
-
-def getFiles(artistNames = []):
+def getFiles(artistNames = [],dataFolder=util.DATA_FOLDER):
     artist_files = []
-    for dir_, _, files in os.walk(util.DATA_FOLDER):
- 
-        for filename in files:
-            fileInfo = os.path.splitext(filename)
-            
-            if(fileInfo[1] != ".json"):
-                continue
-            if(artistNames and fileInfo[0] not in artistNames):
-                continue
-            """
-            rel_dir = os.path.relpath(dir_, DATA_FOLDER)
-            rel_file = os.path.join(rel_dir, filename)
-            """
-            artist_files.append(filename)
+    for filename in os.listdir(dataFolder):
+        
+        fileInfo = os.path.splitext(filename)
+        
+        if(fileInfo[1] != ".json"):
+            continue
+        
+        if(artistNames and fileInfo[0] not in artistNames):
+            continue
+        """
+        rel_dir = os.path.relpath(dir_, DATA_FOLDER)
+        rel_file = os.path.join(rel_dir, filename)
+        """
+        artist_files.append(filename)
             
     return artist_files
         
@@ -80,18 +79,26 @@ def getJsonArtists(artistNames = []):
 
 
     
-def loadArtist(filename):
+def loadFile(filename,fileFolder=util.DATA_FOLDER):
     script_dir = os.path.dirname(os.path.abspath(__file__))
-    rel_path = util.DATA_FOLDER + "/" + filename
+    rel_path = fileFolder + "/" + filename
     abs_file_path = os.path.join(script_dir, rel_path)
     
     file = open(abs_file_path)
     artist = json.load(file)
     return artist
 
+
+
 def getReleaseDate(jsonSong):
-    
-    if jsonSong['release_date'] is None:
+    if 'release_date' in jsonSong and jsonSong['release_date'] is None:
+            return None
+        
+    elif 'release_date_components' in jsonSong:
+        components = eval(str(jsonSong['release_date_components']))
+        if components is not None and 'year' in components:
+            return components['year']
+        else:
             return None
     
     date = datetime.strptime(jsonSong['release_date'], util.DATE_FORMAT)
@@ -100,50 +107,18 @@ def getReleaseDate(jsonSong):
 
 def loadAllArtists():
     files = getFiles()
-    allArtists = [loadArtist(filename) for filename in files]
+    allArtists = [loadFile(filename,util.DATA_FOLDER) for filename in files]
     return allArtists
 
 
-def loadCorpusXMLTree():
-    return ET.parse(util.OUTFILE)
+def loadAlbums():
+    files = getFiles([],util.ALBUM_FOLDER)
+    allAlbums = [loadFile(filename, util.ALBUM_FOLDER) for filename in files]
+    return allAlbums
+
+def loadCorpusXMLTree(infile=util.OUTFILE):
+    return ET.parse(infile)
         
+
     
-
-files = getFiles()
-years = []
-for file in files:
-    artist = loadArtist(file)
-    for song in artist['songs']:
-        if song['release_date'] is None:
-            continue
-        
-        date = datetime.strptime(song['release_date'], util.DATE_FORMAT)
-        years.append(date.year)
-        
-years_distro = Counter(years)
-rounded = {}
-ignore_list = []
-for key in years_distro.keys():
-    if(key < 1950):
-        ignore_list.append(key)
-    else:
-        rounded_year = int(round(key/5.0)*5.0)
-        if(key in rounded):
-            rounded[rounded_year] += years_distro[key]
-        else:
-            rounded[rounded_year] = years_distro[key]
-    
-
-for key in ignore_list:
-    del years_distro[key]
-    
-plt.bar(years_distro.keys(), years_distro.values())
-
-plt.show()
-
-print(len(years))
-
-plt.bar(rounded.keys(), rounded.values())
-
-plt.show()
 
