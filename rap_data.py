@@ -15,7 +15,7 @@ failedArtists = []
 
 
 # a '    '-delimited tuple list of artist and album by the artist to download
-artist_albums = ["Young Dolph    Paper Route Illuminati","Logic    Bobby Tarantino III","Tyler, the Creator    Call Me If You Get Lost"]
+artist_albums = ["Tyler, The Creator    Goblin","Killer Mike    PL3DGE","Big K.R.I.T.    R4: The Prequel","Pitbull    Planet Pit","Canibus    Lyrical Law"]
 
 
 for artist_album in artist_albums:
@@ -46,8 +46,6 @@ with open("failed_artists.txt", "a" ) as file:
     file.write("\n")
     file.write("\n".join(failedArtists))
 
-print()
-print()
 
 print("Failed artists: ")
 for artist in failedArtists:

@@ -1,7 +1,7 @@
 '''
 Created on Nov 21, 2022
 
-@author: matth
+@author: EinsZwo
 '''
 
 from illmatic.song import Song

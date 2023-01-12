@@ -491,7 +491,7 @@ def tokensForArtist(artist_list=[]):
         
     print(f"Tokens: {sum(tok_len)}")
     print(f"Number of song artists: {len(tok_len)}")
-        
+    print(tok_artist)
 
 
 def yearDistributionXML():
@@ -538,4 +538,5 @@ def yearDistributionXML():
     
     plt.show()
 
+tokensForArtist(["T-Pain", "Lil Jon", "Doja Cat", "Pitbull", "Ice Spice", "Drake", "Megan Thee Stallion", "Cardi B", "2Pac", "Eminem","Notorious BIG", "Tyler, the Creator", "Rick Ross", "Nas", "Earl Sweatshirt", "Raekwon"])
 

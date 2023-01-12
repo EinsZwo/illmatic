@@ -1,13 +1,11 @@
 '''
-Created on Nov 20, 2022
 
-@author: matth
+@author: EinsZwo
 '''
 
 import re
 from illmatic import util
 import en_core_web_md
-#import en_core_web_trf
 
 nlp = en_core_web_md.load()
 
@@ -26,10 +24,7 @@ def isExceptionLine(line):
     for label in POSSIBLE_LABELS:
         if '[' + label + ']' in line.lower() or "[-" + label + "-]" in line.lower():
             return True
-    
-    #todo: handle skits with UNK? or remove
-    # todo: clean up
-    
+        
     for label in ["Verse", "Bridge", "Chorus", "Hook", "Skit"]:
         pattern = '\[' + label + '[ ]?[0-9]*]'
         if len(re.findall(pattern, line)) > 0:
@@ -116,14 +111,11 @@ def parseArtistsFromLabel(line,songArtist):
     
     return cleaned
 
-    #TODO better name
 def annotateSong(song):
-    # TODO: don't do this for every song?
-    # TODO: Choose a better mode?
+
     doc = nlp(song)
     joined = ' '.join([f"{token.text}_{token.lemma_}_{token.pos_}" for token in doc])
 
-    #TODO this is probably wrong since we're ending up with different lengths of stuff
     split = joined.split("\n")
     trimmed = [line.strip() for line in split if line.strip() != "_" and line.strip() != ""]
     joined = "\n".join(trimmed)
