@@ -1,7 +1,7 @@
 '''
-Created on Nov 22, 2022
+Main module for constructing the corpus.
 
-@author: matth
+@author: EinsZwo
 '''
 
 
@@ -15,20 +15,13 @@ from illmatic.dataloader import loadFile
 from collections import Counter
 import re
 
-def cleanArtistName(artistName):
-    return artistName.replace("&", "and")
 
-
-# TODO this is really stupid
-def setArtistName(artistRoot,artistName):
-    """
-    artistRoot.set(util.ARTIST_HEAD, {util.ARTIST_NAME: artistName})
-    """
-    artistRoot.set(util.ARTIST_NAME, artistName)
 
 
 def buildSongXML(song,artistRoot,releaseDate=""):    
-
+    """
+    Builds the XML subtree for a song and adds it to the artist root
+    """
     if(len(song['lyrics'].strip())==0): #skip instrumentals, or things that aren't transcribed on genius.com
         return
     
@@ -50,7 +43,9 @@ def buildSongXML(song,artistRoot,releaseDate=""):
     
 
 def buildArtistXML(jsonArtist):
-    
+    """
+    Builds the XML tree for an artist given a Genius API-downloaded artist file
+    """
     artistRoot = ET.Element(util.ARTIST_HEAD)
     for song in jsonArtist['songs']:
         artistName = song['artist']
@@ -65,6 +60,9 @@ def buildArtistXML(jsonArtist):
     
 
 def saveCorpusXML(root,filename=util.OUTFILE,verbose=False):
+    """
+    Write out the XML file for the corpus
+    """
     tree = ET.ElementTree(root)
     ET.indent(tree, "    ")
     if(verbose):
@@ -73,18 +71,19 @@ def saveCorpusXML(root,filename=util.OUTFILE,verbose=False):
     if(verbose):
         print("Done.")
 
+def setArtistName(artistRoot,artistName):
+    artistRoot.set(util.ARTIST_NAME, artistName)
+            
 
-        
-
-       
-
-# TODO Move and make less bad
 def getArtistName(artistHead):
     return artistHead.attrib[util.ARTIST_NAME]
-    
-            
+
+def cleanArtistName(artistName):
+    return artistName.replace("&", "and")
+
+
+
 def getArtist(corpusXML, artistName):
-    
     """
     Fetch the existing artist XML node, or create a new one if necessary
     """
@@ -102,12 +101,19 @@ def getArtist(corpusXML, artistName):
 
 
 def getExistingSongNames(artistRoot):
+    """
+    Helper function to get the list of song titles already in the corpus for a given artist.
+    Helpful to identify duplicates 
+    """
     songs = [song for song in artistRoot.iter(util.SONG_ROOT)]
     songNames = [song.attrib[util.SONG_NAME] for song in songs]
     return songNames
     
             
 def addSupplementalAlbums(writeFile=util.OUTFILE):
+    """
+    Load and parse data from .json albums downloaded from Genius.
+    """
     albums = dataloader.loadAlbums()
     corpusRoot = dataloader.loadCorpusXMLTree().getroot()
     for album in albums:
@@ -134,8 +140,10 @@ def addSupplementalAlbums(writeFile=util.OUTFILE):
     
     saveCorpusXML(corpusRoot, filename=writeFile,verbose=True)
                 
-def getArtistCounts(corpusRoot=None):
-    
+def getArtistCounts(corpusRoot=None, writeResults=False):
+    """
+    Helper method to find the number of songs each 'artist' in the corpus appears in.
+    """
     if corpusRoot is None:
         corpusRoot = dataloader.loadCorpusXMLTree().getroot()
 
@@ -156,15 +164,17 @@ def getArtistCounts(corpusRoot=None):
     
     artists = list(reversed(artists_count.most_common()))
     
-    with open("artist_names_num_songs.txt", "w+", encoding='utf-8') as outfile:
-        for artist in artists:
-            outfile.write(f"{artist[0]} : {artists_count[artist[0]]}\n")
+    if(writeResults):   
+        with open("artist_names_num_songs.txt", "w+", encoding='utf-8') as outfile:
+            for artist in artists:
+                outfile.write(f"{artist[0]} : {artists_count[artist[0]]}\n")
     
     return artists_count
 
     
             
 def cleanArtistNamesForErrors():
+ 
     corpusRoot = dataloader.loadCorpusXMLTree().getroot()
     
     
@@ -191,6 +201,11 @@ def cleanArtistNamesForErrors():
 
 
 def replaceInfrequentPerformers():
+    """
+    Attempt to clean up and remove any 'performers' parsed the labels on Genius lyrics.
+    As a heuristic, if a performer does not appear in > 1 song, discard it. Usually these are annotations for things like dialogue in skits
+    or where a vocal sample comes from
+    """
     corpusRoot = dataloader.loadCorpusXMLTree().getroot()
     artistCounts = getArtistCounts(corpusRoot)
     
@@ -228,6 +243,9 @@ def checkDuplicateSongs(artistNode):
     
     for title in songTitles:
         tempTitle=title.lower()
+        """
+        Don't double-count songs which might've ended up in the corpus two ways; e.g. as part of a compilation record
+        """
         if "remix" in tempTitle or "reprise" in tempTitle:
             
             regexes = ['[(]?reprise[)]?','[(]?remix[)]?']
@@ -265,14 +283,16 @@ def stripName(name):
     
     if name.startswith("the "):
         name = name[4:]
-        
-    
+
     return name
     
     
     
 def normalizeArtistNames(corpusRoot=None):
-    
+    """
+    Clean up names which might be transcriped differently by different people
+    E.g. Notorious BIG vs The Notorious B.I.G.
+    """
     if corpusRoot is None:
         corpusRoot = dataloader.loadCorpusXMLTree().getroot()
         
@@ -304,6 +324,10 @@ def normalizeArtistNames(corpusRoot=None):
                 
 
 def buildCorpus():
+    """
+    Main function to build the corpus from scratch.
+    Reads in .json artist files from the rapdata directory and .json album files from the rapdata/album directory
+    """
     print("Building ILLMATIC corpus...")
     print()
     print()

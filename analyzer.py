@@ -1,7 +1,6 @@
 '''
-Created on Nov 23, 2022
 
-@author: matth
+@author: EinsZwo
 '''
 
 
@@ -60,10 +59,8 @@ def countPartOfSpeechByYear(partOfSpeech):
     common = commonVerbs()
     for year in range(1980,2020):
         partOfSpeechForYear = []
-        if partOfSpeech == "PROPN":
-            partOfSpeechForYear = countProperNouns(year, year, corpusTree)
-        else:
-            partOfSpeechForYear = countPartOfSpeech(year,year,corpusTree, partOfSpeech)
+
+        partOfSpeechForYear = countPartOfSpeech(year,year,corpusTree, partOfSpeech)
         
         
         top = [item for item in partOfSpeechForYear.most_common(50) if item[0] not in common]
@@ -144,7 +141,7 @@ def getSongLyricsForArtist(artistName,corpusRoot=None,getTokens=False):
             performers = verse.get(util.PERFORMER_NAME).split("_")
             
             for performer in performers:
-                if stripName(performer)==simpleName: #TODO refactor so I can recycle this to all relevant searches
+                if stripName(performer)==simpleName:
                     if(getTokens):
                         lines = [line.get(util.ANNOTATED_LINE).split(" ") for line in verse.iter(util.LINE_ELEMENT)]
                         tokens = []
@@ -174,7 +171,7 @@ def getSongLyricsForYearRange(yearStart,yearEnd,corpusRoot=None,getTokens=False)
         
         year = int(year)
         
-        if(year>=yearStart and year<=yearEnd): #TODO refeactor
+        if(year>=yearStart and year<=yearEnd): #should be refactored
             if(getTokens):
                 lines = [line.get(util.ANNOTATED_LINE).split(" ") for line in song.iter(util.LINE_ELEMENT)]
                 tokens = []
@@ -538,5 +535,4 @@ def yearDistributionXML():
     
     plt.show()
 
-tokensForArtist(["T-Pain", "Lil Jon", "Doja Cat", "Pitbull", "Ice Spice", "Drake", "Megan Thee Stallion", "Cardi B", "2Pac", "Eminem","Notorious BIG", "Tyler, the Creator", "Rick Ross", "Nas", "Earl Sweatshirt", "Raekwon"])
 

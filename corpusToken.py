@@ -1,7 +1,7 @@
 '''
-Created on Nov 25, 2022
+Class for a single token in the corpus.
 
-@author: matth
+@author: EinsZwo
 '''
 
 from illmatic import util
